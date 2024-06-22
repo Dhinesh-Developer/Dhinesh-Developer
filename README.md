@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java developer
 - 💞️ I’m looking to collaborate on web applications
-- 📫 How to reach me linkedin Dhineshkumar M
+- 📫  linkedin Dhineshkumar M profile name
 
 
 <!---
