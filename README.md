@@ -47,8 +47,9 @@ I am a motivated and passionate full-stack Java developer, constantly learning a
 
 ## 📫 Connect with Me
 
-- *[LinkedIn](https://www.linkedin.com/in/yourprofile)*
-- *[Email](mailto:your.email@example.com)*
+- *[LinkedIn](https://www.linkedin.com/in/dhineshkumar-m-b75b1a283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
+- *[Email](mailto:dhineshdeveloper@gmail.com)*
+- *[Instagram](https://www.instagram.com/its_me_dk_07?igsh=MTI5Z3VnbHlpbHJ4aQ==)*
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,3 +59,24 @@ I am a motivated and passionate full-stack Java developer, constantly learning a
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+---
+
+## 🌟 Personal Philosophy
+
+I believe in the power of continuous learning and the importance of staying curious. As a developer, I am always on the lookout for new challenges that push me to expand my knowledge and skills. I embrace every opportunity to grow, whether it's through working on innovative projects or collaborating with others.
+
+---
+
+## 🚀 My Mission
+
+My mission is to leverage technology to create solutions that make a real difference in people's lives. I am passionate about building robust, scalable applications that solve complex problems efficiently. I strive to write clean, maintainable code and am dedicated to improving with each line I write.
+
+---
+
+## 🤝 Let's Collaborate
+
+I am always open to new opportunities, collaborations, and learning experiences. If you have a project in mind, or if you simply want to connect and exchange ideas, feel free to reach out. Together, we can create something amazing!
