@@ -32,13 +32,13 @@
 
 ## 📝 Projects and Contributions
 
-Here you can describe the projects you've worked on, providing links to the relevant repositories or files. Example:
-- *[FoodApp_DK](https://youtu.be/3KM3AmAcO84): A digital platform to explore various restaurants, menus, and place orders, offering a smooth user experience Git hub link(https://github.com/Dhinesh-Developer/Food_App_DD/tree/main). 
-- *[Electronics_APP](https://youtu.be/eLMI5XjPGwY): A platform for buying and exploring electronic gadgets with features like user reviews, product ratings, and secure transactions. Github link(https://github.com/Dhinesh-Developer/Electronics_App/tree/main)
+- [PORTFOLIO](https://dhinesh3369.neocities.org/PORTFOLIO_DK/Portfolio/dk) About Me
+- [FoodApp_DK](https://youtu.be/3KM3AmAcO84): A digital platform to explore various restaurants, menus, and place orders, offering a smooth user experience Git hub link(https://github.com/Dhinesh-Developer/Food_App_DD/tree/main). 
+- [Electronics_APP](https://youtu.be/eLMI5XjPGwY): A platform for buying and exploring electronic gadgets with features like user reviews, product ratings, and secure transactions. Github link(https://github.com/Dhinesh-Developer/Electronics_App/tree/main)
 - *[Online Gym](https://dhinesh3369.neocities.org/DKGYM/online%20GYM/html/page2)*: A digital platfrom for unfit person to Improve our fitness.
-- - *[Agro Connect](https://dhinesh3369.neocities.org/DHINESHKUMAR%20M/AgroLink/)*: A digital platform for rural farmers, built with Java, J2EE, and MySQL.
+- *[Agro Connect](https://dhinesh3369.neocities.org/DHINESHKUMAR%20M/AgroLink/)*: A digital platform for rural farmers, built with Java, J2EE, and MySQL.
 - *[Distance Monitoring Sensor](https://www.linkedin.com/posts/dhineshkumar-m-b75b1a283_hardware-iot-cse-activity-7235891052740558848-46Jr?utm_source=share&utm_medium=member_android)*: An IoT-based distance monitoring system using sensors.
-- - *[AquaPhonics](https://yourgithublink.com/aquaphonics): A project that combines aquaponics with agricultural practices, showcasing a sustainable way of farming and fish cultivation.
+ - *[AquaPhonics](https://yourgithublink.com/aquaphonics): A project that combines aquaponics with agricultural practices, showcasing a sustainable way of farming and fish cultivation.
 
 ---
 
