@@ -23,6 +23,11 @@
 
 ### Database Management:
 - *MySQL*
+-  *H2*
+
+  ### API:
+- *Postman*
+-  *Swagger*
 
 ### Tools & Platforms:
 - *GitHub*
