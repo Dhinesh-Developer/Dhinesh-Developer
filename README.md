@@ -43,7 +43,7 @@
 - *[Online Gym](https://dhinesh3369.neocities.org/DKGYM/online%20GYM/html/page2)*: A digital platfrom for unfit person to Improve our fitness.
 - *[Agro Connect](https://dhinesh3369.neocities.org/DHINESHKUMAR%20M/AgroLink/)*: A digital platform for rural farmers, built with Java, J2EE, and MySQL.
 - *[Distance Monitoring Sensor](https://www.linkedin.com/posts/dhineshkumar-m-b75b1a283_hardware-iot-cse-activity-7235891052740558848-46Jr?utm_source=share&utm_medium=member_android)*: An IoT-based distance monitoring system using sensors.
- - *[AquaPhonics](https://yourgithublink.com/aquaphonics): A project that combines aquaponics with agricultural practices, showcasing a sustainable way of farming and fish cultivation.
+ - *[AquaPhonics]([https://yourgithublink.com/aquaphonics):](https://dhinesh3369.neocities.org/SMART%20AQUAPHONICS/AQUAPONIC/home) A project that combines aquaponics with agricultural practices, showcasing a sustainable way of farming and fish cultivation.
 
 ---
 
