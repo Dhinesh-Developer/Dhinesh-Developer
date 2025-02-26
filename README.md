@@ -1,88 +1,12 @@
-# 💻 Full Stack Java Developer
+<h1 align="center">Hi 👋, I'm DhineshKumar M</h1>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
 
-### 🎓 Knowledge Institute of Technology, Salem 
-*Bachelor of Engineering in Computer Science and Engineering*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%e1%b4%85%ca%9c%c9%aa%c9%b4%e1%b4%87s%ca%9c%e1%b4%8b%e1%b4%9c%e1%b4%8d%e1%b4%80%ca%80-%e1%b4%8d-b75b1a283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e1%b4%85%ca%9c%c9%aa%c9%b4%e1%b4%87s%ca%9c%e1%b4%8b%e1%b4%9c%e1%b4%8d%e1%b4%80%ca%80-%e1%b4%8d-b75b1a283/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctjze4fayxeb4z1ks8ve_-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctjze4fayxeb4z1ks8ve_-g" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/dhineshdeveloper_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dhineshdeveloper_07/" height="30" width="40" /></a>
+</p>
 
----
-
-## 🛠 Technical Skills
-
-### Frontend Development:
-- *HTML*
-- *CSS*
-- *Bootstrap*
-- *JavaScript*
-
-### Backend Development:
-- *Java*
-- *JDBC*
-- *J2EE*
-- *JSP*
-- *Hibernate*
-- *Spring Framework*
-
-### Database Management:
-- *MySQL*
--  *H2*
-
-  ### API:
-- *Postman*
--  *Swagger*
-
-### Tools & Platforms:
-- *GitHub*
-- *Microsoft Excel*
-
----
-
-## 📝 Projects and Contributions
-
-- [PORTFOLIO](https://dhinesh3369.neocities.org/PORTFOLIO_DK/Portfolio/dk) About Me
-- [FoodApp_DK](https://youtu.be/3KM3AmAcO84): A digital platform to explore various restaurants, menus, and place orders, offering a smooth user experience Git hub link(https://github.com/Dhinesh-Developer/Food_App_DD/tree/main). 
-- [Electronics_APP](https://youtu.be/eLMI5XjPGwY): A platform for buying and exploring electronic gadgets with features like user reviews, product ratings, and secure transactions. Github link(https://github.com/Dhinesh-Developer/Electronics_App/tree/main)
-- *[Online Gym](https://dhinesh3369.neocities.org/DKGYM/online%20GYM/html/page2)*: A digital platfrom for unfit person to Improve our fitness.
-- *[Agro Connect](https://dhinesh3369.neocities.org/DHINESHKUMAR%20M/AgroLink/)*: A digital platform for rural farmers, built with Java, J2EE, and MySQL.
-- *[Distance Monitoring Sensor](https://www.linkedin.com/posts/dhineshkumar-m-b75b1a283_hardware-iot-cse-activity-7235891052740558848-46Jr?utm_source=share&utm_medium=member_android)*: An IoT-based distance monitoring system using sensors.
- - *[AquaPhonics]([https://yourgithublink.com/aquaphonics):](https://dhinesh3369.neocities.org/SMART%20AQUAPHONICS/AQUAPONIC/home) A project that combines aquaponics with agricultural practices, showcasing a sustainable way of farming and fish cultivation.
-
----
-
-## 🌱 About Me
-
-I am a motivated and passionate full-stack Java developer, constantly learning and expanding my knowledge in both frontend and backend technologies. My goal is to develop efficient and scalable applications that can make a positive impact.
-
----
-
-## 📫 Connect with Me
-
-- *[LinkedIn](https://www.linkedin.com/in/dhineshkumar-m-b75b1a283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
-- *[Email](mailto:dhineshdeveloper@gmail.com)*
-- *[Instagram](https://www.instagram.com/its__me__dk_07?igsh=MTI5Z3VnbHlpbHJ4aQ==)*
-- *[You Tube](https://www.youtube.com/channel/UCTjzE4FaYXEb4Z1KS8VE_-g)*
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
----
-
-## 🌟 Personal Philosophy
-
-I believe in the power of continuous learning and the importance of staying curious. As a developer, I am always on the lookout for new challenges that push me to expand my knowledge and skills. I embrace every opportunity to grow, whether it's through working on innovative projects or collaborating with others.
-
----
-
-## 🚀 My Mission
-
-My mission is to leverage technology to create solutions that make a real difference in people's lives. I am passionate about building robust, scalable applications that solve complex problems efficiently. I strive to write clean, maintainable code and am dedicated to improving with each line I write.
-
----
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
