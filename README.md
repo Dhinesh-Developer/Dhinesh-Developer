@@ -86,7 +86,3 @@ My mission is to leverage technology to create solutions that make a real differ
 
 ---
 
-## 🤝 Let's Collaborate
-
-I am always open to new opportunities, collaborations, and learning experiences. If you have a project in mind, or if you simply want to connect and exchange ideas, feel free to reach out. Together, we can create something amazing! 
-
