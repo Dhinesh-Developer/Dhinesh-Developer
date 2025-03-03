@@ -3,13 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhineshkumar-m-b75b1a283/" target="blank">
+  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCTJZE4FAYXEB4Z1KS8VE_-G" target="blank">
+  <a href="https://youtube.com/@dhineshdeveloper07?si=N6lkhv7PI5tIJab2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/dhineshdeveloper_07/" target="blank">
+  <a href="https://leetcode.com/u/dhineshdeveloper_07/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
