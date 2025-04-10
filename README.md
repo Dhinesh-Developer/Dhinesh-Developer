@@ -9,34 +9,52 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  Skilled Full Stack Java Developer 💻 with experience in 10+ major projects.<br>
-  🚀 Solved 200+ LeetCode problems<br>
-  🏆 Ranked 1st in school (11th & 12th grades)<br>
-  📊 Strong foundation in DSA & OOP<br>
-  🎓 Passionate about teaching and learning new tech!
+  I'm a passionate Full Stack Java Developer 💻 with hands-on experience in 10+ diverse projects.<br>
+  🚀 Solved over <strong>200+</strong> LeetCode problems and completed the <strong>100 Days of Code Challenge</strong> on LinkedIn 🎯<br>
+  🏆 Ranked 1st academically in both 11th and 12th grades<br>
+  📚 Solid understanding of Data Structures, Algorithms, and Object-Oriented Programming<br>
+  🌱 Always exploring new tools and frameworks to grow as a developer!
 </p>
 
 ---
 
-<h3 align="center">🔍 Portfolio & Contact</h3>
+<h3 align="center">📌 Portfolio & Contact</h3>
 <p align="center">
-  📏 <a href="https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk" target="_blank">My Portfolio</a><br>
-  ✉️ <strong>Email:</strong> dhineshdeveloper07@gmail.com
+  📂 <a href="https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk" target="_blank">My Portfolio</a><br>
+  📧 <strong>Email:</strong> dhineshdeveloper07@gmail.com
 </p>
 
 ---
 
-<h3 align="center">👥 Connect With Me</h3>
+<h3 align="center">🌐 Social Presence</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/dhineshkumar m" target="_blank">
+  <a href="https://www.linkedin.com/in/dhineshkumar-m-b75b1a283" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/c/dhineshdeveloper07" target="_blank">
+  <a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.leetcode.com/dhineshdeveloper_07" target="_blank">
+  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
   </a>
+</p>
+
+---
+
+<h3 align="center">💼 Experience</h3>
+<ul>
+  <li><strong>Software Development Intern</strong> at <em>NoviTech R&D, Coimbatore</em> — 2 months</li>
+  <li><strong>Software Development Engineer (SDE)</strong> at <em>Greefi Technology</em> — Present</li>
+</ul>
+
+---
+
+<h3 align="center">🧠 IDEs & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=eclipse,intellij,vscode,mysql,docker" />
+</p>
+<p align="center">
+  🖥️ Operating Systems: <strong>macOS</strong> & <strong>Windows</strong>
 </p>
 
 ---
@@ -48,43 +66,42 @@
 
 ---
 
-<h3 align="center">🔄 GitHub Stats</h3>
+<h3 align="center">📈 GitHub & LeetCode Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhinesh-Developer&theme=tokyonight&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
-<p align="center">
-<em>Here are some of my favorite projects:</em>
-</p>
-
-<ul>
-  <li>🔥 <strong>DK's Java Solutions:</strong> AI-powered Java learning platform</li>
-  <li>💼 <strong>DK's Job Portal:</strong> Campus placement and job portal</li>
-  <li>🛒 <strong>DK's Shopping Mart:</strong> E-commerce web application</li>
-  <li>🔍 <strong>DK's Search Engine:</strong> Search tool indexing 500+ websites</li>
-  <li>💻 <strong>DK's Coding Platform:</strong> Online multi-language IDE</li>
-  <li>🏫 <strong>College Management System:</strong> Admin panel for students, staff</li>
-  <li>📚 <strong>Library System:</strong> Book inventory & availability system</li>
-  <li>🎬 <strong>Movie Booking App:</strong> Online movie ticket system</li>
-  <li>🚄 <strong>Train Management System:</strong> Train booking and schedule app</li>
-  <li>💬 <strong>Real-Time Chat App:</strong> WebSocket-based live chat</li>
-  <li>🍔 <strong>FoodApp_DK:</strong> Digital restaurant ordering app</li>
-  <li>🚢 <strong>Ship Management System:</strong> Track cargo and ships globally</li>
-</ul>
+<h2 align="center">🚀 Featured Projects</h2>
+<table align="center">
+  <tr><td><strong>🔥 DK's Java Solutions</strong></td><td><a href="#">AI-driven Java & frontend learning platform</a></td></tr>
+  <tr><td><strong>💼 DK's Job Portal</strong></td><td><a href="#">Placement portal for DK Institute</a></td></tr>
+  <tr><td><strong>🛒 DK's Shopping Mart</strong></td><td><a href="#">Full-stack e-commerce application</a></td></tr>
+  <tr><td><strong>🔍 DK's Search Engine</strong></td><td><a href="#">Search engine indexing 500+ sites</a></td></tr>
+  <tr><td><strong>💻 DK's Coding Platform</strong></td><td><a href="#">Online multi-language compiler</a></td></tr>
+  <tr><td><strong>🏫 College Management System</strong></td><td><a href="#">Admin, staff, student dashboard</a></td></tr>
+  <tr><td><strong>📚 Library Management</strong></td><td><a href="#">Book tracking & availability system</a></td></tr>
+  <tr><td><strong>🎟 Movie Booking App</strong></td><td><a href="#">Book movie tickets online</a></td></tr>
+  <tr><td><strong>🚂 Train Management</strong></td><td><a href="#">Train schedules & booking</a></td></tr>
+  <tr><td><strong>💬 Real-Time Chat App</strong></td><td><a href="#">Chat app using WebSockets</a></td></tr>
+  <tr><td><strong>🍔 FoodApp_DK</strong></td><td><a href="#">Digital restaurant order system</a></td></tr>
+  <tr><td><strong>🚢 Ship Management</strong></td><td><a href="#">Global cargo/ship tracking</a></td></tr>
+</table>
 
 ---
 
 <p align="center">
-  <i>Thank you for visiting my GitHub profile!</i>
+  <i>Thanks for visiting my profile! Let’s connect and grow together 🚀</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Java+Developer;Spring+Boot+Expert;React+Frontend+Dev;DSA+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+Expert;React+Frontend+Dev;DSA+%7C+Problem+Solver" />
 </p>
 
 ---
