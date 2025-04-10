@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm DhineshKumar M</h1>
 <h3 align="center">A Passionate Full Stack Java Developer</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats-hareesh-r.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9" alt="Dhineshkumar's GitHub Stats" />
-</p>
 
 ---
 
@@ -87,9 +84,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-hareesh-r.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+
 
 ---
 
