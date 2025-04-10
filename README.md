@@ -1,38 +1,20 @@
-<h1 align="center">Hi 👋, I'm DhineshKumar M</h1>
-<h3 align="center">A Passionate Full Stack Java Developer</h3>
+<h1 align="center">Hi 👋, I'm DhineshKumar</h1>
+<h3 align="center">Full Stack Java Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinesh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="dhinesh-developer" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhinesh-developer" alt="dhinesh-developer" /></a> </p>
 
-<h3 align="center">🌐 Connect with me</h3>
+- 👨‍💻 All of my projects are available at [https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk](https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/dhineshdeveloper_07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+- 📫 How to reach me **dhineshdeveloper07@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhineshkumar m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhineshkumar m" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dhineshdeveloper07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhineshdeveloper07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhineshdeveloper_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhineshdeveloper_07" height="30" width="40" /></a>
 </p>
-
----
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -44,8 +26,14 @@
   🎓 Passionate about teaching programming concepts effectively
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh-developer&show_icons=true&locale=en&layout=compact" alt="dhinesh-developer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinesh-developer&show_icons=true&locale=en" alt="dhinesh-developer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhinesh-developer&" alt="dhinesh-developer" /></p>
 <h2 align="center">🚀 My Projects</h2>
 
 <table align="center">
@@ -62,30 +50,3 @@
   <tr><td>🍔 FoodApp_DK</td><td>Digital restaurant ordering platform</td></tr>
   <tr><td>🚢 Ship Management System</td><td>Manage ships, cargo, and routes</td></tr>
 </table>
-
----
-
-<h2 align="center">🛠 Technical Skills</h2>
-
-<h4 align="center">Frontend Development</h4>
-<p align="center">
-  ⚡ HTML, CSS, Bootstrap, JavaScript, React
-</p>
-
-<h4 align="center">Backend Development</h4>
-<p align="center">
-  ⚡ Java, JDBC, J2EE, JSP, Servlets, Spring Boot, Hibernate
-</p>
-
-<h4 align="center">Database</h4>
-<p align="center">
-  ⚡ MySQL, PostgreSQL
-</p>
-
----
-
-
-
----
-
-<p align="center">© 2024 <strong>DHINESHKUMAR</strong>. All rights reserved.</p>
