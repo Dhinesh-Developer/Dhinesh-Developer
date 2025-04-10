@@ -9,7 +9,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  I'm a passionate Full Stack Java Developer 💻 with hands-on experience in 10+ diverse projects.<br>
+  I'm a passionate Full Stack Java Developer 💻 with hands-on experience in 20+ diverse projects.<br>
   🚀 Solved over <strong>200+</strong> LeetCode problems and completed the <strong>100 Days of Code Challenge</strong> on LinkedIn 🎯<br>
   🏆 Ranked 1st academically in both 11th and 12th grades<br>
   📚 Solid understanding of Data Structures, Algorithms, and Object-Oriented Programming<br>
@@ -24,18 +24,19 @@
   📧 <strong>Email:</strong> dhineshdeveloper07@gmail.com
 </p>
 
+
 ---
 
 <h3 align="center">🌐 Social Presence</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/dhineshkumar-m-b75b1a283" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" alt="YouTube" />
   </a>
   <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
   </a>
 </p>
 
@@ -43,15 +44,21 @@
 
 <h3 align="center">💼 Experience</h3>
 <ul>
-  <li><strong>Software Development Intern</strong> at <em>NoviTech R&D, Coimbatore</em> — 2 months</li>
-  <li><strong>Software Development Engineer (SDE)</strong> at <em>Greefi Technology</em> — Present</li>
+  <li>
+    <img src="https://user-images.githubusercontent.com/124845812/265539546-00bfcaa5-79f2-46a5-8d42-8e5b5c23356e.png" width="25" />
+    <strong>Software Development Intern</strong> at <em>NoviTech R&D, Coimbatore</em> — 2 months
+  </li>
+  <li>
+    <img src="https://user-images.githubusercontent.com/124845812/265539548-e9ce10e5-eef7-4c33-8273-415316c45683.png" width="25" />
+    <strong>Software Development Engineer (SDE)</strong> at <em>Greefi Technology</em> — Present
+  </li>
 </ul>
 
 ---
 
 <h3 align="center">🧠 IDEs & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,intellij,vscode,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,colab" />
 </p>
 <p align="center">
   🖥️ Operating Systems: <strong>macOS</strong> & <strong>Windows</strong>
@@ -61,7 +68,7 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,html,css,bootstrap,go,mysql,postgres,git,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,javascript,react,html,css,bootstrap,go,mysql,postgres,git,docker,azure" />
 </p>
 
 ---
@@ -80,6 +87,7 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 <table align="center">
+   <tr><td><strong>🔥 ERP application </strong></td><td><a href="#">College project</a></td></tr>
   <tr><td><strong>🔥 DK's Java Solutions</strong></td><td><a href="#">AI-driven Java & frontend learning platform</a></td></tr>
   <tr><td><strong>💼 DK's Job Portal</strong></td><td><a href="#">Placement portal for DK Institute</a></td></tr>
   <tr><td><strong>🛒 DK's Shopping Mart</strong></td><td><a href="#">Full-stack e-commerce application</a></td></tr>
@@ -101,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+Expert;React+Frontend+Dev;DSA+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+Expert;React+Frontend+Developer;DSA+%7C+Problem+Solver" />
 </p>
 
 ---
