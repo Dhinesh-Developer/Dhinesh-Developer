@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DhineshKumar M</h1>
 <h3 align="center">A passionate Full Stack Java Developer</h3>
+[![Dhineshkumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer)](https://github.com/Dhinesh-Developer/github-readme-stats)
 
 ---
 
