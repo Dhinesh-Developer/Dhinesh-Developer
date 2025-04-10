@@ -1,51 +1,95 @@
 <h1 align="center">Hi 👋, I'm DhineshKumar</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Developer" /> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk](https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk)
-
-- 📫 How to reach me **dhineshdeveloper07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhineshkumar m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhineshkumar m" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhineshdeveloper07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhineshdeveloper07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhineshdeveloper_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhineshdeveloper_07" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Developer" />
 </p>
+
+---
 
 <h2 align="center">👨‍💻 About Me</h2>
-
 <p align="center">
-  Hi Visitors! I am a skilled Full Stack Java Developer 💻 with experience in over five projects. <br>
-  🚀 Solved 200+ problems on LeetCode 🎯 <br>
-  🥇 Ranked 1st in school during 11th & 12th grades <br>
-  📊 Strong foundation in Data Structures & Algorithms (DSA) <br>
-  🎓 Passionate about teaching programming concepts effectively
+  Skilled Full Stack Java Developer 💻 with experience in 10+ major projects.<br>
+  🚀 Solved 200+ LeetCode problems<br>
+  🏆 Ranked 1st in school (11th & 12th grades)<br>
+  📊 Strong foundation in DSA & OOP<br>
+  🎓 Passionate about teaching and learning new tech!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh-developer&show_icons=true&locale=en&layout=compact" alt="dhinesh-developer" /></p>
+<h3 align="center">🔍 Portfolio & Contact</h3>
+<p align="center">
+  📏 <a href="https://dhinesh3369.neocities.org/DhineshKumar/portfolio/dk" target="_blank">My Portfolio</a><br>
+  ✉️ <strong>Email:</strong> dhineshdeveloper07@gmail.com
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinesh-developer&show_icons=true&locale=en" alt="dhinesh-developer" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&" alt="dhinesh-developer" /></p>
-<h2 align="center">🚀 My Projects</h2>
+<h3 align="center">👥 Connect With Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/dhineshkumar m" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/c/dhineshdeveloper07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
+  </a>
+  <a href="https://www.leetcode.com/dhineshdeveloper_07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+  </a>
+</p>
 
-<table align="center">
-  <tr><td>🔥 DK's Java Solutions</td><td>AI-driven platform for Java & frontend resources</td></tr>
-  <tr><td>💼 DK's Job Portal</td><td>Job portal for DK Institute of Technology</td></tr>
-  <tr><td>🛒 DK's Shopping Mart</td><td>Full-stack e-commerce platform</td></tr>
-  <tr><td>🔍 DK's Search Engine</td><td>Search engine indexing over 500 sites</td></tr>
-  <tr><td>💻 DK's Coding Platform</td><td>Multi-language online coding platform</td></tr>
-  <tr><td>🏫 College Management System</td><td>System for students, staff & admin</td></tr>
-  <tr><td>📚 Library Management System</td><td>Tracks books and their availability</td></tr>
-  <tr><td>🎟 DK's Movie Booking App</td><td>Book movie tickets online</td></tr>
-  <tr><td>🚂 DK's Train Management</td><td>Handles train schedules and booking</td></tr>
-  <tr><td>💬 DK's Real-Time Chat App</td><td>Chat app using WebSockets</td></tr>
-  <tr><td>🍔 FoodApp_DK</td><td>Digital restaurant ordering platform</td></tr>
-  <tr><td>🚢 Ship Management System</td><td>Manage ships, cargo, and routes</td></tr>
-</table>
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,html,css,bootstrap,go,mysql,postgres,git,docker,azure" />
+</p>
+
+---
+
+<h3 align="center">🔄 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhinesh-Developer&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+<p align="center">
+<em>Here are some of my favorite projects:</em>
+</p>
+
+<ul>
+  <li>🔥 <strong>DK's Java Solutions:</strong> AI-powered Java learning platform</li>
+  <li>💼 <strong>DK's Job Portal:</strong> Campus placement and job portal</li>
+  <li>🛒 <strong>DK's Shopping Mart:</strong> E-commerce web application</li>
+  <li>🔍 <strong>DK's Search Engine:</strong> Search tool indexing 500+ websites</li>
+  <li>💻 <strong>DK's Coding Platform:</strong> Online multi-language IDE</li>
+  <li>🏫 <strong>College Management System:</strong> Admin panel for students, staff</li>
+  <li>📚 <strong>Library System:</strong> Book inventory & availability system</li>
+  <li>🎬 <strong>Movie Booking App:</strong> Online movie ticket system</li>
+  <li>🚄 <strong>Train Management System:</strong> Train booking and schedule app</li>
+  <li>💬 <strong>Real-Time Chat App:</strong> WebSocket-based live chat</li>
+  <li>🍔 <strong>FoodApp_DK:</strong> Digital restaurant ordering app</li>
+  <li>🚢 <strong>Ship Management System:</strong> Track cargo and ships globally</li>
+</ul>
+
+---
+
+<p align="center">
+  <i>Thank you for visiting my GitHub profile!</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Java+Developer;Spring+Boot+Expert;React+Frontend+Dev;DSA+%7C+Problem+Solver" />
+</p>
+
+---
+
+<p align="center">
+  © 2025 <strong>DhineshKumar</strong> — All rights reserved
+</p>
+
