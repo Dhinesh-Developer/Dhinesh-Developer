@@ -55,7 +55,7 @@
 
 <h3 align="center">🧠 IDEs & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,colab" />
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker" />
 </p>
 
 
@@ -63,7 +63,7 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,html,css,bootstrap,dsa,mysql,git,docker,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,html,css,bootstrap,mysql,git,docker,postman,aws" />
 </p>
 
 ---
