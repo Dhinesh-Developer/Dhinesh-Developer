@@ -47,7 +47,7 @@
 
   <li>
     <img src="[https://user-images.githubusercontent.com/124845812/265539548-e9ce10e5-eef7-4c33-8273-415316c45683.png](https://images.app.goo.gl/WawdfseVZnVQUXMx7)" width="25" />
-    <strong>Full stack Developer</strong> at <em> NoviTech R&D , salem</em> — oct-sep(2024)
+    <strong>Full stack Developer</strong> at <em> NoviTech R&D , Coimbatore</em> — oct-sep(2024)
   </li>
 </ul>
 
