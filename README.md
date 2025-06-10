@@ -10,7 +10,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   I'm a passionate Full Stack Java Developer 💻 with hands-on experience in 20+ diverse projects.<br>
-  🚀 Solved over <strong>200+</strong> LeetCode problems and completed the <strong>100 Days of Code Challenge</strong> on LinkedIn 🎯<br>
+  🚀 Solved over <strong>350+</strong> LeetCode problems and completed the <strong>100 Days of Code Challenge</strong> on LinkedIn 🎯<br>
   🏆 Ranked 1st academically in both 11th and 12th grades<br>
   📚 Solid understanding of Data Structures, Algorithms, and Object-Oriented Programming<br>
   🌱 Always exploring new tools and frameworks to grow as a developer!
