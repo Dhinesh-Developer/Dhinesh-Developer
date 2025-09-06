@@ -55,15 +55,16 @@
 
 ### 🧠 IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,linux,windows" alt="Eclipse IntelliJ VSCode MySQL Docker Linux Windows" />
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,linux,windows" 
+       alt="Eclipse IntelliJ VSCode MySQL Docker Linux Windows" />
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,springsecurity,springai,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,h2,mongodb"
-       alt="Java Spring SpringBoot SpringSecurity SpringAI Hibernate JavaScript React Tailwind HTML CSS Bootstrap MySQL Git Docker Postman AWS Python PostgreSQL H2 MongoDB" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,spring-security,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
+       alt="Java, Spring, Spring Boot, Spring Security, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
 </p>
 
 
