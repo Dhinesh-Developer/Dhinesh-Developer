@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm DhineshKumar M</h1>
-<h3 align="center">Full Stack Java Developer & Software development Engineer & DSA & System Designer(LLD)</h3>
+<h1 align="center">👋 Hey Techies, I'm Dhinesh Kumar M</h1>
+<h3 align="center">
+  💻 Full Stack Java Developer | 🚀 Software Development Engineer | 📊 DSA Problem Solver | 🏗️ System Designer (LLD) 
+</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Developer" />
@@ -70,15 +73,6 @@
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
        alt="Java, Spring, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
-
-  <!-- Extra Icons -->
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-structures-computer-programming-flaticons-lineal-color-flat-icons.png" 
-       alt="DSA" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-system-design-web-flaticons-flat-flat-icons.png" 
-       alt="System Design LLD" width="48" height="48"/>
-</p>
-
-
 
 ---
 
