@@ -15,7 +15,7 @@
   🚀 Solved over <strong>1000+</strong> coding problems across platforms including <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong><br>
   💡 Built <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
   🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and a <strong>1-year LeetCode streak</strong><br>
-  📚 Strong foundation in <strong>Data Structures, Algorithms, OOP, MVC Architecture, and System Design (LLD)</strong><br>
+  📚 Strong foundation in <strong>Data Structures, Algorithms, Backend Logic writing for applications.</strong><br>
   🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and currently served as the <strong>School Pupil Leader</strong><br>
 </p>
 
@@ -67,9 +67,17 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,spring-security,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
        alt="Java, Spring, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
+
+  <!-- Extra Icons -->
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-structures-computer-programming-flaticons-lineal-color-flat-icons.png" 
+       alt="DSA" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-system-design-web-flaticons-flat-flat-icons.png" 
+       alt="System Design LLD" width="48" height="48"/>
 </p>
+
 
 
 ---
