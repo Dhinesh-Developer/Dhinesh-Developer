@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DhineshKumar M</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Full Stack Java Developer & Software development Engineer & DSA & System Designer(LLD)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Developer" />
@@ -9,11 +9,15 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  I'm a passionate Full Stack Java Developer 💻 with hands-on experience in 20+ diverse projects.<br>
-  🚀 Solved over <strong>350+</strong> LeetCode problems and completed the <strong>100 Days of Code Challenge</strong> on LinkedIn 🎯<br>
-  🏆 Ranked 1st academically in both 11th and 12th grades<br>
-  📚 Solid understanding of Data Structures, Algorithms, and Object-Oriented Programming<br>
-  🌱 Always exploring new tools and frameworks to grow as a developer!
+  I’m a passionate <strong>Full Stack Java Developer</strong> with proven expertise in building scalable applications and solving complex problems.<br><br>
+
+  🤝 Executive Member of <strong>Scientel Association</strong>, active in <strong>Synergy Squad 3.0 (Top Performer)</strong>, and <strong>Mobile & Web Development Club</strong><br>
+  🚀 <strong>1000+</strong> coding problems solved across platforms (LeetCode, GeeksforGeeks, etc.)<br>
+  💡 Developed <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
+  🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and <strong>1-year LeetCode streak</strong><br>
+  📚 Strong foundation in <strong>Data Structures, Algorithms, and OOPS and MVC and System design(LLD)</strong><br>
+  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and serving as <strong>School Pupil Leader</strong><br>
+
 </p>
 
 ---
@@ -64,7 +68,7 @@
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,springboot,spring-security,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
-       alt="Java, Spring, Spring Boot, Spring Security, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
+       alt="Java, Spring, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
 </p>
 
 
