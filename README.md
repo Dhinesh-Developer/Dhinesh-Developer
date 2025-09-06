@@ -53,18 +53,19 @@
 
 ---
 
-<h3 align="center">🧠 IDEs & Tools</h3>
+### 🧠 IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,linux,windows" alt="Eclipse IntelliJ VSCode MySQL Docker Linux Windows" />
 </p>
-
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,springsecurity,springai,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,springsecurity,springai,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,h2,mongodb"
+       alt="Java Spring SpringBoot SpringSecurity SpringAI Hibernate JavaScript React Tailwind HTML CSS Bootstrap MySQL Git Docker Postman AWS Python PostgreSQL H2 MongoDB" />
 </p>
+
 
 ---
 
