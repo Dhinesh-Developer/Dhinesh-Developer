@@ -9,16 +9,16 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  I’m a passionate <strong>Full Stack Java Developer</strong> with proven expertise in building scalable applications and solving complex problems.<br><br>
+  I am a passionate <strong>Full Stack Java Developer</strong> with proven expertise in building scalable applications and solving complex problems.<br><br>
 
-  🤝 Executive Member of <strong>Scientel Association</strong>, active in <strong>Synergy Squad 3.0 (Top Performer)</strong>, and <strong>Mobile & Web Development Club</strong><br>
-  🚀 <strong>1000+</strong> coding problems solved across platforms (LeetCode, GeeksforGeeks, etc.)<br>
-  💡 Developed <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
-  🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and <strong>1-year LeetCode streak</strong><br>
-  📚 Strong foundation in <strong>Data Structures, Algorithms, and OOPS and MVC and System design(LLD)</strong><br>
-  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and serving as <strong>School Pupil Leader</strong><br>
-
+  🤝 Executive Member at <strong>Scientel Association</strong>, <strong>Top Performer</strong> in <strong>Synergy Squad 3.0</strong>, and active member at <strong>Mobile & Web Development Club</strong><br>
+  🚀 Solved over <strong>1000+</strong> coding problems across platforms including <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong><br>
+  💡 Built <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
+  🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and a <strong>1-year LeetCode streak</strong><br>
+  📚 Strong foundation in <strong>Data Structures, Algorithms, OOP, MVC Architecture, and System Design (LLD)</strong><br>
+  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and currently served as the <strong>School Pupil Leader</strong><br>
 </p>
+
 
 ---
 
@@ -86,24 +86,133 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-<table align="center">
-   <tr><td><strong>🔥 ERP application </strong></td><td><a href="#">College project</a></td></tr>
-  <tr><td><strong>🔥 DK's Java Solutions</strong></td><td><a href="https://youtu.be/Drr9xaAgru8?si=RkZP8dbXJAIsZGuK">AI-driven Java & frontend learning platform</a></td></tr>
-   <tr><td><strong>Fab Food</strong></td><td><a href="https://youtu.be/barE-6OOtso?si=gAB6firIiFBlYRt6">Swiggy clone</a></td></tr>
-    <tr><td><strong>Save Life</strong></td><td><a href="https://youtu.be/HuXWSw10hcI?si=Uf8V1mNGYGHrQVov">AI based Application</a></td></tr>
-  <tr><td><strong>💼 DK's Job Portal</strong></td><td><a href="https://youtu.be/h4Xdw9kJx5I?si=aX-xAjdKX_OneRUl">Placement portal for DK Institute</a></td></tr>
-  <tr><td><strong>🛒 DK's Shopping Mart</strong></td><td><a href="https://youtu.be/mxIsUyh_IZo?si=c0k5xHkkRD1UgF-Z">Full-stack e-commerce application</a></td></tr>
-  <tr><td><strong>🔍 DK's Search Engine</strong></td><td><a href="https://youtu.be/nd5BVeHq1Qg?si=R0BqE5gglNK65T6W">Search engine indexing 500+ sites</a></td></tr>
-  <tr><td><strong>💻 DK's Coding Platform</strong></td><td><a href="https://youtu.be/vpLkG5J8oQo?si=z960myWmr3ffaqh1">Online multi-language compiler</a></td></tr>
-  <tr><td><strong>🏫 College Management System</strong></td><td><a href="https://youtu.be/5IChLrZge58?si=m-cMNYIJi-njbHRr">Admin, staff, student dashboard</a></td></tr>
-  <tr><td><strong>📚 Library Management</strong></td><td><a href="https://youtu.be/b26T8JFV5Cw?si=OcbHYBsAsizxvR9t">Book tracking & availability system</a></td></tr>
-  <tr><td><strong>🎟 Movie Booking App</strong></td><td><a href="https://youtu.be/Ez6Cm533KPc?si=QaG8MtJLRKXmcilX">Book movie tickets online</a></td></tr>
+<h2 align="center">🚀 Full Stack Projects</h2>
+<table align="center" border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/nike.png" width="35"/></td>
+    <td><strong>🔥 Nike Clone</strong><br><small>E-commerce frontend clone using React + Tailwind</small></td>
+    <td><a href="https://youtu.be/kEiB6lgMgt4?si=k7GjvQBSDSrlkcGg">🎥 Watch Demo</a></td>
+  </tr>
 
-  <tr><td><strong>💬 Real-Time Chat App</strong></td><td><a href="https://youtu.be/CdfYt9P8lVs?si=unGm3bEDOzkTahql">Chat app using WebSockets</a></td></tr>
-  <tr><td><strong>🍔 FoodApp_DK</strong></td><td><a href="https://youtu.be/3KM3AmAcO84?si=9KkmvlsWtSNYiUB1">Digital restaurant order system</a></td></tr>
- 
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/restaurant.png" width="35"/></td>
+    <td><strong>🍔 Fab Food</strong><br><small>Food ordering system like Swiggy/Zomato</small></td>
+    <td><a href="https://youtu.be/wLidDe47nvw?si=7TD50pS64me_w_-g">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/bank.png" width="35"/></td>
+    <td><strong>💰 QPay</strong><br><small>Banking web app with secure transactions</small></td>
+    <td><a href="https://youtu.be/SFa8uYxNwfk?si=mQKCHPIrsxIHsT3G">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/link.png" width="35"/></td>
+    <td><strong>🔗 Linklytics</strong><br><small>Smart link tracker and analytics platform</small></td>
+    <td><a href="https://youtu.be/IUjeTCqoigc?si=-tHI7TNmlmB8jbg5v">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/search.png" width="35"/></td>
+    <td><strong>🔍 DK's Search Engine</strong><br><small>Indexes 500+ sites with custom crawler</small></td>
+    <td><a href="https://youtu.be/nd5BVeHq1Qg?si=R0BqE5gglNK65T6W">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/chat.png" width="35"/></td>
+    <td><strong>💬 Real-Time Chat App</strong><br><small>WebSocket-powered messaging system</small></td>
+    <td><a href="https://youtu.be/CdfYt9P8lVs?si=unGm3bEDOzkTahql">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/code.png" width="35"/></td>
+    <td><strong>🔥 DK's Java Solutions</strong><br><small>AI-assisted Java & frontend tutorials</small></td>
+    <td><a href="https://youtu.be/Drr9xaAgru8?si=RkZP8dbXJAIsZGuK">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/planner.png" width="35"/></td>
+    <td><strong>📅 Class Scheduler & Task Manager</strong><br><small>Organize classes, tasks, and reminders</small></td>
+    <td><a href="https://youtu.be/KpxKHUk3lcI?si=3lA6BAAo-pImvc6R">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/news.png" width="35"/></td>
+    <td><strong>📰 News Portal System</strong><br><small>Live news publishing web app</small></td>
+    <td><a href="https://youtu.be/nRHQMlDzZys?si=0LV4_JQR1Dg1bI6Q">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/resume.png" width="35"/></td>
+    <td><strong>💼 DK's Job Portal</strong><br><small>Placement and job posting portal</small></td>
+    <td><a href="https://youtu.be/h4Xdw9kJx5I?si=aX-xAjdKX_OneRUl">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/first-aid-kit.png" width="35"/></td>
+    <td><strong>❤️ Save Life</strong><br><small>AI-driven emergency support app</small></td>
+    <td><a href="https://youtu.be/HuXWSw10hcI?si=Uf8V1mNGYGHrQVov">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/research.png" width="35"/></td>
+    <td><strong>📊 Smart Research Assistant</strong><br><small>AI-powered academic helper</small></td>
+    <td><a href="https://youtu.be/ZsuKhFY700g?si=GHHKSvmvwonH05yB">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/gmail.png" width="35"/></td>
+    <td><strong>📧 AI Email Reply Generator</strong><br><small>Generates professional AI-based replies</small></td>
+    <td><a href="https://youtu.be/waFMnzsvv1Y?si=HslLT7FfnqPv_OBr">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/docker.png" width="35"/></td>
+    <td><strong>🐳 Dockering a Spring Boot App</strong><br><small>Containerized deployment</small></td>
+    <td><a href="https://youtu.be/mcTk_ktdZCs?si=1W2Eub6ls6sRUkmn">🎥 Watch Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/system-task.png" width="35"/></td>
+    <td><strong>🔥 ERP Application</strong><br><small>End-to-end college ERP project</small></td>
+    <td><a href="#">💻 Project Details</a></td>
+  </tr>
 </table>
+
+ 
+
+### 📂 Systems & Applications
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛒 **Supermarket Billing System** | Console app to generate customer bills, calculate discounts & manage purchases | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| ✈️ **Flight Ticket Booking System** | Ticket booking with passenger info, seat allocation & billing | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚧 **Toll Payment Processing System** | Vehicle toll management with automated billing | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚌 **Bus Ticket Booking System** | Passenger data, seat availability & booking confirmation | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📧 **Mail Management System** | Console-based email sender/receiver simulation | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📂 **File Management System** | Create, update, search & delete files via CLI | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🎉 **Event Management System** | Register, schedule & manage events | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚆 **Railway Ticket Booking System** | Train schedules, passenger info & booking | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚖 **Taxi Booking System** | Manage drivers, bookings & trip calculations | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧑‍💼 **Employee Management System** | Employee records with salary & attendance tracking | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📦 **Inventory Management System** | Manage stock, orders & suppliers | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧾 **Invoice Management System** | Generate customer invoices with tax calculations | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📚 **Library Management System** | Track books, borrowers & returns | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📍 **Coordinate Problem** | CLI-based coordinate calculation & problem solving | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+
+---
+
+### 🎮 Games
+| Project | Description | Link |
+|---------|-------------|------|
+| 🏰 **Dungeon Game** | Console adventure game with levels and challenges | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧩 **Maze Runner** | Solve mazes using algorithms in a console environment | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧱 **Brick Breaker** | Classic block-breaking game built in Java console | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 💣 **Minesweeper** | Console clone of Minesweeper puzzle game | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 👾 **Bombarded Man** | Fun CLI game where the player avoids bombs | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🔢 **Sudoku Solver** | Console-based Sudoku generator and solver | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🐍 **Snake Game** | Classic Snake game in a console interface | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| ❌⭕ **Tic Tac Toe** | Two-player console-based game | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+
 
 ---
 
