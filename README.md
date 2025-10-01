@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey Techies, I'm Dhinesh Kumar M</h1>
 <h3 align="center">
-  💻 Full Stack Java Developer | 🚀 Software Development Engineer | 📊 DSA Problem Solver | 🏗️ System Designer (LLD) 
+  💻 Full Stack Java Developer <br> 🚀 Software Development Engineer <br> 📊 DSA Problem Solver <br> 🏗️ System Designer (LLD) 
 </h3>
 
 
