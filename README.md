@@ -19,7 +19,7 @@
   💡 Built <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
   🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and a <strong>1-year LeetCode streak</strong><br>
   📚 Strong foundation in <strong>Data Structures, Algorithms, Backend Logic writing for applications.</strong><br>
-  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and currently served as the <strong>School Pupil Leader</strong><br>
+  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and currently served as the <strong>School Pupil Leader.</strong><br>
 </p>
 
 
