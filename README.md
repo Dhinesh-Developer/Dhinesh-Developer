@@ -229,5 +229,5 @@
 ---
 
 <p align="center">
-  © 2025 <strong>DhineshKumar</strong> — All rights reserved
+  © 2025 <strong>DhineshKumar</strong> — All rights reserved.
 </p>
