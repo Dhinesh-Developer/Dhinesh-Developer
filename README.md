@@ -46,7 +46,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
   </a>
   <a href="https://takeuforward.org/plus/profile/Dhinesh%20Developer" target="_blank">
-  <img src="https://github.com/takeuforward/tuf-assets/blob/main/logo/tuf-logo.png?raw=1" height="40" alt="Take U Forward" />
+  <img src="https://raw.githubusercontent.com/takeuforward/tuf-assets/main/logo/tuf-logo.png" height="40" alt="Take U Forward" />
 </a>
 
   <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
