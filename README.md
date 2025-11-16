@@ -51,7 +51,7 @@
 </a>
 
   <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" width="40" alt="GeeksforGeeks" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="50" width="50" alt="GeeksforGeeks" />
 </a>
 
 </p>
