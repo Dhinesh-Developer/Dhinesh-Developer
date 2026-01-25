@@ -27,7 +27,7 @@
 
 <h3 align="center">📌 Portfolio & Contact</h3>
 <p align="center">
-  📂 <a href="https://dhinesh3369.neocities.org/DK/portfolio/dk" target="_blank">My Portfolio</a><br>
+  📂 <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk" target="_blank">My Portfolio</a><br>
   📧 <strong>Email:</strong> dhineshdeveloper07@gmail.com
 </p>
 
