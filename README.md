@@ -36,7 +36,7 @@
 
 <h3 align="center">🌐 Social Presence</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhineshkumar-m-b75b1a283" target="_blank">
+  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
