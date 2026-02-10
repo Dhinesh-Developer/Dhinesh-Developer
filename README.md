@@ -1,160 +1,242 @@
-# Dhinesh Kumar M - Full Stack Java Developer
+<h1 align="center">👋 Hey Techies, I'm Dhinesh Kumar M</h1>
+<h3 align="center">
+  💻 Full Stack Java Developer <br> 🚀 Software Development Engineer <br> 📊 DSA Problem Solver <br> 🏗️ System Designer (LLD,HLD)
+</h3>
 
-<div align="center">
 
-## 🚀 Professional Portfolio
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Developer" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhineshdeveloper07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dhineshdeveloper07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhineshdeveloper_07)
+----
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Streak](https://img.shields.io/badge/GitHub-1.5+%20year%20streak-blue)
-![LeetCode Streak](https://img.shields.io/badge/LeetCode-1+%20year%20streak-orange)
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+  I am a passionate <strong>Full Stack Java Developer</strong> with proven expertise in building scalable applications and solving complex problems.<br><br>
 
-</div>
+  🤝 Campus ambassador at <strong>Geeks for Geeks</strong>, Executive Member at <strong>Scientel Association</strong>, <strong>Top Performer</strong> in <strong>Synergy Squad 3.0</strong>, and active member at <strong>Mobile & Web Development Club</strong><br>
+  🚀 Solved over <strong>1000+</strong> coding problems across platforms including <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong><br>
+  💡 Built <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
+  🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and a <strong>1-year LeetCode streak</strong><br>
+  📚 Strong foundation in <strong>Data Structures, Algorithms, Backend Logic writing for applications.</strong><br>
+  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and currently served as the <strong>School Pupil Leader.</strong><br>
+</p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); margin: 2rem 0;">
 
-## 👨‍💻 About Me
+---
 
-I am a passionate **Full Stack Java Developer** with proven expertise in building scalable applications and solving complex problems.
+<h3 align="center">📌 Portfolio & Contact</h3>
+<p align="center">
+  📂 <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk" target="_blank">My Portfolio</a><br>
+  📧 <strong>Email:</strong> dhineshdeveloper07@gmail.com
+</p>
 
-### 🏆 Leadership & Achievements
-- **🎯 Campus Ambassador** at **Geeks for Geeks**
-- **👥 Executive Member** at **Scientel Association**
-- **🏅 Top Performer** in **Synergy Squad 3.0**
-- **💻 Active Member** at **Mobile & Web Development Club**
-- **🥇 Ranked 1st Academically** in 11th & 12th grades
-- **👨‍🏫 School Pupil Leader**
 
-### 📊 Technical Milestones
-| Category | Count | Badge |
-|----------|-------|-------|
-| **Coding Problems Solved** | 1000+ | ![Problems](https://img.shields.io/badge/1000+-Problems-4CAF50) |
-| **Application Logics Built** | 25+ | ![Applications](https://img.shields.io/badge/25+-Applications-2196F3) |
-| **Full-Stack Projects** | 10+ | ![Projects](https://img.shields.io/badge/10+-Projects-FF9800) |
-| **Console Applications** | 20+ | ![Console Apps](https://img.shields.io/badge/20+-Console_Apps-9C27B0) |
+---
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #667eea, transparent); margin: 2rem 0;">
+<h3 align="center">🌐 Social Presence</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" alt="YouTube" />
+  </a>
+  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
+  </a>
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank">
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/40ba5443-e067-4248-b28a-d0447139a8d3" />
 
-## 💼 Professional Experience
+</a>
 
-### **🎯 Full Stack Developer** 
-*NoviTech R&D, Coimbatore*  
-**Oct 2024 – Sept 2024**
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="50" width="50" alt="GeeksforGeeks" />
+</a>
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #764ba2, transparent); margin: 2rem 0;">
+</p>
 
-## 🛠️ Technical Stack
+---
 
-### **📚 Programming Languages & Frameworks**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
+<h3 align="center">💼 Experience</h3>
+<ul>
 
-### **🎨 Frontend Technologies**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</div>
+  <li>
+    <img src="[https://user-images.githubusercontent.com/124845812/265539548-e9ce10e5-eef7-4c33-8273-415316c45683.png](https://images.app.goo.gl/WawdfseVZnVQUXMx7)" width="25" />
+    <strong>Full stack Developer</strong> at <em> NoviTech R&D , Coimbatore</em> — oct-sep(2024)
+  </li>
+</ul>
 
-### **🗄️ Databases**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/H2_Database-007396?style=for-the-badge&logo=java&logoColor=white" alt="H2 Database">
-</div>
+---
 
-### **🔧 Tools & Platforms**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
+### 🧠 IDEs & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,linux,windows" 
+       alt="Eclipse IntelliJ VSCode MySQL Docker Linux Windows" />
+</p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); margin: 2rem 0;">
+---
 
-## 📊 GitHub Statistics
+### 🛠 Tech Stack
+<p align="center">
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
+       alt="Java, Spring, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
 
-<div align="center">
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=764ba2)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhinesh-Developer&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)
+<h3 align="center">📈 GitHub & LeetCode Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhinesh-Developer&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
 
-</div>
+---
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #764ba2 0%, #667eea 100%); margin: 2rem 0;">
+<h2 align="center">🚀 Full Stack Projects</h2>
+<table align="center" border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/nike.png" width="35"/></td>
+    <td><strong>🔥 Nike Clone</strong><br><small>E-commerce frontend clone using React + Tailwind</small></td>
+    <td><a href="https://youtu.be/kEiB6lgMgt4?si=k7GjvQBSDSrlkcGg">🎥 Watch Demo</a></td>
+  </tr>
 
-## 🚀 Featured Projects
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/restaurant.png" width="35"/></td>
+    <td><strong>🍔 Fab Food</strong><br><small>Food ordering system like Swiggy/Zomato</small></td>
+    <td><a href="https://youtu.be/wLidDe47nvw?si=7TD50pS64me_w_-g">🎥 Watch Demo</a></td>
+  </tr>
 
-### **🛒 E-commerce Applications**
-| Project | Tech Stack | Description | Demo |
-|---------|------------|-------------|------|
-| **🔥 Nike Clone** | React, Tailwind, Node.js | Complete e-commerce frontend clone | [▶️ Watch Demo](https://youtu.be/kEiB6lgMgt4) |
-| **🍔 Fab Food** | Spring Boot, React, MySQL | Food ordering system like Swiggy/Zomato | [▶️ Watch Demo](https://youtu.be/wLidDe47nvw) |
-| **💰 QPay Banking** | Java, Spring Security, React | Secure banking application | [▶️ Watch Demo](https://youtu.be/SFa8uYxNwfk) |
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/bank.png" width="35"/></td>
+    <td><strong>💰 QPay</strong><br><small>Banking web app with secure transactions</small></td>
+    <td><a href="https://youtu.be/SFa8uYxNwfk?si=mQKCHPIrsxIHsT3G">🎥 Watch Demo</a></td>
+  </tr>
 
-### **🔧 Developer Tools**
-| Project | Tech Stack | Description | Demo |
-|---------|------------|-------------|------|
-| **🔍 DK's Search Engine** | Python, Flask, Elasticsearch | Custom search engine indexing 500+ sites | [▶️ Watch Demo](https://youtu.be/nd5BVeHq1Qg) |
-| **💬 Real-Time Chat** | WebSocket, Spring Boot, React | Instant messaging platform | [▶️ Watch Demo](https://youtu.be/CdfYt9P8lVs) |
-| **📧 AI Email Assistant** | OpenAI API, Java, React | AI-powered email reply generator | [▶️ Watch Demo](https://youtu.be/waFMnzsvv1Y) |
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/link.png" width="35"/></td>
+    <td><strong>🔗 Linklytics</strong><br><small>Smart link tracker and analytics platform</small></td>
+    <td><a href="https://youtu.be/IUjeTCqoigc?si=-tHI7TNmlmB8jbg5v">🎥 Watch Demo</a></td>
+  </tr>
 
-### **🏢 Enterprise Systems**
-| Project | Tech Stack | Description | Demo |
-|---------|------------|-------------|------|
-| **📅 Class Scheduler** | Spring Boot, React, PostgreSQL | Academic scheduling system | [▶️ Watch Demo](https://youtu.be/KpxKHUk3lcI) |
-| **💼 DK's Job Portal** | Java, Spring MVC, MySQL | Job placement platform | [▶️ Watch Demo](https://youtu.be/h4Xdw9kJx5I) |
-| **🔥 ERP Application** | Microservices, Docker, React | College ERP system | Project Details |
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/search.png" width="35"/></td>
+    <td><strong>🔍 DK's Search Engine</strong><br><small>Indexes 500+ sites with custom crawler</small></td>
+    <td><a href="https://youtu.be/nd5BVeHq1Qg?si=R0BqE5gglNK65T6W">🎥 Watch Demo</a></td>
+  </tr>
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, #667eea, #764ba2, #667eea); margin: 2rem 0;">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/chat.png" width="35"/></td>
+    <td><strong>💬 Real-Time Chat App</strong><br><small>WebSocket-powered messaging system</small></td>
+    <td><a href="https://youtu.be/CdfYt9P8lVs?si=unGm3bEDOzkTahql">🎥 Watch Demo</a></td>
+  </tr>
 
-## 📈 LeetCode Progress
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/code.png" width="35"/></td>
+    <td><strong>🔥 DK's Java Solutions</strong><br><small>AI-assisted Java & frontend tutorials</small></td>
+    <td><a href="https://youtu.be/Drr9xaAgru8?si=RkZP8dbXJAIsZGuK">🎥 Watch Demo</a></td>
+  </tr>
 
-<div align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/planner.png" width="35"/></td>
+    <td><strong>📅 Class Scheduler & Task Manager</strong><br><small>Organize classes, tasks, and reminders</small></td>
+    <td><a href="https://youtu.be/KpxKHUk3lcI?si=3lA6BAAo-pImvc6R">🎥 Watch Demo</a></td>
+  </tr>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Karma&ext=contest)
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/news.png" width="35"/></td>
+    <td><strong>📰 News Portal System</strong><br><small>Live news publishing web app</small></td>
+    <td><a href="https://youtu.be/nRHQMlDzZys?si=0LV4_JQR1Dg1bI6Q">🎥 Watch Demo</a></td>
+  </tr>
 
-</div>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/resume.png" width="35"/></td>
+    <td><strong>💼 DK's Job Portal</strong><br><small>Placement and job posting portal</small></td>
+    <td><a href="https://youtu.be/h4Xdw9kJx5I?si=aX-xAjdKX_OneRUl">🎥 Watch Demo</a></td>
+  </tr>
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #764ba2, transparent); margin: 2rem 0;">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/first-aid-kit.png" width="35"/></td>
+    <td><strong>❤ Save Life</strong><br><small>AI-driven emergency support app</small></td>
+    <td><a href="https://youtu.be/HuXWSw10hcI?si=Uf8V1mNGYGHrQVov">🎥 Watch Demo</a></td>
+  </tr>
 
-## 🎯 Console Projects Collection
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/research.png" width="35"/></td>
+    <td><strong>📊 Smart Research Assistant</strong><br><small>AI-powered academic helper</small></td>
+    <td><a href="https://youtu.be/ZsuKhFY700g?si=GHHKSvmvwonH05yB">🎥 Watch Demo</a></td>
+  </tr>
 
-### **📦 Management Systems**
-| Category | Projects Count | Technologies |
-|----------|---------------|--------------|
-| **Retail & Booking** | 6 Projects | Java OOP, File I/O |
-| **Utility Systems** | 8 Projects | Java, Data Structures |
-| **Console Games** | 8 Projects | Java, Algorithms |
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/gmail.png" width="35"/></td>
+    <td><strong>📧 AI Email Reply Generator</strong><br><small>Generates professional AI-based replies</small></td>
+    <td><a href="https://youtu.be/waFMnzsvv1Y?si=HslLT7FfnqPv_OBr">🎥 Watch Demo</a></td>
+  </tr>
 
-**🔗 All Console Projects:** [View Repository](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects)
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/docker.png" width="35"/></td>
+    <td><strong>🐳 Dockering a Spring Boot App</strong><br><small>Containerized deployment</small></td>
+    <td><a href="https://youtu.be/mcTk_ktdZCs?si=1W2Eub6ls6sRUkmn">🎥 Watch Demo</a></td>
+  </tr>
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, #667eea, transparent, #764ba2); margin: 2rem 0;">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/system-task.png" width="35"/></td>
+    <td><strong>🔥 ERP Application</strong><br><small>End-to-end college ERP project</small></td>
+    <td><a href="#">💻 Project Details</a></td>
+  </tr>
+</table>
 
-## 🏆 Certifications & Achievements
+ 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 2rem 0;">
+### 📂 Systems & Applications
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛒 *Supermarket Billing System* | Console app to generate customer bills, calculate discounts & manage purchases | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| ✈ *Flight Ticket Booking System* | Ticket booking with passenger info, seat allocation & billing | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚧 *Toll Payment Processing System* | Vehicle toll management with automated billing | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚌 *Bus Ticket Booking System* | Passenger data, seat availability & booking confirmation | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📧 *Mail Management System* | Console-based email sender/receiver simulation | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📂 *File Management System* | Create, update, search & delete files via CLI | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🎉 *Event Management System* | Register, schedule & manage events | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚆 *Railway Ticket Booking System* | Train schedules, passenger info & booking | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🚖 *Taxi Booking System* | Manage drivers, bookings & trip calculations | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧑‍💼 *Employee Management System* | Employee records with salary & attendance tracking | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📦 *Inventory Management System* | Manage stock, orders & suppliers | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧾 *Invoice Management System* | Generate customer invoices with tax calculations | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📚 *Library Management System* | Track books, borrowers & returns | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 📍 *Coordinate Problem* | CLI-based coordinate calculation & problem solving | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
 
-```diff
-+ 🎖️ Geeks for Geeks Campus Ambassador
-+ 📚 1000+ Coding Problems Solved
-+ 🥇 Academic Excellence Awards
-+ 🏅 Synergy Squad 3.0 Top Performer
-+ 💡 25+ Application Logics Developed
-+ 🚀 10+ Full Stack Projects
+---
+
+### 🎮 Games
+| Project | Description | Link |
+|---------|-------------|------|
+| 🏰 *Dungeon Game* | Console adventure game with levels and challenges | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧩 *Maze Runner* | Solve mazes using algorithms in a console environment | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🧱 *Brick Breaker* | Classic block-breaking game built in Java console | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 💣 *Minesweeper* | Console clone of Minesweeper puzzle game | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 👾 *Bombarded Man* | Fun CLI game where the player avoids bombs | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🔢 *Sudoku Solver* | Console-based Sudoku generator and solver | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| 🐍 *Snake Game* | Classic Snake game in a console interface | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+| ❌⭕ *Tic Tac Toe* | Two-player console-based game | [View Project](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) |
+
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Let’s connect and grow together 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+Expert;React+Frontend+Developer;DSA+%7C+Problem+Solver" />
+</p>
+
+---
+
+<p align="center">
+  © 2025 <strong>DhineshKumar</strong> — All rights reserved.
+</p>
