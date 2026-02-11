@@ -14,7 +14,7 @@
 <p align="center">
   I am a passionate <strong>Full Stack Java Developer</strong> with proven expertise in building scalable applications and solving complex problems.<br><br>
 
-  🤝 Campus ambassador at <strong>Geeks for Geeks</strong>, Executive Member at <strong>Scientel Association</strong>, <strong>Top Performer</strong> in <strong>Synergy Squad 3.0</strong>, and active member at <strong>Mobile & Web Development Club</strong><br>
+  🤝Executive Member at <strong>Scientel Association</strong>, <strong>Top Performer</strong> in <strong>Synergy Squad 3.0</strong>, and active member at <strong>Mobile & Web Development Club</strong><br>
   🚀 Solved over <strong>1000+</strong> coding problems across platforms including <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong><br>
   💡 Built <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
   🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and a <strong>1-year LeetCode streak</strong><br>
