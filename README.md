@@ -1,89 +1,120 @@
-<h1 align="center">👋 Hey Techies, I'm DhineshKumar M</h1>
+<!-- HEADER SECTION -->
+
+<h1 align="center">Hi 👋, I'm Dhinesh Kumar M</h1>
+
 <h3 align="center">
-  💻 Full Stack Java Developer <br> 🚀 Software Development Engineer <br> 📊 DSA Problem Solver <br> 🏗️ System Designer (LLD,HLD)
+🚀 Full Stack Java Developer | 💻 Software Engineer | 📊 DSA Problem Solver | 🏗️ System Designer
 </h3>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;1000%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Applications;Consistent+Problem+Solver+%F0%9F%94%A5" />
 </p>
 
-----
-
-<h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  I am a passionate <strong>Full Stack Java Developer</strong> with proven expertise in building scalable applications and solving complex problems.<br><br>
-
-  🤝Executive Member at <strong>Scientel Association</strong>, <strong>Top Performer</strong> in <strong>Synergy Squad 3.0</strong>, and active member at <strong>Mobile & Web Development Club</strong><br>
-  🚀 Solved over <strong>1000+</strong> coding problems across platforms including <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong><br>
-  💡 Built <strong>25+ application logics</strong>, <strong>10+ full-stack projects</strong>, and <strong>20+ console-based applications</strong><br>
-  🌟 Maintaining a <strong>1.5+ year GitHub streak</strong> and a <strong>1-year LeetCode streak</strong><br>
-  📚 Strong foundation in <strong>Data Structures, Algorithms, Backend Logic writing for applications.</strong><br>
-  🏆 Ranked <strong>1st academically</strong> in both 11th & 12th grades and currently served as the <strong>School Pupil Leader.</strong><br>
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Dhinesh-Developer?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/Dhinesh-Developer?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" />
 </p>
-
 
 ---
 
-<h3 align="center">📌 Portfolio & Contact</h3>
-<p align="center">
-  📂 <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk" target="_blank">My Portfolio</a><br>
-  📧 <strong>Email:</strong> dhineshdeveloper07@gmail.com
-</p>
+## 👨‍💻 About Me
 
+💡 Passionate **Full Stack Java Developer** focused on building scalable, real-world applications.  
+📈 Strong foundation in **Data Structures, Algorithms & Backend Architecture**.  
+🔥 Solved **1000+ coding problems** across LeetCode & GeeksforGeeks.  
+🚀 Built **10+ Full Stack Projects**, **25+ Core Application Logics**, and **20+ Console Applications**.  
+🏆 Ranked **1st Academically (11th & 12th)** | Former **School Pupil Leader**.  
+🤝 Executive Member – *Scientel Association*  
+🌟 1.5+ Year GitHub Streak | 1 Year LeetCode Consistency  
 
 ---
 
-<h3 align="center">🌐 Social Presence</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" alt="YouTube" />
-  </a>
-  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
-  </a>
-  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/40ba5443-e067-4248-b28a-d0447139a8d3" />
+## 🛠 Tech Stack
 
+### 🚀 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,mongodb,h2" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,postman,linux,windows,idea,vscode,eclipse" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern**  
+📍 NoviTech R&D, Coimbatore  
+🗓 2024  
+
+• Developed scalable backend modules using Java & Spring  
+• Worked on database optimization & REST API integration  
+• Improved application performance and modular design  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="50" width="50" alt="GeeksforGeeks" />
+<a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
+</a>
+
+<a href="https://youtube.com/@dhineshdeveloper07" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40"/>
+</a>
 </p>
 
 ---
 
-<h3 align="center">💼 Experience</h3>
-<ul>
+## 📌 Portfolio
 
-  <li>
-    <img src="[https://user-images.githubusercontent.com/124845812/265539548-e9ce10e5-eef7-4c33-8273-415316c45683.png](https://images.app.goo.gl/WawdfseVZnVQUXMx7)" width="25" />
-    <strong>Full stack Developer</strong> at <em> NoviTech R&D , Coimbatore</em> — oct-sep(2024)
-  </li>
-</ul>
+🌍 **Portfolio Website:**  
+🔗 https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk  
+
+📧 **Email:** dhineshdeveloper07@gmail.com  
 
 ---
 
-### 🧠 IDEs & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,mysql,docker,linux,windows" 
-       alt="Eclipse IntelliJ VSCode MySQL Docker Linux Windows" />
-</p>
+<h3 align="center">🔥 “Consistency Beats Talent When Talent Doesn’t Work Hard.” 🔥</h3>
 
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,tailwind,html,css,bootstrap,mysql,git,docker,postman,aws,python,postgresql,mongodb,h2" 
-       alt="Java, Spring, Hibernate, JavaScript, React, Tailwind, HTML, CSS, Bootstrap, MySQL, Git, Docker, Postman, AWS, Python, PostgreSQL, MongoDB, H2 Database" />
-
----
 
 <h3 align="center">📈 GitHub & LeetCode Stats</h3>
 <p align="center">
