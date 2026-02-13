@@ -78,10 +78,7 @@
 **“Consistency Beats Talent When Talent Doesn't Work Hard.”**  
 </center>
 
-    </td>
 
-    <!-- RIGHT COLUMN: GIF + STATS -->
-    <td width="40%" align="center" style="padding-left:20px; vertical-align:top;">
 
 ![Coding GIF](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -91,7 +88,7 @@
 |:-----------------------------------:|:---------------------------:|:------------------------:|
 | **1000+**<br>DSA Problems | **550+**<br>GitHub Contributions | **10+**<br>Full Stack Projects |
 
-    </td>
+    
   </tr>
 </table>
 
