@@ -58,19 +58,19 @@
     <!-- LEFT COLUMN: ABOUT ME -->
     <td width="60%" style="background-color:#0d1117; border-radius:15px; padding:25px; border:1px solid #3B9DFF; vertical-align:top;">
 
-**💡 Passionate Full Stack Java Developer** with a strong drive to build **robust and scalable real-world applications**.  
+**💡 Passionate Full Stack Java Developer** dedicated to crafting **robust, scalable, and real-world applications**.  
 
-**📈 Solid foundation** in **Data Structures, Algorithms, and Backend Architecture**, enabling efficient and clean solutions.  
+**📈 Strong Foundation:** Well-versed in **Data Structures, Algorithms, and Backend Architecture**, providing efficient and maintainable solutions.  
 
-**🔥 Problem-Solving Expertise:** Solved **1000+ coding problems** across **LeetCode** and **GeeksforGeeks**, honing algorithmic and logical skills.  
+**🔥 Problem-Solving Expertise:** Successfully solved **1000+ coding problems** across **LeetCode** and **GeeksforGeeks**, sharpening analytical and logical skills.  
 
-**📊 Project Experience:** Developed **10+ Full Stack Projects**, including **25+ core application logics** and **20+ console-based applications**, demonstrating end-to-end problem-solving abilities.  
+**📊 Project Portfolio:** Developed **10+ Full Stack Projects**, including **25+ core application logics** and **20+ console-based applications**, demonstrating end-to-end implementation abilities.  
 
-**🏆 Academic Excellence:** **Ranked 1st** during 11th & 12th grades and served as a **School Pupil Leader**, showcasing leadership and organizational skills.  
+**🏆 Academic Excellence:** Achieved **1st rank in 11th & 12th grades** and served as a **School Pupil Leader**, demonstrating leadership and organizational proficiency.  
 
-**👥 Leadership & Collaboration:** Active **Executive Member** of the **Scientel Association**, coordinating events and team projects effectively.  
+**👥 Leadership & Collaboration:** Active **Executive Member** of the **Scientel Association**, successfully coordinating team projects and events.  
 
-**📅 Consistency & Growth:** Maintained **1.5+ year GitHub streak** and **1 year of LeetCode consistency**, reflecting dedication and commitment to continuous learning.  
+**📅 Consistency & Growth:** Maintained a **1.5+ year GitHub streak** and **1 year of LeetCode consistency**, reflecting discipline, perseverance, and a commitment to continuous learning.  
 
 ---
 
