@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0d1117,1c1c1c&text=Dhinesh%20Kumar%20M&fontSize=50&fontColor=90EE90&animation=fadeIn&desc=Full%20Stack+Java+Developer%20•%20Problem%20Solver%20•%20System%20Architect&descSize=18&descAlignY=65" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0d1117,1c1c1c&text=Dhinesh%20Kumar%20M&fontSize=50&fontColor=90EE90&animation=fadeIn&desc=Full%20Stack+Java+Developer%20•%20Problem+Solver%20•%20System%20Architect&descSize=18&descAlignY=65" 
     width="100%" 
   />
 </p>
@@ -24,7 +24,6 @@
 
 <br/>
 
-
 <!-- ===================================================== -->
 <!--                      BADGES                           -->
 <!-- ===================================================== -->
@@ -42,7 +41,61 @@
   <img src="https://img.shields.io/badge/Projects-10%2B_Full_Stack-141414?style=for-the-badge&logo=github&logoColor=90EE90&labelColor=000000" />
 </p>
 
+<br/>
+
+<!-- ===================================================== -->
+<!--                    ABOUT ME SECTION                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" />
+  ABOUT ME
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" />
+</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- LEFT COLUMN: ABOUT ME -->
+    <td width="60%" style="background-color:#0d1117; border-radius:15px; padding:25px; border:1px solid #3B9DFF; vertical-align:top;">
+
+**💡 Passionate Full Stack Java Developer** with a strong drive to build **robust and scalable real-world applications**.  
+
+**📈 Solid foundation** in **Data Structures, Algorithms, and Backend Architecture**, enabling efficient and clean solutions.  
+
+**🔥 Problem-Solving Expertise:** Solved **1000+ coding problems** across **LeetCode** and **GeeksforGeeks**, honing algorithmic and logical skills.  
+
+**📊 Project Experience:** Developed **10+ Full Stack Projects**, including **25+ core application logics** and **20+ console-based applications**, demonstrating end-to-end problem-solving abilities.  
+
+**🏆 Academic Excellence:** **Ranked 1st** during 11th & 12th grades and served as a **School Pupil Leader**, showcasing leadership and organizational skills.  
+
+**👥 Leadership & Collaboration:** Active **Executive Member** of the **Scientel Association**, coordinating events and team projects effectively.  
+
+**📅 Consistency & Growth:** Maintained **1.5+ year GitHub streak** and **1 year of LeetCode consistency**, reflecting dedication and commitment to continuous learning.  
+
+---
+
+<center>
+**“Consistency Beats Talent When Talent Doesn't Work Hard.”**  
+</center>
+
+    </td>
+
+    <!-- RIGHT COLUMN: GIF + STATS -->
+    <td width="40%" align="center" style="padding-left:20px; vertical-align:top;">
+
+![Coding GIF](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <br>
+
+| ![Java](https://img.icons8.com/fluency/32/null/java-coffee-cup-logo.png) | ![GitHub](https://img.icons8.com/fluency/32/null/github.png) | ![Spring](https://img.icons8.com/fluency/32/null/spring-logo.png) |
+|:-----------------------------------:|:---------------------------:|:------------------------:|
+| **1000+**<br>DSA Problems | **550+**<br>GitHub Contributions | **10+**<br>Full Stack Projects |
+
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <!-- ===================================================== -->
 <!--                    WELCOME SECTION                    -->
@@ -59,60 +112,3 @@
     Where algorithms meet elegant solutions • Consistency beats talent
   </strong>
 </p>
-
-<br><br>
------------------------------------------------------------------------------------------------------------------------
-
-<!-- ============================================ -->
-<!--           ABOUT ME SECTION - DARK THEME     -->
-<!-- ============================================ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" />
-  ABOUT ME
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" />
-</h2>
-
-<p align="center">
-
-<!-- LEFT COLUMN CONTENT -->
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="60%" style="background-color: #0d1117; border-radius: 15px; padding: 25px; border: 1px solid #3B9DFF; vertical-align: top;">
-
-**💡 Passionate Full Stack Java Developer** focused on building **scalable, real-world applications**  
-
-**📈 Strong foundation** in **Data Structures, Algorithms & Backend Architecture**  
-
-**🔥 Solved 1000+ coding problems** across LeetCode & GeeksforGeeks  
-
-**📊 Built 10+ Full Stack Projects**, 25+ Core Application Logics, and 20+ Console Applications  
-
-**🏆 Ranked 1st Academically** (11th & 12th) | Former School Pupil Leader  
-
-**👥 Executive Member** – Scientel Association  
-
-**📅 1.5+ Year GitHub Streak** | 1 Year LeetCode Consistency  
-
----
-
-<center>
-**“Consistency Beats Talent When Talent Doesn't Work Hard.”**  
-</center>
-
-    </td>
-
-    <!-- RIGHT COLUMN: GIF + STATS -->
-    <td width="40%" align="center" style="padding-left: 20px; vertical-align: top;">
-
-![Coding GIF](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-<br>
-
-| ![Java](https://img.icons8.com/fluency/32/null/java-coffee-cup-logo.png) | ![GitHub](https://img.icons8.com/fluency/32/null/github.png) | ![Spring](https://img.icons8.com/fluency/32/null/spring-logo.png) |
-|:-----------------------------------:|:---------------------------:|:------------------------:|
-| **1000+**<br>DSA Problems | **550+**<br>Contributions | **10+**<br>Projects |
-
-    </td>
-  </tr>
-</table>
