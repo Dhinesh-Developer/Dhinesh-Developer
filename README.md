@@ -1,37 +1,46 @@
-<!-- 3D DYNAMIC HEADER - PURE MARKDOWN COMPATIBLE -->
+<!-- ===================================================== -->
+<!--                3D DYNAMIC HEADER                     -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=280&color=gradient&customColorList=0,2,3,8,12,24&text=Dhinesh%20Kumar%20M&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=3B9DFF&strokeWidth=1.5&desc=Full%20Stack%20Java%20Developer%20•%20Problem%20Solver%20•%20System%20Architect&descSize=19&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=280&color=gradient&customColorList=0,2,3,8,12,24&text=Dhinesh%20Kumar%20M&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=3B9DFF&strokeWidth=1.5&desc=Full%20Stack+Java+Developer%20•%20Problem+Solver%20•%20System%20Architect&descSize=19&descAlignY=65" width="100%" />
 </p>
 
-<!-- SPACER -->
 <br>
 
-<!-- TYPING ANIMATION - PROFESSIONAL MULTILINE -->
+<!-- ===================================================== -->
+<!--                 TYPING ANIMATION                     -->
+<!-- ===================================================== -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2200&pause=700&color=3B9DFF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%9A%80+Full+Stack+Java+Developer;%E2%9A%A1+1000%2B+DSA+Problems+Solved+%7C+1+Year+LeetCode+Streak;%F0%9F%8F%97%EF%B8%8F+Spring+Boot+•+React+•+Microservices+•+Docker;%F0%9F%93%8A+1.5%2B+Years+GitHub+Streak+%7C+550%2B+Contributions;%F0%9F%8E%AF+Ranked+1st+Academically+%7C+Former+School+Pupil+Leader" alt="Typing Animation" />
 </p>
 
-<!-- SPACER -->
 <br>
 
-<!-- BADGES COLLECTION - ALL WORKING IN MARKDOWN -->
+<!-- ===================================================== -->
+<!--                      BADGES                           -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Profile_Views-2.5k%2B-0E75B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Followers-145-0E75B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub_Streak-1.5%2B_Years-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode_365-1_Year_Consistency-00BFA6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A1A2F" /></a>
+  ![Profile Views](https://img.shields.io/badge/Profile_Views-2.5k%2B-0E75B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F)
+  ![Followers](https://img.shields.io/badge/Followers-145-0E75B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F)
+  ![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-1.5%2B_Years-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F)
+  ![LeetCode Consistency](https://img.shields.io/badge/LeetCode_365-1_Year_Consistency-00BFA6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A1A2F)
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/DSA_Problems-1000%2B-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A1A2F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Executive_Member-Scientel_Association-FF8C00?style=for-the-badge&logo=group&logoColor=white&labelColor=0A1A2F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Projects-10%2B_Full_Stack-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F" /></a>
+  ![DSA Problems](https://img.shields.io/badge/DSA_Problems-1000%2B-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A1A2F)
+  ![Executive Member](https://img.shields.io/badge/Executive_Member-Scientel_Association-FF8C00?style=for-the-badge&logo=group&logoColor=white&labelColor=0A1A2F)
+  ![Projects](https://img.shields.io/badge/Projects-10%2B_Full_Stack-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1A2F)
 </p>
 
-<!-- SPACER -->
 <br>
 
-<!-- WELCOME SECTION -->
+<!-- ===================================================== -->
+<!--                    WELCOME SECTION                   -->
+<!-- ===================================================== -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   <strong style="font-size: 24px;">WELCOME TO MY CODING REALM</strong>
@@ -39,112 +48,55 @@
 </p>
 
 <p align="center">
-  <strong>⚡ Where algorithms meet elegant solutions • Consistency beats talent ⚡</strong>
+  ⚡ Where algorithms meet elegant solutions • Consistency beats talent ⚡
 </p>
 
-<!-- SPACER -->
-<br>
 <br>
 
-<!-- ============================================ -->
-<!--           ABOUT ME SECTION                   -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                    ABOUT ME SECTION                  -->
+<!-- ===================================================== -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" />
-  ABOUT ME
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" />
-</h2>
+## 💼 About Me
 
-<!-- ABOUT ME TABLE - PURE MARKDOWN -->
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" style="background-color: #0A1929; border-radius: 15px; padding: 25px; border: 1px solid #3B9DFF;">
-      
-      <!-- ABOUT ME CONTENT - ALL ORIGINAL TEXT PRESERVED -->
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/idea-sharing.png" width="25" align="left" />
-        <strong> Passionate Full Stack Java Developer</strong> focused on building <strong>scalable, real-world applications</strong>
-      </p>
-      <br>
-      
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/graph.png" width="25" align="left" />
-        <strong> Strong foundation</strong> in <strong>Data Structures, Algorithms & Backend Architecture</strong>
-      </p>
-      <br>
-      
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/fire-element--v1.png" width="25" align="left" />
-        <strong> Solved 1000+ coding problems</strong> across LeetCode & GeeksforGeeks
-      </p>
-      <br>
-      
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/project-management.png" width="25" align="left" />
-        <strong> Built 10+ Full Stack Projects</strong>, 25+ Core Application Logics, and 20+ Console Applications
-      </p>
-      <br>
-      
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/trophy.png" width="25" align="left" />
-        <strong> Ranked 1st Academically</strong> (11th & 12th) | Former School Pupil Leader
-      </p>
-      <br>
-      
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/group.png" width="25" align="left" />
-        <strong> Executive Member</strong> – Scientel Association
-      </p>
-      <br>
-      
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/calendar--v1.png" width="25" align="left" />
-        <strong> 1.5+ Year GitHub Streak</strong> | 1 Year LeetCode Consistency
-      </p>
-      
-      <hr style="border: 1px solid #3B9DFF; margin: 20px 0;">
-      
-      <p align="center">
-        <strong style="color: #FFD700;">“Consistency Beats Talent When Talent Doesn't Work Hard.”</strong>
-      </p>
-      
-    </td>
-    
-    <td width="40%" align="center" style="padding-left: 20px;">
-      <!-- CODING GIF - WORKING URL -->
-      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px; border: 3px solid #3B9DFF;" />
-      
-      <br><br>
-      
-      <!-- QUICK STATS CARD -->
-      <table style="background-color: #0E1D2F; border-radius: 15px; padding: 15px; border: 1px solid #3B9DFF;">
-        <tr>
-          <td align="center"><img src="https://img.icons8.com/fluency/32/null/java-coffee-cup-logo.png" /><br><strong>1000+</strong><br>DSA Problems</td>
-          <td align="center"><img src="https://img.icons8.com/fluency/32/null/github.png" /><br><strong>550+</strong><br>Contributions</td>
-          <td align="center"><img src="https://img.icons8.com/fluency/32/null/spring-logo.png" /><br><strong>10+</strong><br>Projects</td>
-        </tr>
-      </table>
-      
-    </td>
-  </tr>
-</table>
+- 💡 **Passionate Full Stack Java Developer** focused on building **scalable, real-world applications**.  
+- 📈 **Strong foundation** in **Data Structures, Algorithms & Backend Architecture**.  
+- 🔥 **Problem-Solving Expertise:** Solved **1000+ coding problems** across **LeetCode** and **GeeksforGeeks**.  
+- 📊 **Project Experience:** Developed **10+ Full Stack Projects**, **25+ core application logics**, and **20+ console-based applications**.  
+- 🏆 **Academic Excellence:** Ranked **1st in 11th & 12th grades** | Former **School Pupil Leader**.  
+- 👥 **Leadership & Collaboration:** Executive Member – **Scientel Association**.  
+- 📅 **Consistency & Growth:** Maintained **1.5+ year GitHub streak** | **1 Year LeetCode Consistency**.  
 
-<!-- SPACER -->
-<br>
-<br>
+> **“Consistency Beats Talent When Talent Doesn't Work Hard.”**  
 
-<!-- ============================================ -->
-<!--      PROBLEM SOLVER METRICS DASHBOARD        -->
-<!-- ============================================ -->
+<p align="center">
+  ![Coding GIF](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
-  ⚡ PROBLEM SOLVER METRICS ⚡
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
-</h2>
+### ⚡ Stats
+
+| Java | GitHub | Spring |
+|:----:|:------:|:------:|
+| ![Java](https://img.icons8.com/fluency/32/null/java-coffee-cup-logo.png) **1000+**<br>DSA Problems | ![GitHub](https://img.icons8.com/fluency/32/null/github.png) **550+**<br>Contributions | ![Spring](https://img.icons8.com/fluency/32/null/spring-logo.png) **10+**<br>Projects |
 
 <br>
+
+<!-- ===================================================== -->
+<!--               PROBLEM SOLVER METRICS                 -->
+<!-- ===================================================== -->
+
+## ⚡ Problem Solver Metrics
+
+- **1000+ DSA Problems Solved**  
+- **550+ GitHub Contributions**  
+- **10+ Full Stack Projects**  
+- **1.5+ Years GitHub Streak**  
+- **1 Year LeetCode Consistency**  
+
+<p align="center">
+  ![Problem Solving GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+</p>
+>
 
 <!-- METRICS CARDS - TABLE FORMAT -->
 <table align="center" width="100%">
