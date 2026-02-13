@@ -38,7 +38,7 @@
 
 <!-- ============================================ -->
 <!--           HERO SECTION - PROFILE             -->
-/* DARK THEME WITH LIGHT GREEN */
+
 <!-- ============================================ -->
 
 <table align="center" width="100%">
@@ -113,7 +113,7 @@
 
 <!-- ============================================ -->
 <!--      STATS BANNER - DARK THEME CARD          -->
-/* LIKE PROJECTS PAGE STATS BANNER */
+
 <!-- ============================================ -->
 
 <p align="center">
@@ -270,61 +270,6 @@
 /*         LATEST PROJECTS - LIKE PROJECTS PAGE   */
 /*         DARK THEME CARDS WITH LIGHT GREEN      */
 <!-- ============================================ -->
-
-<h2 align="center" style="color: #90EE90;">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" height="35" />
-  🔥 LATEST PROJECTS
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" height="35" />
-</h2>
-
-<br>
-
-<!-- PROJECT CARDS - 3 COLUMN GRID -->
-<table align="center" width="100%">
-  <tr>
-    <!-- Social Network Recommendation Engine -->
-    <td width="33%" valign="top" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90; margin: 10px;">
-      <p align="center"><i class="fas fa-network-wired" style="font-size: 2rem; color: #90EE90;"></i></p>
-      <h3 align="center" style="color: #90EE90;">🤝 Social Network Recommendation Engine</h3>
-      <p align="center" style="color: #ddd;">Advanced friend recommendation system using BFS, HashMap, PriorityQueue.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/BFS-90EE90?style=flat-square&logo=graph&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dhinesh-Developer/Social-Network-Recommendation-Engine"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-      </p>
-    </td>
-    
-    <!-- RideNow -->
-    <td width="33%" valign="top" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90; margin: 10px;">
-      <p align="center"><i class="fas fa-car" style="font-size: 2rem; color: #90EE90;"></i></p>
-      <h3 align="center" style="color: #90EE90;">🚗 RideNow - Ride Booking System</h3>
-      <p align="center" style="color: #ddd;">Full-featured ride booking backend with user management, driver coordination.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOPS-90EE90?style=flat-square&logo=java&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dhinesh-Developer/RideNow"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-      </p>
-    </td>
-    
-    <!-- BiteNow -->
-    <td width="33%" valign="top" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90; margin: 10px;">
-      <p align="center"><i class="fas fa-utensils" style="font-size: 2rem; color: #90EE90;"></i></p>
-      <h3 align="center" style="color: #90EE90;">🍔 BiteNow - Food Delivery Platform</h3>
-      <p align="center" style="color: #ddd;">Complete full-stack food delivery platform with cart and order processing.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dhinesh-Developer/BiteNow/tree/main"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <br>
 <br>
