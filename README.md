@@ -3,10 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&height=280&color=gradient&customColorList=0,2,3,8,12,24&text=Dhinesh%20Kumar%20M&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=90EE90&strokeWidth=1.8&desc=Full%20Stack%20Java%20Developer%20•%20Problem%20Solver%20•%20System%20Architect&descSize=19&descAlignY=65" width="100%" />
 </p>
 
+<br>
+
 <!-- TYPING ANIMATION - LIGHT GREEN -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2200&pause=700&color=90EE90&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%9A%80+Full+Stack+Java+Developer;%E2%9A%A1+1000%2B+DSA+Problems+Solved+%7C+1+Year+LeetCode+Streak;%F0%9F%8F%97%EF%B8%8F+Spring+Boot+•+React+•+Microservices+•+Docker;%F0%9F%93%8A+1.5%2B+Years+GitHub+Streak+%7C+550%2B+Contributions;%F0%9F%8E%AF+Ranked+1st+Academically+%7C+Former+School+Pupil+Leader" alt="Typing Animation" />
 </p>
+
+<br>
 
 <!-- BADGES - DARK WITH LIGHT GREEN -->
 <p align="center">
@@ -22,10 +26,12 @@
   <a href="#"><img src="https://img.shields.io/badge/Projects-20%2B_Full_Stack-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" /></a>
 </p>
 
+<br>
+
 <!-- WELCOME SECTION -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <strong style="font-size: 24px; color: #90EE90;">WELCOME TO MY CODING REALM</strong>
+  <strong style="color: #90EE90;">WELCOME TO MY CODING REALM</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </p>
 
@@ -38,60 +44,61 @@
 
 <!-- ============================================ -->
 <!--           HERO SECTION - PROFILE             -->
-/* DARK THEME WITH LIGHT GREEN */
 <!-- ============================================ -->
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <!-- Profile Image with Floating Animation (CSS not supported, using static GIF style) -->
-      <img src="1.jpg" alt="Dhinesh Kumar M" width="220" height="220" style="border-radius: 50%; border: 5px solid #90EE90; box-shadow: 0 0 30px rgba(144,238,144,0.3);" />
-      <br>
-      <em><strong style="color: #90EE90; font-size: 1.5rem;">DHINESH KUMAR M</strong></em>
-    </td>
-    <td width="67%" valign="top">
-      <!-- Professional Intro - Dark Theme -->
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/idea-sharing.png" width="25" align="left" />
-        <strong style="color: #90EE90;"> Passionate Full Stack Java Developer</strong> with <strong style="color: #90EE90;">2+ years</strong> of hands-on experience.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/graph.png" width="25" align="left" />
-        Built <strong style="color: #90EE90;">20+ full-stack applications</strong> & <strong style="color: #90EE90;">25+ console systems</strong> • Strong <strong style="color: #90EE90;">DSA, LLD, HLD</strong>.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/fire-element--v1.png" width="25" align="left" />
-        <strong style="color: #90EE90;">1000+ coding problems</strong> solved across LeetCode, GFG, TakeUForward.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/trophy.png" width="25" align="left" />
-        <strong style="color: #90EE90;">Ranked 1st Academically</strong> (11th & 12th) • <strong style="color: #90EE90;">Hall of Fame Award</strong> – CSE Dept.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/group.png" width="25" align="left" />
-        <strong style="color: #90EE90;">Executive Member</strong> – Scientel Association • <strong style="color: #90EE90;">Synergy Squad 3.0 Top Performer</strong>.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/calendar--v1.png" width="25" align="left" />
-        <strong style="color: #90EE90;">1.5+ Year GitHub Streak</strong> • 365-day LeetCode consistency.
-      </p>
-      <hr style="border: 1px solid #90EE90;" />
-      <p align="center">
-        <strong style="color: #90EE90;"><i>“Knowledge is power.” 💡</i></strong>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="1.jpg" alt="Dhinesh Kumar M" width="200" height="200" style="border-radius: 50%; border: 5px solid #90EE90; box-shadow: 0 0 30px rgba(144,238,144,0.3);" />
+</p>
+
+<p align="center">
+  <strong style="font-size: 2rem; color: #90EE90;">DHINESH KUMAR M</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/28/null/idea-sharing.png" width="25" align="center" /> 
+  <strong> Passionate Full Stack Java Developer</strong> with <strong style="color: #90EE90;">2+ years</strong> experience
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/28/null/graph.png" width="25" align="center" />
+  Built <strong style="color: #90EE90;">20+ full-stack apps</strong> & <strong style="color: #90EE90;">25+ console systems</strong> • <strong style="color: #90EE90;">DSA, LLD, HLD</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/28/null/fire-element--v1.png" width="25" align="center" />
+  <strong style="color: #90EE90;">1000+ coding problems</strong> solved across LeetCode, GFG, TakeUForward
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/28/null/trophy.png" width="25" align="center" />
+  <strong style="color: #90EE90;">Ranked 1st Academically</strong> (11th & 12th) • <strong style="color: #90EE90;">Hall of Fame Award</strong> – CSE Dept
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/28/null/group.png" width="25" align="center" />
+  <strong style="color: #90EE90;">Executive Member</strong> – Scientel Association • <strong style="color: #90EE90;">Synergy Squad 3.0 Top Performer</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/28/null/calendar--v1.png" width="25" align="center" />
+  <strong style="color: #90EE90;">1.5+ Year GitHub Streak</strong> • 365-day LeetCode consistency
+</p>
+
+<br>
+<hr width="80%" style="border: 1px solid #90EE90;">
+<br>
+
+<p align="center">
+  <strong style="color: #90EE90; font-size: 1.2rem;"><i>“Knowledge is power.” 💡</i></strong>
+</p>
 
 <br>
 
 <!-- CONNECT WITH ME - DARK THEME LIGHT GREEN -->
 <h3 align="center" style="color: #90EE90;">🌐 CONNECT WITH ME</h3>
+
 <p align="center">
   <a href="https://github.com/Dhinesh-Developer" target="_blank"><img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=90EE90" /></a>
   <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
@@ -101,7 +108,9 @@
   <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-141414?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
 </p>
 
-<!-- ACTION BUTTONS: RESUME & HIRE - LIGHT GREEN -->
+<br>
+
+<!-- ACTION BUTTONS: RESUME & HIRE -->
 <p align="center">
   <a href="dk_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_View_Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=141414" /></a>
   <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/📧_Hire_Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=141414" /></a>
@@ -113,26 +122,20 @@
 
 <!-- ============================================ -->
 <!--      STATS BANNER - DARK THEME CARD          -->
-/* LIKE PROJECTS PAGE STATS BANNER */
 <!-- ============================================ -->
 
 <p align="center">
-  <table align="center" style="background: #141414; border: 2px solid #90EE90; border-radius: 15px; padding: 20px; max-width: 900px;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 3rem; font-weight: bold; color: #90EE90; font-family: 'Bebas Neue', cursive;">50+</div>
-        <div style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Total Projects</div>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 3rem; font-weight: bold; color: #90EE90; font-family: 'Bebas Neue', cursive;">20+</div>
-        <div style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Full Stack Apps</div>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 3rem; font-weight: bold; color: #90EE90; font-family: 'Bebas Neue', cursive;">25+</div>
-        <div style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Console Systems</div>
-      </td>
-    </tr>
-  </table>
+  <strong style="font-size: 2.5rem; color: #90EE90; font-family: 'Bebas Neue', cursive;">50+</strong>
+  <br>
+  <span style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Total Projects</span>
+  <br><br>
+  <strong style="font-size: 2.5rem; color: #90EE90; font-family: 'Bebas Neue', cursive;">20+</strong>
+  <br>
+  <span style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Full Stack Apps</span>
+  <br><br>
+  <strong style="font-size: 2.5rem; color: #90EE90; font-family: 'Bebas Neue', cursive;">25+</strong>
+  <br>
+  <span style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Console Systems</span>
 </p>
 
 <br>
@@ -142,47 +145,56 @@
 <!--      PROBLEM SOLVER METRICS DASHBOARD        -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
-  ⚡ PROBLEM SOLVER METRICS ⚡
+  <span style="color: #90EE90;">⚡ PROBLEM SOLVER METRICS ⚡</span>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
 </h2>
 
 <br>
 
-<!-- METRICS CARDS - DARK THEME LIGHT GREEN BORDERS -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" style="background-color: #1A1A1A; border-radius: 25px; padding: 25px; border: 2px solid #90EE90;">
-      <img src="https://img.icons8.com/fluency/56/null/medium-icons8-cup.png" />
-      <h1 style="font-size: 48px; margin: 10px 0; color: #90EE90;">1000+</h1>
-      <strong style="font-size: 20px; color: white;">DSA Problems Solved</strong><br>
-      <span style="color: #aaa;">LeetCode • GFG • CodeChef</span>
-    </td>
-    <td align="center" width="33%" style="background-color: #1A1A1A; border-radius: 25px; padding: 25px; border: 2px solid #90EE90;">
-      <img src="https://img.icons8.com/fluency/56/null/calendar--v1.png" />
-      <h1 style="font-size: 48px; margin: 10px 0; color: #90EE90;">365</h1>
-      <strong style="font-size: 20px; color: white;">Days LeetCode Streak</strong><br>
-      <span style="color: #aaa;">Consistent Daily Solving</span>
-    </td>
-    <td align="center" width="33%" style="background-color: #1A1A1A; border-radius: 25px; padding: 25px; border: 2px solid #90EE90;">
-      <img src="https://img.icons8.com/fluency/56/null/github.png" />
-      <h1 style="font-size: 48px; margin: 10px 0; color: #90EE90;">550+</h1>
-      <strong style="font-size: 20px; color: white;">GitHub Contributions</strong><br>
-      <span style="color: #aaa;">1.5+ Year Active Streak</span>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.icons8.com/fluency/56/null/medium-icons8-cup.png" />
+  <br>
+  <strong style="font-size: 48px; color: #90EE90;">1000+</strong>
+  <br>
+  <strong>DSA Problems Solved</strong>
+  <br>
+  <span style="color: #aaa;">LeetCode • GFG • CodeChef</span>
+</p>
 
 <br>
 
-<!-- LEETCODE & GFG CARDS -->
+<p align="center">
+  <img src="https://img.icons8.com/fluency/56/null/calendar--v1.png" />
+  <br>
+  <strong style="font-size: 48px; color: #90EE90;">365</strong>
+  <br>
+  <strong>Days LeetCode Streak</strong>
+  <br>
+  <span style="color: #aaa;">Consistent Daily Solving</span>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/56/null/github.png" />
+  <br>
+  <strong style="font-size: 48px; color: #90EE90;">550+</strong>
+  <br>
+  <strong>GitHub Contributions</strong>
+  <br>
+  <span style="color: #aaa;">1.5+ Year Active Streak</span>
+</p>
+
+<br>
+
 <p align="center">
   <a href="https://leetcode.com/dhineshdeveloper_07">
-    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=1A1A1A&text_color=ddd&border=2&border_color=90EE90&radius=15" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=1A1A1A&text_color=ddd&border=2&border_color=90EE90&radius=15" width="45%" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=1A1A1A&text_color=ddd&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=15&show_rank=true" width="48%" />
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=1A1A1A&text_color=ddd&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=15&show_rank=true" width="45%" />
   </a>
 </p>
 
@@ -190,44 +202,52 @@
 <br>
 
 <!-- ============================================ -->
-<!--           TECH STACK SECTION                 */
-/* DARK THEME WITH LIGHT GREEN ACCENTS           */
+<!--           TECH STACK SECTION                 -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
-  🛠 TECHNICAL ARSENAL
+  <span style="color: #90EE90;">🛠 TECHNICAL ARSENAL</span>
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
 </h2>
 
-<!-- BACKEND -->
+<br>
+
 <p align="center">
-  <strong style="color: #90EE90;">🚀 BACKEND ENGINEERING</strong><br>
+  <strong style="color: #90EE90;">🚀 BACKEND ENGINEERING</strong>
+  <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=141414" />
+  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=141414" />
 </p>
 
-<!-- FRONTEND -->
+<br>
+
 <p align="center">
-  <strong style="color: #90EE90;">🎨 FRONTEND DEVELOPMENT</strong><br>
+  <strong style="color: #90EE90;">🎨 FRONTEND DEVELOPMENT</strong>
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=141414" />
+  <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=141414" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=141414" />
 </p>
 
-<!-- DEVOPS & TOOLS -->
+<br>
+
 <p align="center">
-  <strong style="color: #90EE90;">⚙️ DEVOPS & TOOLS</strong><br>
+  <strong style="color: #90EE90;">⚙️ DEVOPS & TOOLS</strong>
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=141414" />
+  <br>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=141414" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=141414" />
@@ -236,325 +256,136 @@
 <br>
 <br>
 
-<!-- ============================================ */
-<!--         PROFESSIONAL EXPERIENCE              */
+<!-- ============================================ -->
+<!--         PROFESSIONAL EXPERIENCE              -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9ilbn/giphy.gif" width="35" height="35" />
-  💼 PROFESSIONAL JOURNEY
+  <span style="color: #90EE90;">💼 PROFESSIONAL JOURNEY</span>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9ilbn/giphy.gif" width="35" height="35" />
 </h2>
 
 <br>
 
-<!-- EXPERIENCE CARD - DARK THEME LIGHT GREEN BORDER -->
-<table align="center" width="100%" style="background-color: #1A1A1A; border-radius: 25px; border-left: 10px solid #90EE90; padding: 20px;">
-  <tr>
-    <td>
-      <h3 style="color: #90EE90;">Full Stack Developer Intern</h3>
-      <p style="color: white;"><strong style="color: #90EE90;">📍 NoviTech R&D, Coimbatore</strong> • 🗓 2024 | 6 Months</p>
-      <ul style="color: #ddd;">
-        <li>Developed scalable backend modules using <strong style="color: #90EE90;">Java & Spring Boot</strong>.</li>
-        <li>Worked on database optimization & <strong style="color: #90EE90;">REST API integration</strong>.</li>
-        <li>Improved application performance and <strong style="color: #90EE90;">modular design</strong>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong style="color: #90EE90;">Full Stack Developer Intern</strong>
+  <br>
+  📍 NoviTech R&D, Coimbatore • 🗓 2024 | 6 Months
+</p>
+
+<ul style="list-style-type: none; text-align: center; padding: 0;">
+  <li>✓ Developed scalable backend modules using <strong style="color: #90EE90;">Java & Spring Boot</strong>.</li>
+  <li>✓ Worked on database optimization & <strong style="color: #90EE90;">REST API integration</strong>.</li>
+  <li>✓ Improved application performance and <strong style="color: #90EE90;">modular design</strong>.</li>
+</ul>
 
 <br>
 <br>
 
-<!-- ============================================ */
-/*         LATEST PROJECTS - LIKE PROJECTS PAGE   */
-/*         DARK THEME CARDS WITH LIGHT GREEN      */
+<!-- ============================================ -->
+<!--         LATEST PROJECTS - CARDS              -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" height="35" />
-  🔥 LATEST PROJECTS
+  <span style="color: #90EE90;">🔥 LATEST PROJECTS</span>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" height="35" />
 </h2>
 
 <br>
 
-<!-- PROJECT CARDS - 3 COLUMN GRID -->
-<table align="center" width="100%">
-  <tr>
-    <!-- Social Network Recommendation Engine -->
-    <td width="33%" valign="top" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90; margin: 10px;">
-      <p align="center"><i class="fas fa-network-wired" style="font-size: 2rem; color: #90EE90;"></i></p>
-      <h3 align="center" style="color: #90EE90;">🤝 Social Network Recommendation Engine</h3>
-      <p align="center" style="color: #ddd;">Advanced friend recommendation system using BFS, HashMap, PriorityQueue.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/BFS-90EE90?style=flat-square&logo=graph&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dhinesh-Developer/Social-Network-Recommendation-Engine"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-      </p>
-    </td>
-    
-    <!-- RideNow -->
-    <td width="33%" valign="top" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90; margin: 10px;">
-      <p align="center"><i class="fas fa-car" style="font-size: 2rem; color: #90EE90;"></i></p>
-      <h3 align="center" style="color: #90EE90;">🚗 RideNow - Ride Booking System</h3>
-      <p align="center" style="color: #ddd;">Full-featured ride booking backend with user management, driver coordination.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOPS-90EE90?style=flat-square&logo=java&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dhinesh-Developer/RideNow"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-      </p>
-    </td>
-    
-    <!-- BiteNow -->
-    <td width="33%" valign="top" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90; margin: 10px;">
-      <p align="center"><i class="fas fa-utensils" style="font-size: 2rem; color: #90EE90;"></i></p>
-      <h3 align="center" style="color: #90EE90;">🍔 BiteNow - Food Delivery Platform</h3>
-      <p align="center" style="color: #ddd;">Complete full-stack food delivery platform with cart and order processing.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dhinesh-Developer/BiteNow/tree/main"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- PROJECT 1 -->
+<p align="center">
+  <strong style="color: #90EE90;">🤝 Social Network Recommendation Engine</strong>
+  <br>
+  Advanced friend recommendation system using BFS, HashMap, PriorityQueue.
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/BFS-90EE90?style=flat-square&logo=graph&logoColor=black" />
+  <br>
+  <a href="https://github.com/Dhinesh-Developer/Social-Network-Recommendation-Engine"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
+</p>
+
+<br>
+
+<!-- PROJECT 2 -->
+<p align="center">
+  <strong style="color: #90EE90;">🚗 RideNow - Ride Booking System</strong>
+  <br>
+  Full-featured ride booking backend with user management, driver coordination.
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPS-90EE90?style=flat-square&logo=java&logoColor=black" />
+  <br>
+  <a href="https://github.com/Dhinesh-Developer/RideNow"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
+</p>
+
+<br>
+
+<!-- PROJECT 3 -->
+<p align="center">
+  <strong style="color: #90EE90;">🍔 BiteNow - Food Delivery Platform</strong>
+  <br>
+  Complete full-stack food delivery platform with cart and order processing.
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <br>
+  <a href="https://github.com/Dhinesh-Developer/BiteNow/tree/main"><img src="https://img.shields.io/badge/View_Code-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
+</p>
 
 <br>
 <br>
 
 <!-- ============================================ -->
-/*         FULL STACK PROJECTS - ALL 15          */
-/*         DARK THEME CARDS WITH ICONS           */
+<!--         FULL STACK PROJECTS LIST             -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
-  <i class="fas fa-layer-group" style="color: #90EE90;"></i>
-  🚀 FULL STACK PROJECTS
-  <i class="fas fa-layer-group" style="color: #90EE90;"></i>
+<h2 align="center">
+  <span style="color: #90EE90;">🚀 FULL STACK PROJECTS</span>
 </h2>
 
 <br>
 
-<!-- PROJECT GRID - ROW 1 -->
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-shoe-prints" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🔥 Nike Clone</h3>
-      <p style="color: #ddd;">E-commerce frontend clone using React + Tailwind</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <a href="https://youtu.be/kEiB6lgMgt4"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-hamburger" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🍔 Fab Food</h3>
-      <p style="color: #ddd;">Food ordering system like Swiggy/Zomato</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-      <a href="https://youtu.be/wLidDe47nvw"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-university" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">💰 QPay</h3>
-      <p style="color: #ddd;">Banking web app with secure transactions</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <a href="https://youtu.be/SFa8uYxNwfk"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ROW 2 -->
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-link" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🔗 Linklytics</h3>
-      <p style="color: #ddd;">Smart link tracker & analytics platform</p>
-      <a href="https://youtu.be/IUjeTCqoigc"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-search" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🔍 DK's Search Engine</h3>
-      <p style="color: #ddd;">Indexes 500+ sites with custom crawler</p>
-      <a href="https://youtu.be/nd5BVeHq1Qg"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-comments" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">💬 Real-Time Chat App</h3>
-      <p style="color: #ddd;">WebSocket-powered messaging system</p>
-      <a href="https://youtu.be/CdfYt9P8lVs"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ROW 3 -->
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-code" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🔥 DK's Java Solutions</h3>
-      <p style="color: #ddd;">AI-assisted Java & frontend tutorials</p>
-      <a href="https://youtu.be/Drr9xaAgru8"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-calendar-alt" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">📅 Class Scheduler</h3>
-      <p style="color: #ddd;">Organize tasks & reminders</p>
-      <a href="https://youtu.be/KpxKHUk3lcI"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-newspaper" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">📰 News Portal System</h3>
-      <p style="color: #ddd;">Live news publishing web app</p>
-      <a href="https://youtu.be/nRHQMlDzZys"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ROW 4 -->
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-briefcase" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">💼 DK's Job Portal</h3>
-      <p style="color: #ddd;">Placement & job posting portal</p>
-      <a href="https://youtu.be/h4Xdw9kJx5I"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-heartbeat" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">❤ Save Life</h3>
-      <p style="color: #ddd;">AI-driven emergency support</p>
-      <a href="https://youtu.be/HuXWSw10hcI"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-search" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">📊 Smart Research Assistant</h3>
-      <p style="color: #ddd;">AI-powered academic helper</p>
-      <a href="https://youtu.be/ZsuKhFY700g"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ROW 5 -->
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-envelope" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">📧 AI Email Reply Generator</h3>
-      <p style="color: #ddd;">Professional AI-based replies</p>
-      <a href="https://youtu.be/waFMnzsvv1Y"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fab fa-docker" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🐳 Dockering Spring Boot</h3>
-      <p style="color: #ddd;">Containerized deployment</p>
-      <a href="https://youtu.be/mcTk_ktdZCs"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=141414" /></a>
-    </td>
-    <td width="33%" align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 1px solid #90EE90;">
-      <i class="fas fa-cogs" style="font-size: 2rem; color: #90EE90;"></i>
-      <h3 style="color: white;">🔥 ERP Application</h3>
-      <p style="color: #ddd;">College ERP system</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Demo |
+|--------|-------------|------|
+| 🔥 **Nike Clone** | E-commerce frontend clone using React + Tailwind | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/kEiB6lgMgt4) |
+| 🍔 **Fab Food** | Food ordering system like Swiggy/Zomato | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/wLidDe47nvw) |
+| 💰 **QPay** | Banking web app with secure transactions | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/SFa8uYxNwfk) |
+| 🔗 **Linklytics** | Smart link tracker & analytics platform | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/IUjeTCqoigc) |
+| 🔍 **DK's Search Engine** | Indexes 500+ sites with custom crawler | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/nd5BVeHq1Qg) |
+| 💬 **Real-Time Chat App** | WebSocket-powered messaging system | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/CdfYt9P8lVs) |
+| 🔥 **DK's Java Solutions** | AI-assisted Java & frontend tutorials | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/Drr9xaAgru8) |
+| 📅 **Class Scheduler** | Organize tasks & reminders | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/KpxKHUk3lcI) |
+| 📰 **News Portal System** | Live news publishing web app | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/nRHQMlDzZys) |
+| 💼 **DK's Job Portal** | Placement & job posting portal | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/h4Xdw9kJx5I) |
+| ❤ **Save Life** | AI-driven emergency support app | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/HuXWSw10hcI) |
+| 📊 **Smart Research Assistant** | AI-powered academic helper | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/ZsuKhFY700g) |
+| 📧 **AI Email Reply Generator** | Professional AI-based replies | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/waFMnzsvv1Y) |
+| 🐳 **Dockering Spring Boot** | Containerized deployment | [<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=141414">](https://youtu.be/mcTk_ktdZCs) |
+| 🔥 **ERP Application** | College ERP system | [<img src="https://img.shields.io/badge/View_Project-90EE90?style=flat&logo=github&logoColor=black&labelColor=141414">](https://github.com/Dhinesh-Developer) |
 
 <br>
 <br>
 
-<!-- ============================================ */
-/*         SYSTEMS & APPLICATIONS - 25+           */
-/*         DARK THEME CARDS                      */
+<!-- ============================================ -->
+<!--         SYSTEMS & APPLICATIONS               -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
-  <i class="fas fa-cogs" style="color: #90EE90;"></i>
-  📂 SYSTEMS & APPLICATIONS (25+)
-  <i class="fas fa-cogs" style="color: #90EE90;"></i>
+<h2 align="center">
+  <span style="color: #90EE90;">📂 SYSTEMS & APPLICATIONS (25+)</span>
 </h2>
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-shopping-cart" style="color: #90EE90;"></i> <strong style="color: white;">🛒 Supermarket Billing System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-plane" style="color: #90EE90;"></i> <strong style="color: white;">✈️ Flight Ticket Booking System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-road" style="color: #90EE90;"></i> <strong style="color: white;">🚧 Toll Payment Processing</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-bus" style="color: #90EE90;"></i> <strong style="color: white;">🚌 Bus Ticket Booking System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-envelope" style="color: #90EE90;"></i> <strong style="color: white;">📧 Mail Management System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-file" style="color: #90EE90;"></i> <strong style="color: white;">📂 File Management System</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-calendar-alt" style="color: #90EE90;"></i> <strong style="color: white;">🎉 Event Management System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-train" style="color: #90EE90;"></i> <strong style="color: white;">🚆 Railway Ticket Booking</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-taxi" style="color: #90EE90;"></i> <strong style="color: white;">🚖 Taxi Booking System</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-users" style="color: #90EE90;"></i> <strong style="color: white;">🧑‍💼 Employee Management System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-boxes" style="color: #90EE90;"></i> <strong style="color: white;">📦 Inventory Management</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-receipt" style="color: #90EE90;"></i> <strong style="color: white;">🧾 Invoice Management System</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-book" style="color: #90EE90;"></i> <strong style="color: white;">📚 Library Management System</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-map-marker-alt" style="color: #90EE90;"></i> <strong style="color: white;">📍 Coordinate Problem</strong></p>
-    </td>
-    <td width="33%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p><i class="fas fa-ellipsis-h" style="color: #90EE90;"></i> <strong style="color: white;">➕ 10+ more utilities</strong></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🛒 Supermarket Billing System • ✈️ Flight Ticket Booking • 🚧 Toll Payment Processing<br>
+  🚌 Bus Ticket Booking • 📧 Mail Management System • 📂 File Management System<br>
+  🎉 Event Management System • 🚆 Railway Ticket Booking • 🚖 Taxi Booking System<br>
+  🧑‍💼 Employee Management System • 📦 Inventory Management • 🧾 Invoice Management System<br>
+  📚 Library Management System • 📍 Coordinate Problem • ➕ 10+ more utilities
+</p>
 
 <p align="center">
   <a href="https://github.com/Dhinesh-Developer/Scanerio_Based_Projects"><img src="https://img.shields.io/badge/📁_VIEW_ALL_SYSTEMS-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
@@ -563,57 +394,20 @@
 <br>
 <br>
 
-<!-- ============================================ */
-/*              GAMES SECTION - 8                */
-/*         DARK THEME CARDS                      */
+<!-- ============================================ -->
+<!--              GAMES SECTION                   -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
-  <i class="fas fa-gamepad" style="color: #90EE90;"></i>
-  🎮 CLASSIC CONSOLE GAMES
-  <i class="fas fa-gamepad" style="color: #90EE90;"></i>
+<h2 align="center">
+  <span style="color: #90EE90;">🎮 CLASSIC CONSOLE GAMES</span>
 </h2>
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-dungeon" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">🏰 Dungeon Game</strong></p>
-    </td>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-puzzle-piece" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">🧩 Maze Runner</strong></p>
-    </td>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-gamepad" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">🧱 Brick Breaker</strong></p>
-    </td>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-bomb" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">💣 Minesweeper</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-running" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">👾 Bombarded Man</strong></p>
-    </td>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-th" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">🔢 Sudoku Solver</strong></p>
-    </td>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-snake" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">🐍 Snake Game</strong></p>
-    </td>
-    <td width="25%" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; border: 1px solid #90EE90;">
-      <p align="center"><i class="fas fa-times-circle" style="color: #90EE90; font-size: 1.5rem;"></i></p>
-      <p align="center"><strong style="color: white;">❌⭕ Tic Tac Toe</strong></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🏰 Dungeon Game • 🧩 Maze Runner • 🧱 Brick Breaker • 💣 Minesweeper<br>
+  👾 Bombarded Man • 🔢 Sudoku Solver • 🐍 Snake Game • ❌⭕ Tic Tac Toe
+</p>
 
 <p align="center">
   <a href="https://github.com/Dhinesh-Developer/Scanerio_Based_Projects"><img src="https://img.shields.io/badge/🎮_PLAY_ALL_GAMES-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
@@ -622,79 +416,60 @@
 <br>
 <br>
 
-<!-- ============================================ */
-/*         EDUCATION JOURNEY - RANK CARDS        */
-/*         DARK THEME WITH LIGHT GREEN           */
+<!-- ============================================ -->
+<!--         EDUCATION JOURNEY                    -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
-  <i class="fas fa-graduation-cap" style="color: #90EE90;"></i>
-  🎓 EDUCATION JOURNEY
-  <i class="fas fa-graduation-cap" style="color: #90EE90;"></i>
+<h2 align="center">
+  <span style="color: #90EE90;">🎓 EDUCATION JOURNEY</span>
 </h2>
 
 <br>
 
-<!-- Merit Banner -->
 <p align="center">
-  <table align="center" style="background: #1A1A1A; border: 2px solid #90EE90; border-radius: 15px; padding: 20px; max-width: 800px;">
-    <tr>
-      <td align="center">
-        <h3 style="color: #90EE90;"><i class="fas fa-trophy"></i> MERIT SCHOLARSHIP STUDENT</h3>
-        <p style="color: #ddd;">Consistently maintaining academic excellence with top ranks. Achieved First Rank in both 11th and 12th grades.</p>
-      </td>
-    </tr>
-  </table>
+  <strong style="color: #90EE90;">🏆 MERIT SCHOLARSHIP STUDENT</strong>
+  <br>
+  Consistently maintaining academic excellence with top ranks. Achieved First Rank in both 11th and 12th grades.
 </p>
 
 <br>
 
-<!-- Rank Cards -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90;">
-      <p align="center"><i class="fas fa-crown" style="color: #FFD700; font-size: 2rem;"></i></p>
-      <h3 align="center" style="color: #90EE90;">11th Grade - School Topper</h3>
-      <p align="center" style="color: #ddd;">📍 Govt. Higher Secondary School, Kakapalayam</p>
-      <p align="center" style="color: #ddd;">📅 2021-2022 | 🥇 First Rank</p>
-    </td>
-    <td width="50%" style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border: 2px solid #90EE90;">
-      <p align="center"><i class="fas fa-crown" style="color: #FFD700; font-size: 2rem;"></i></p>
-      <h3 align="center" style="color: #90EE90;">12th Grade - School Topper</h3>
-      <p align="center" style="color: #ddd;">📍 Govt. Higher Secondary School, Kakapalayam</p>
-      <p align="center" style="color: #ddd;">📅 2022-2023 | 🥇 First Rank | 87.33%</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong style="color: #90EE90;">🥇 11th Grade - School Topper</strong>
+  <br>
+  📍 Govt. Higher Secondary School, Kakapalayam • 📅 2021-2022
+</p>
+
+<p align="center">
+  <strong style="color: #90EE90;">🥇 12th Grade - School Topper</strong>
+  <br>
+  📍 Govt. Higher Secondary School, Kakapalayam • 📅 2022-2023 • 87.33%
+</p>
 
 <br>
 
-<!-- Timeline -->
-<table align="center" width="100%">
-  <tr>
-    <td style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border-left: 10px solid #90EE90; margin-bottom: 15px;">
-      <h3 style="color: #90EE90;">📚 10th Grade - Secondary School</h3>
-      <p style="color: white;">Model School Veerapandi, Elampillai (2020-2021) • All Pass</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color: #1A1A1A; border-radius: 15px; padding: 20px; border-left: 10px solid #90EE90; margin-bottom: 15px;">
-      <h3 style="color: #90EE90;">🎓 B.E. Computer Science & Engineering</h3>
-      <p style="color: white;">Knowledge Institute of Technology, Kakapalayam (2023-2027) • CGPA: 8.5</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong style="color: #90EE90;">📚 10th Grade - Secondary School</strong>
+  <br>
+  Model School Veerapandi, Elampillai • 2020-2021
+</p>
+
+<p align="center">
+  <strong style="color: #90EE90;">🎓 B.E. Computer Science & Engineering</strong>
+  <br>
+  Knowledge Institute of Technology, Kakapalayam • 2023-2027 • CGPA: 8.5
+</p>
 
 <br>
 <br>
 
-<!-- ============================================ */
-/*         GITHUB ANALYTICS & STATS              */
+<!-- ============================================ -->
+<!--         GITHUB ANALYTICS                     -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
-  📊 GITHUB ANALYTICS
+  <span style="color: #90EE90;">📊 GITHUB ANALYTICS</span>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
 </h2>
 
@@ -718,13 +493,13 @@
 <br>
 <br>
 
-<!-- ============================================ */
-/*         PORTFOLIO & CONTACT                   */
+<!-- ============================================ -->
+<!--         PORTFOLIO & CONTACT                  -->
 <!-- ============================================ -->
 
-<h2 align="center" style="color: #90EE90;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
-  🌐 PORTFOLIO & CONTACT
+  <span style="color: #90EE90;">🌐 PORTFOLIO & CONTACT</span>
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
 </h2>
 
@@ -743,8 +518,8 @@
 <br>
 <br>
 
-<!-- ============================================ */
-/*         MOTIVATIONAL QUOTE & SNAKE            */
+<!-- ============================================ -->
+<!--         MOTIVATIONAL QUOTE & SNAKE           -->
 <!-- ============================================ -->
 
 <p align="center">
@@ -757,8 +532,8 @@
 
 <br>
 
-<!-- ============================================ */
-/*         PROFILE VIEWS & FOOTER                */
+<!-- ============================================ -->
+<!--         PROFILE VIEWS & FOOTER               -->
 <!-- ============================================ -->
 
 <p align="center">
@@ -779,5 +554,5 @@
 </p>
 
 <!-- ============================================ -->
-/*              END OF PROFILE                   */
+<!--              END OF PROFILE                  -->
 <!-- ============================================ -->
