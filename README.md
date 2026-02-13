@@ -3,20 +3,26 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141414,100:141414&text=Dhinesh%20Kumar%20M&fontSize=55&fontColor=90EE90&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20•%20Problem%20Solver%20•%20System%20Architect&descSize=19&descAlignY=65" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=141414&text=Dhinesh%20Kumar%20M&fontSize=50&fontColor=90EE90&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20|%20Problem%20Solver%20|%20System%20Architect&descSize=18&descAlignY=65" 
+    width="100%" 
+  />
 </p>
 
-<br>
+<br/>
 
 <!-- ===================================================== -->
 <!--                 TYPING ANIMATION                      -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2200&pause=700&color=90EE90&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+Full+Stack+Java+Developer;⚡+1000%2B+DSA+Problems+Solved+%7C+1+Year+LeetCode+Streak;🏗️+Spring+Boot+•+React+•+Microservices+•+Docker;📊+1.5%2B+Years+GitHub+Streak+%7C+550%2B+Contributions;🎯+Ranked+1st+Academically+%7C+Former+School+Pupil+Leader" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=90EE90&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;1000%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices+%7C+Docker;550%2B+GitHub+Contributions;Consistent+Learner+%7C+Future+SDE" 
+    alt="Typing Animation" 
+  />
 </p>
 
-<br>
+<br/>
 
 <!-- ===================================================== -->
 <!--                      BADGES                           -->
