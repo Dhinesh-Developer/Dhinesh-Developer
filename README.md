@@ -1,10 +1,10 @@
 <!-- ===================================================== -->
-<!--                   DARK PORTFOLIO HEADER               -->
+<!--                DARK MODE FRIENDLY HEADER             -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=141414&text=Dhinesh%20Kumar%20M&fontSize=50&fontColor=90EE90&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20|%20Problem%20Solver%20|%20System%20Architect&descSize=18&descAlignY=65" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0d1117,1c1c1c&text=Dhinesh%20Kumar%20M&fontSize=50&fontColor=90EE90&animation=fadeIn&desc=Full%20Stack+Java+Developer%20•%20Problem%20Solver%20•%20System%20Architect&descSize=18&descAlignY=65" 
     width="100%" 
   />
 </p>
@@ -23,6 +23,7 @@
 </p>
 
 <br/>
+
 
 <!-- ===================================================== -->
 <!--                      BADGES                           -->
