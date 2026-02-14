@@ -151,56 +151,52 @@
 </p>
 
 
-<!-- ============================================ -->
-<!--      PROBLEM SOLVER METRICS DASHBOARD        -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--              PROBLEM SOLVER METRICS                  -->
+<!-- ===================================================== -->
 
-<h2 align="center" style="color: #90EE90;">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
-  ⚡ PROBLEM SOLVER METRICS ⚡
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
+<h2 align="center">
+  ⚡ Problem Solver Metrics ⚡
 </h2>
 
-<br>
+<p align="center">
+  Consistency • Competitive Programming • Clean Engineering
+</p>
 
-<!-- METRICS CARDS - DARK THEME LIGHT GREEN BORDERS -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" style="background-color: #1A1A1A; border-radius: 25px; padding: 25px; border: 2px solid #90EE90;">
-      <img src="https://img.icons8.com/fluency/56/null/medium-icons8-cup.png" />
-      <h1 style="font-size: 48px; margin: 10px 0; color: #90EE90;">1000+</h1>
-      <strong style="font-size: 20px; color: white;">DSA Problems Solved</strong><br>
-      <span style="color: #aaa;">LeetCode • GFG • CodeChef</span>
-    </td>
-    <td align="center" width="33%" style="background-color: #1A1A1A; border-radius: 25px; padding: 25px; border: 2px solid #90EE90;">
-      <img src="https://img.icons8.com/fluency/56/null/calendar--v1.png" />
-      <h1 style="font-size: 48px; margin: 10px 0; color: #90EE90;">365</h1>
-      <strong style="font-size: 20px; color: white;">Days LeetCode Streak</strong><br>
-      <span style="color: #aaa;">Consistent Daily Solving</span>
-    </td>
-    <td align="center" width="33%" style="background-color: #1A1A1A; border-radius: 25px; padding: 25px; border: 2px solid #90EE90;">
-      <img src="https://img.icons8.com/fluency/56/null/github.png" />
-      <h1 style="font-size: 48px; margin: 10px 0; color: #90EE90;">550+</h1>
-      <strong style="font-size: 20px; color: white;">GitHub Contributions</strong><br>
-      <span style="color: #aaa;">1.5+ Year Active Streak</span>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 📊 Core Performance Highlights
 
-<!-- LEETCODE & GFG CARDS -->
+<p align="center">
+
+| 🏆 DSA Problems | 🔥 LeetCode Streak | 📈 GitHub Contributions |
+|:----------------:|:-----------------:|:----------------------:|
+| **1000+**<br>LeetCode • GFG • CodeChef | **365 Days**<br>Daily Consistency | **550+**<br>1.5+ Year Active Streak |
+
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
 <p align="center">
   <a href="https://leetcode.com/dhineshdeveloper_07">
-    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=1A1A1A&text_color=ddd&border=2&border_color=90EE90&radius=15" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=0d1117&text_color=ffffff&border=2&border_color=90EE90&radius=12" width="48%" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=1A1A1A&text_color=ddd&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=15&show_rank=true" width="48%" />
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=0d1117&text_color=ffffff&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=12&show_rank=true" width="48%" />
   </a>
 </p>
 
-<br>
-<br>
+---
+
+### 💡 Competitive Strength
+
+- Strong problem-solving foundation in **Data Structures & Algorithms**
+- Comfortable with **Greedy, DP, Graphs, Trees, Sliding Window, Recursion**
+- Regular participation in contests and structured learning
+- Focused on writing **clean, optimized, scalable solutions**
+
 
 <!-- ============================================ -->
 <!--           TECH STACK SECTION                 */
