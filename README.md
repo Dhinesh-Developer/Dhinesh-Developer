@@ -22,25 +22,30 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=90EE90&style=for-the-badge" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=90EE90&style=for-the-badge" />
 
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=90EE90&labelColor=141414" />
-
+  <!-- DSA Problems -->
   <img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-90EE90?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" />
 
+  <!-- Full Stack Projects -->
   <img src="https://img.shields.io/badge/Full%20Stack%20Projects-20%2B-3B9DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" />
 
 </p>
 
 <p align="center">
 
+  <!-- LeetCode Streak -->
   <img src="https://img.shields.io/badge/LeetCode-Streak%201%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" />
 
+  <!-- GitHub Streak -->
   <img src="https://img.shields.io/badge/GitHub-Streak%201.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" />
 
+  <!-- Executive Member -->
   <img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-00C853?style=for-the-badge&logo=teamspeak&logoColor=white&labelColor=141414" />
 
 </p>
+
 
 
 <!-- WELCOME SECTION -->
