@@ -579,44 +579,6 @@
 
 <br>
 <br>
-<!-- ============================================ -->
-<!--              EDUCATION JOURNEY              -->
-<!-- ============================================ -->
-
-## 🎓 Education Journey
-
-### 🏆 Academic Highlights
-- 🥇 First Rank in 11th Grade  
-- 🥇 First Rank in 12th Grade  
-- 🎖 Merit Scholarship Student  
-
----
-
-### 🎓 B.E. Computer Science & Engineering  
-**Knowledge Institute of Technology, Kakapalayam**  
-📅 2023 – 2027  
-📊 CGPA: 8.5  
-
----
-
-### 🏫 Higher Secondary (12th Grade)  
-**Govt. Higher Secondary School, Kakapalayam**  
-📅 2022 – 2023  
-🥇 First Rank | 87.33%  
-
----
-
-### 🏫 Higher Secondary (11th Grade)  
-**Govt. Higher Secondary School, Kakapalayam**  
-📅 2021 – 2022  
-🥇 First Rank  
-
----
-
-### 📚 Secondary School (10th Grade)  
-**Model School Veerapandi, Elampillai**  
-📅 2020 – 2021  
-✔ All Pass  
 
 <!-- ============================================ */
 /*         GITHUB ANALYTICS & STATS              */
@@ -673,44 +635,6 @@
 <br>
 <br>
 
-<!-- ============================================ */
-/*         MOTIVATIONAL QUOTE & SNAKE            */
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Consistency%20Beats%20Talent%20When%20Talent%20Doesn't%20Work%20Hard&author=Dhinesh%20Kumar%20M" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhinesh-Developer/Dhinesh-Developer/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<br>
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Dhinesh-Developer">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<a href="https://youtube.com/">
-  <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" />
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-</p>
-
----
 
 <!-- ============================================ -->
 <!--                   FOOTER                     -->
@@ -721,6 +645,6 @@
 </p>
 
 <p align="center">
-  © 2026 Dhinesh Kumar M • 
+  © 2024 Dhinesh Kumar M • 
 </p>
 
