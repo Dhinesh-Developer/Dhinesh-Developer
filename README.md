@@ -18,6 +18,12 @@
 </p>
 >
 
+<h2 align="center" style="color: #90EE90;">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
+  🌐 PORTFOLIO & CONTACT
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
+</h2>
+
 <!-- PROFESSIONAL BADGES - DARK THEME -->
 
 <p align="center">
@@ -683,19 +689,6 @@
 
 <br>
 
-<!-- ============================================ -->
-<!--           PROFILE VIEWS SECTION              -->
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=PROFILE%20VIEWS&color=90EE90&style=for-the-badge&labelColor=0d1117" />
-</p>
-
----
-
-<!-- ============================================ -->
-<!--                CONNECT WITH ME               -->
-<!-- ============================================ -->
 
 ## 🌐 Connect With Me
 
@@ -730,12 +723,6 @@
 </p>
 
 <p align="center">
-  © 2026 Dhinesh Kumar M • Built with Java & Spring Boot
+  © 2026 Dhinesh Kumar M • 
 </p>
 
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.”</i>
-</p>
-===================================== -->
-
-<!-- ============================================ -->
