@@ -1,7 +1,12 @@
-<!-- 3D DYNAMIC HEADER - DARK THEME WITH LIGHT GREEN ACCENTS -->
+<!-- PROFESSIONAL CODING STYLE HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=280&color=gradient&customColorList=0,2,3,8,12,24&text=Dhinesh%20Kumar%20M&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=90EE90&strokeWidth=1.8&desc=Full%20Stack%20Java%20Developer%20•%20Problem%20Solver%20•%20System%20Architect&descSize=19&descAlignY=65" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,100:1f2937&text=Dhinesh%20Kumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&stroke=90EE90&strokeWidth=1.5&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65" 
+    width="100%" 
+  />
 </p>
+
 
 <!-- TYPING ANIMATION - LIGHT GREEN -->
 <p align="center">
