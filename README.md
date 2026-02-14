@@ -65,7 +65,7 @@
 <h3 align="center">DhineshKumar M</h3>
 
 <p align="center">
-  <b>Full Stack Java Developer</b> • Problem Solver • System Builder
+  <b>Full Stack Java Developer</b> • Problem Solver • System Architect
 </p>
 
 ---
@@ -204,6 +204,80 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 <br>
 
+<!-- ===================================================== -->
+<!--                 CODING PROFILES                        -->
+<!--              WITH ANALYTICS CARDS                     -->
+<!-- ===================================================== -->
+
+## 🧠 Coding Profiles & Analytics
+
+<br>
+
+<!-- Profile Badges -->
+<p align="center">
+  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank">
+    <img src="https://img.shields.io/badge/Take%20U%20Forward-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  </a>
+</p>
+
+<br>
+
+<!-- LeetCode Analytics Card -->
+<p align="center">
+  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=0d1117&text_color=ffffff&border=2&border_color=90EE90&radius=12" width="48%" />
+  </a>
+  
+  <!-- GeeksforGeeks Analytics Card -->
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=0d1117&text_color=ffffff&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=12&show_rank=true" width="48%" />
+  </a>
+</p>
+
+<br>
+
+<!-- Take U Forward Stats (Custom Card) -->
+<p align="center">
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstriverr%2Ftake-u-forward&query=%24.stargazers_count&suffix=%20problems&label=Take%20U%20Forward&labelColor=0d1117&color=90EE90&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<!-- Alternative: Simple TUF Stats Display -->
+<p align="center">
+  <span style="background: #0d1117; border: 2px solid #90EE90; border-radius: 30px; padding: 12px 40px; display: inline-block;">
+    <img src="https://img.icons8.com/fluency/48/null/google-code.png" width="30" align="left" style="margin-right: 15px;" />
+    <span style="color: #fff; font-size: 18px;"><b style="color: #90EE90;">Take U Forward</b> • 500+ Problems Solved</span>
+  </span>
+</p>
+
+<br>
+
+<!-- Optional: Detailed Stats Table -->
+<h3 align="center" style="color: #90EE90;">📈 Detailed Breakdown</h3>
+
+<p align="center">
+
+| Platform | Problems Solved | Streak | Ranking |
+|:--------:|:---------------:|:------:|:-------:|
+| **LeetCode** | 500+ | 365 Days | 1400+ Contest Rating |
+| **GeeksforGeeks** | 250+ | Consistent | Institute Rank #20 |
+| **Take U Forward** | 350+ | Active | SDE Sheet 80% |
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--              GITHUB ANALYTICS (YOUR ORIGINAL)         -->
+<!-- ===================================================== -->
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
   📊 GitHub Analytics
@@ -218,7 +292,6 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=react-dark&hide_border=true&bg_color=0d1117&color=90EE90&line=90EE90&point=FFD700&area=true&area_color=90EE90&custom_title=Dhinesh's%20Contribution%20Graph&days=30" width="100%" />
 </p>
-
 <br>
 
 ---
