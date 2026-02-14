@@ -1,3 +1,7 @@
+<!-- ===================================================== -->
+<!--                    HEADER BANNER                       -->
+<!-- ===================================================== -->
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,50:90EE90,100:0d1117&text=DhineshKumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65&fontAlignY=38" 
@@ -5,10 +9,10 @@
   />
 </p>
 
----
+<br>
 
 <!-- ===================================================== -->
-<!--                 TYPING ANIMATION                      -->
+<!--                 TYPING ANIMATION                       -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -18,19 +22,24 @@
   />
 </p>
 
----
+<br>
+<br>
 
 <!-- ===================================================== -->
 <!--                PORTFOLIO & HIGHLIGHTS                 -->
 <!-- ===================================================== -->
 
-## 🌐 Portfolio & Highlights
+<h2 align="center">🌟 Professional Highlights</h2>
+
+<br>
 
 <p align="center">
   <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk">
     <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=90EE90&style=for-the-badge&labelColor=0d1117" />
@@ -39,15 +48,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Streak%201%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GitHub-Streak%201.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LeetCode_Streak-1%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Streak-1.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Executive_Member-Scientel_Association-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117" />
 </p>
 
 <br>
+<br>
 
 <!-- ===================================================== -->
-<!--                    WELCOME SECTION                    -->
+<!--                    WELCOME SECTION                     -->
 <!-- ===================================================== -->
 
 <h2 align="center">⚡ Welcome to My Coding Realm ⚡</h2>
@@ -58,43 +68,185 @@
 
 <br>
 
-<!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
-<!-- ===================================================== -->
-
 <h3 align="center">DhineshKumar M</h3>
 
 <p align="center">
   <b>Full Stack Java Developer</b> • Problem Solver • System Builder
 </p>
 
----
+<br>
+<hr>
+<br>
 
 <!-- ===================================================== -->
-<!--         PROFESSIONAL SUMMARY (FROM YOUR SITE)         -->
+<!--                PROFESSIONAL SUMMARY                    -->
 <!-- ===================================================== -->
 
-## 👨‍💻 ABOUT ME
+<h2 align="center">👨‍💻 About Me</h2>
+
+<br>
 
 <p align="center">
   <i>Hai Visitors 👋</i>
 </p>
 
-I'm an experienced <b>Full Stack Java Developer</b> with 2+ years of hands-on experience, having built <b>20+ full-stack applications</b> and <b>25+ console-based systems</b>. These projects gave me strong backend development exposure and a solid understanding of <b>DSA, LLD, and HLD</b>. I've solved <b>1000+ problems</b> across LeetCode, GFG, and TakeUForward, which strengthened my problem-solving and analytical skills.
+<div style="max-width: 900px; margin: 0 auto; text-align: justify; color: #ddd; line-height: 1.8;">
+  <p>
+    I'm an experienced <b style="color: #90EE90;">Full Stack Java Developer</b> with <b style="color: #90EE90;">2+ years</b> of hands-on experience, having built <b style="color: #90EE90;">20+ full-stack applications</b> and <b style="color: #90EE90;">25+ console-based systems</b>. These projects gave me strong backend development exposure and a solid understanding of <b style="color: #90EE90;">DSA, LLD, and HLD</b>. I've solved <b style="color: #90EE90;">1000+ problems</b> across LeetCode, GFG, and TakeUForward, which strengthened my problem-solving and analytical skills.
+  </p>
+  
+  <p>
+    I also maintain a strong academic background, ranking <b style="color: #90EE90;">1st in both 11th and 12th grades</b>, and was recently honored with the <b style="color: #90EE90;">Hall of Fame Award</b> from my Computer Science & Engineering department.
+  </p>
+  
+  <p>
+    Along with technical growth, I actively focus on leadership and collaboration. I'm a <b style="color: #90EE90;">Synergy Squad 3.0 Top Performer</b> and an <b style="color: #90EE90;">Executive Member of the Scientel Association</b>, where I've organized and managed technical events and workshops. I've spoken on multiple stages in my department, helping me develop confident communication and leadership skills.
+  </p>
+  
+  <p>
+    I'm deeply passionate about teaching and mentoring, and I enjoy simplifying complex concepts. I aim to grow as a software engineer who builds efficient systems, leads with impact, and continuously learns.
+  </p>
+</div>
 
-I also maintain a strong academic background, ranking <b>1st in both 11th and 12th grades</b>, and was recently honored with the <b>Hall of Fame Award</b> from my Computer Science & Engineering department.
-
-Along with technical growth, I actively focus on leadership and collaboration. I'm a <b>Synergy Squad 3.0 Top Performer</b> and an <b>Executive Member of the Scientel Association</b>, where I've organized and managed technical events and workshops. I've spoken on multiple stages in my department, helping me develop confident communication and leadership skills.
-
-I'm deeply passionate about teaching and mentoring, and I enjoy simplifying complex concepts. I aim to grow as a software engineer who builds efficient systems, leads with impact, and continuously learns.
+<br>
 
 <p align="center">
-  <i>“Knowledge is power.” 💡</i>
+  <i style="color: #90EE90; font-size: 18px;">“Knowledge is power.” 💡</i>
 </p>
 
----
+<br>
+<hr>
+<br>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<!-- ===================================================== -->
+<!--                TECHNICAL PROFICIENCY                   -->
+<!-- ===================================================== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
+  🛠 Technical Proficiency
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
+</h2>
+
+<br>
+
+<h3 align="center" style="color: #90EE90;">📌 Core Competencies</h3>
+
+<br>
+
+<p align="center">
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Data Structures & Algorithms</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Low Level Design (LLD)</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">High Level Design (HLD)</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">System Architecture</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">REST API Development</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Microservices</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Database Design</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Object Oriented Programming</span>
+</p>
+
+<br>
+<br>
+
+<h3 align="center" style="color: #90EE90;">🚀 Backend Engineering</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=h2&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+<br>
+
+<h3 align="center" style="color: #90EE90;">🎨 Frontend Development</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+<br>
+
+<h3 align="center" style="color: #90EE90;">⚙️ DevOps & Tools</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+<hr>
+<br>
+
+<!-- ===================================================== -->
+/*              GITHUB ANALYTICS & STATISTICS              */
+<!-- ===================================================== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
+  📊 GitHub Analytics
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
+</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=90EE90&icon_color=90EE90&text_color=ddd&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&theme=dark&hide_border=true&background=0d1117&ring=90EE90&fire=FFB86B&currStreakLabel=90EE90&sideLabels=ddd" height="180" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=react-dark&hide_border=true&bg_color=0d1117&color=90EE90&line=90EE90&point=FFD700&area=true&area_color=90EE90&custom_title=Dhinesh's%20Contribution%20Graph&days=30" width="95%" />
+</p>
+
+<br>
+<hr>
+<br>
+
+<!-- ===================================================== -->
+/*                CONNECT WITH ME SECTION                  */
+<!-- ===================================================== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
+  🌐 Connect With Me
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
+</h2>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Dhinesh-Developer">
@@ -117,133 +269,45 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <a href="dk_resume.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=0d1117" />
+  <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" />
   </a>
   <a href="mailto:dhineshdeveloper07@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/📧_Email_Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
+  </a>
+  <a href="dk_resume.pdf">
+    <img src="https://img.shields.io/badge/📄_View_Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=0d1117" />
   </a>
 </p>
 
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
-  🛠 Technical Proficiency
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
-</h2>
-
+<br>
+<hr>
 <br>
 
-<h3 align="center">📌 Core Competencies</h3>
+<!-- ===================================================== -->
+/*              MOTIVATIONAL QUOTE & SNAKE                 */
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Low%20Level%20Design%20(LLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/High%20Level%20Design%20(HLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/System%20Architecture-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/REST%20API%20Development-0d1117?style=for-the-badge&logo=swagger&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logo=docker&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=for-the-badge&logo=postgresql&logoColor=90EE90&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-0d1117?style=for-the-badge&logo=java&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Consistency%20Beats%20Talent%20When%20Talent%20Doesn't%20Work%20Hard&author=Dhinesh%20Kumar%20M" width="90%" />
 </p>
 
 <br>
 
-<h3 align="center">🚀 Backend Engineering</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=h2&logoColor=white&labelColor=0d1117" />
+  <img src="https://raw.githubusercontent.com/Dhinesh-Developer/Dhinesh-Developer/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <br>
-
-<h3 align="center">🎨 Frontend Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
-</p>
-
 <br>
 
-<h3 align="center">⚙️ DevOps & Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=0d1117" />
-</p>
-
-<br>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
-  📊 GitHub Analytics
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=90EE90&icon_color=90EE90&text_color=ddd&rank_icon=github" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&theme=dark&hide_border=true&background=0d1117&ring=90EE90&fire=FFB86B&currStreakLabel=90EE90&sideLabels=ddd" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=react-dark&hide_border=true&bg_color=0d1117&color=90EE90&line=90EE90&point=FFD700&area=true&area_color=90EE90&custom_title=Dhinesh's%20Contribution%20Graph&days=30" width="100%" />
-</p>
-
-<br>
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
-  🌐 Portfolio & Contact
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
-</h2>
-
-<p align="center">
-  <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk"><img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
-  <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://leetcode.com/dhineshdeveloper_07"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/"><img src="https://img.shields.io/badge/GFG-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-  <a href="https://youtube.com/@dhineshdeveloper07"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-</p>
-
-<br>
-
----
+<!-- ===================================================== -->
+/*                    FOOTER SECTION                        */
+/*              (Exactly as you requested)                 */
+<!-- ===================================================== -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
@@ -261,3 +325,7 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 <p align="center">
   <span style="color: #90EE90; font-size: 18px;"><i>“First, solve the problem. Then, write the code.” – John Johnson</i></span>
 </p>
+
+<!-- ===================================================== -->
+/*                    END OF PROFILE                        */
+<!-- ===================================================== -->
