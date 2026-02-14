@@ -252,8 +252,8 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 <!-- Alternative: Simple TUF Stats Display -->
 <p align="center">
   <span style="background: #0d1117; border: 2px solid #90EE90; border-radius: 30px; padding: 12px 40px; display: inline-block;">
-    <img src="https://img.icons8.com/fluency/48/null/google-code.png" width="30" align="left" style="margin-right: 15px;" />
-    <span style="color: #fff; font-size: 18px;"><b style="color: #90EE90;">Take U Forward</b> • 500+ Problems Solved</span>
+    <!-- <img src="https://img.icons8.com/fluency/48/null/google-code.png" width="30" align="left" style="margin-right: 15px;" /> -->
+    <span style="color: #fff; font-size: 18px;"><b style="color: #90EE90;">Take U Forward</b> • 350+ Problems Solved</span>
   </span>
 </p>
 
