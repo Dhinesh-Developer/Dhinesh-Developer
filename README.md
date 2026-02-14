@@ -683,27 +683,59 @@
 
 <br>
 
-<!-- ============================================ */
-/*         PROFILE VIEWS & FOOTER                */
+<!-- ============================================ -->
+<!--           PROFILE VIEWS SECTION              -->
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20PROFILE%20VIEWS%20🌟&color=90EE90&style=for-the-badge&labelColor=141414" width="350" />
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=PROFILE%20VIEWS&color=90EE90&style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:90EE90,100:141414&height=180&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20grow%20together%20🚀&fontSize=22&fontColor=90EE90&animation=twinkling&fontAlignY=70" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/©_2025_DhineshKumar_M-141414?style=flat-square&labelColor=141414&color=141414" />
-  <img src="https://img.shields.io/badge/☕_Powered_by_Java_&_Spring-141414?style=flat-square&labelColor=141414&color=141414" />
-</p>
-
-<p align="center">
-  <i style="color: #90EE90;">“First, solve the problem. Then, write the code.” – John Johnson</i>
-</p>
+---
 
 <!-- ============================================ -->
-/*              END OF PROFILE                   */
+<!--                CONNECT WITH ME               -->
+<!-- ============================================ -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Dhinesh-Developer">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</p>
+
+---
+
+<!-- ============================================ -->
+<!--                   FOOTER                     -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:90EE90,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20🚀&fontSize=20&fontColor=90EE90&animation=twinkling&fontAlignY=70" />
+</p>
+
+<p align="center">
+  © 2026 Dhinesh Kumar M • Built with Java & Spring Boot
+</p>
+
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.”</i>
+</p>
+===================================== -->
+
 <!-- ============================================ -->
