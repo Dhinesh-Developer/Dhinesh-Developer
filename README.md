@@ -1,54 +1,52 @@
-<!-- PROFESSIONAL CODING STYLE HEADER -->
+<!-- ===================================================== -->
+<!--                    HEADER SECTION                     -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,100:1f2937&text=DhineshKumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&stroke=90EE90&strokeWidth=1.5&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f2937&text=Dhinesh%20Kumar%20M&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65" 
     width="100%" 
   />
 </p>
 
+---
 
-<!-- TYPING ANIMATION - PROFESSIONAL DARK THEME -->
+<!-- ===================================================== -->
+<!--                 TYPING ANIMATION                      -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=90EE90&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;1000%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices+%7C+Docker;550%2B+GitHub+Contributions;Consistent+Learner+%7C+Future+SDE" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=90EE90&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;1000%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices+%7C+Docker;550%2B+GitHub+Contributions;Consistent+Learner+%7C+Future+Software+Engineer" 
     alt="Typing Animation" 
   />
 </p>
->
 
-<h2 align="center" style="color: #90EE90;">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
-  🌐 PORTFOLIO & CONTACT
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
-</h2>
+---
 
-<!-- PROFESSIONAL BADGES - DARK THEME -->
+<!-- ===================================================== -->
+<!--                PORTFOLIO & CONTACT                    -->
+<!-- ===================================================== -->
+
+## 🌐 Portfolio & Highlights
 
 <p align="center">
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=90EE90&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=90EE90&style=for-the-badge&labelColor=0d1117" />
 
-  <!-- DSA Problems -->
-  <img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-90EE90?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" />
+<img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-90EE90?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 
-  <!-- Full Stack Projects -->
-  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-20%2B-3B9DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Projects-20%2B-3B9DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 
 </p>
 
 <p align="center">
 
-  <!-- LeetCode Streak -->
-  <img src="https://img.shields.io/badge/LeetCode-Streak%201%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" />
+<img src="https://img.shields.io/badge/LeetCode-Streak%201%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 
-  <!-- GitHub Streak -->
-  <img src="https://img.shields.io/badge/GitHub-Streak%201.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" />
+<img src="https://img.shields.io/badge/GitHub-Streak%201.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
 
-  <!-- Executive Member -->
-  <img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-00C853?style=for-the-badge&logo=teamspeak&logoColor=white&labelColor=141414" />
+<img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117" />
 
 </p>
 
