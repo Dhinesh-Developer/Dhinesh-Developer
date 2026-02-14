@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,100:1f2937&text=Dhinesh%20Kumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&stroke=90EE90&strokeWidth=1.5&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,100:1f2937&text=DhineshKumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&stroke=90EE90&strokeWidth=1.5&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65" 
     width="100%" 
   />
 </p>
@@ -18,19 +18,30 @@
 </p>
 >
 
-<!-- BADGES - DARK WITH LIGHT GREEN -->
+<!-- PROFESSIONAL BADGES - DARK THEME -->
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Profile_Views-2.5k%2B-90EE90?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Followers-145-90EE90?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub_Streak-1.5%2B_Years-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode_365-1_Year_Consistency-00BFA6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" /></a>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=90EE90&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=90EE90&labelColor=141414" />
+
+  <img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-90EE90?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" />
+
+  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-20%2B-3B9DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" />
+
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/DSA_Problems-1000%2B-90EE90?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Executive_Member-Scientel_Association-FF8C00?style=for-the-badge&logo=group&logoColor=white&labelColor=141414" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Projects-20%2B_Full_Stack-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" /></a>
+
+  <img src="https://img.shields.io/badge/LeetCode-Streak%201%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=141414" />
+
+  <img src="https://img.shields.io/badge/GitHub-Streak%201.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" />
+
+  <img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-00C853?style=for-the-badge&logo=teamspeak&logoColor=white&labelColor=141414" />
+
 </p>
+
 
 <!-- WELCOME SECTION -->
 <p align="center">
