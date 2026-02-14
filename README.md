@@ -48,73 +48,51 @@
 
 
 
-<!-- WELCOME SECTION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <strong style="font-size: 24px; color: #90EE90;">WELCOME TO MY CODING REALM</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</p>
+<!-- ===================================================== -->
+<!--                    WELCOME SECTION                   -->
+<!-- ===================================================== -->
+
+<h2 align="center">⚡ Welcome to My Coding Realm ⚡</h2>
 
 <p align="center">
-  <strong style="color: #90EE90;">⚡ Where algorithms meet elegant solutions • Consistency beats talent ⚡</strong>
+  Where Algorithms Meet Elegant Solutions • Consistency Beats Talent
 </p>
 
 <br>
-<br>
 
-<!-- ============================================ -->
-<!--           HERO SECTION - PROFILE             -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                      -->
+<!-- ===================================================== -->
 
-<!-- ============================================ -->
+<p align="center">
+  <img src="1.jpg" width="200" style="border-radius: 50%;" />
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <!-- Profile Image with Floating Animation (CSS not supported, using static GIF style) -->
-      <img src="1.jpg" alt="Dhinesh Kumar M" width="220" height="220" style="border-radius: 50%; border: 5px solid #90EE90; box-shadow: 0 0 30px rgba(144,238,144,0.3);" />
-      <br>
-      <em><strong style="color: #90EE90; font-size: 1.5rem;">DHINESH KUMAR M</strong></em>
-    </td>
-    <td width="67%" valign="top">
-      <!-- Professional Intro - Dark Theme -->
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/idea-sharing.png" width="25" align="left" />
-        <strong style="color: #90EE90;"> Passionate Full Stack Java Developer</strong> with <strong style="color: #90EE90;">2+ years</strong> of hands-on experience.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/graph.png" width="25" align="left" />
-        Built <strong style="color: #90EE90;">20+ full-stack applications</strong> & <strong style="color: #90EE90;">25+ console systems</strong> • Strong <strong style="color: #90EE90;">DSA, LLD, HLD</strong>.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/fire-element--v1.png" width="25" align="left" />
-        <strong style="color: #90EE90;">1000+ coding problems</strong> solved across LeetCode, GFG, TakeUForward.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/trophy.png" width="25" align="left" />
-        <strong style="color: #90EE90;">Ranked 1st Academically</strong> (11th & 12th) • <strong style="color: #90EE90;">Hall of Fame Award</strong> – CSE Dept.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/group.png" width="25" align="left" />
-        <strong style="color: #90EE90;">Executive Member</strong> – Scientel Association • <strong style="color: #90EE90;">Synergy Squad 3.0 Top Performer</strong>.
-      </p>
-      <br>
-      <p>
-        <img src="https://img.icons8.com/fluency/28/null/calendar--v1.png" width="25" align="left" />
-        <strong style="color: #90EE90;">1.5+ Year GitHub Streak</strong> • 365-day LeetCode consistency.
-      </p>
-      <hr style="border: 1px solid #90EE90;" />
-      <p align="center">
-        <strong style="color: #90EE90;"><i>“Knowledge is power.” 💡</i></strong>
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Dhinesh Kumar M</h3>
 
-<br>
+<p align="center">
+  <b>Full Stack Java Developer</b> • Problem Solver • System Builder
+</p>
+
+---
+
+## 👨‍💻 Professional Summary
+
+- 🚀 Passionate **Full Stack Java Developer** with hands-on experience building scalable applications  
+- 💻 Developed **20+ Full Stack Applications** & **25+ Console-Based Systems**  
+- 🧠 Strong foundation in **Data Structures, Algorithms, LLD & HLD**  
+- 🔥 Solved **1000+ Coding Problems** across LeetCode & GFG  
+- 🏆 Ranked **1st Academically (11th & 12th)**  
+- 🥇 Recipient of **Hall of Fame Award – CSE Department**  
+- 👥 Executive Member – **Scientel Association**  
+- 📈 Maintained **1.5+ Year GitHub Streak** & 365-Day LeetCode Consistency  
+
+---
+
+<p align="center">
+  <i>“Knowledge is power.” 💡</i>
+</p>
+
 
 <!-- CONNECT WITH ME - DARK THEME LIGHT GREEN -->
 <h3 align="center" style="color: #90EE90;">🌐 CONNECT WITH ME</h3>
