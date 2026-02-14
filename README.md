@@ -214,18 +214,18 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
 </h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-Developer&theme=onedark&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=7" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=90EE90&icon_color=90EE90&text_color=ddd&rank_icon=github" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&theme=dark&hide_border=true&background=0d1117&ring=90EE90&fire=FFB86B&currStreakLabel=90EE90&sideLabels=ddd" height="180" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=90EE90&text_color=ddd&langs_count=8" height="160" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=react-dark&hide_border=true&bg_color=0d1117&color=90EE90&line=90EE90&point=FFD700&area=true&area_color=90EE90&custom_title=Dhinesh's%20Contribution%20Graph&days=30" width="100%" />
