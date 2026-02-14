@@ -75,27 +75,22 @@
 ---
 
 <!-- ===================================================== -->
-<!--                PROFESSIONAL SUMMARY                   -->
+<!--         PROFESSIONAL SUMMARY (FROM YOUR SITE)         -->
 <!-- ===================================================== -->
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 ABOUT ME
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>🚀 Passionate <b>Full Stack Java Developer</b> with hands-on experience building scalable applications</li>
-        <li>💻 Developed <b>20+ Full Stack Applications</b> & <b>25+ Console-Based Systems</b></li>
-        <li>🧠 Strong foundation in <b>Data Structures, Algorithms, LLD & HLD</b></li>
-        <li>🔥 Solved <b>1000+ Coding Problems</b> across LeetCode & GFG</li>
-        <li>🏆 Ranked <b>1st Academically (11th & 12th)</b></li>
-        <li>🥇 Recipient of <b>Hall of Fame Award – CSE Department</b></li>
-        <li>👥 Executive Member – <b>Scientel Association</b></li>
-        <li>📈 Maintained <b>1.5+ Year GitHub Streak</b> & 365-Day LeetCode Consistency</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <i>Hai Visitors 👋</i>
+</p>
+
+I'm an experienced <b>Full Stack Java Developer</b> with 2+ years of hands-on experience, having built <b>20+ full-stack applications</b> and <b>25+ console-based systems</b>. These projects gave me strong backend development exposure and a solid understanding of <b>DSA, LLD, and HLD</b>. I've solved <b>1000+ problems</b> across LeetCode, GFG, and TakeUForward, which strengthened my problem-solving and analytical skills.
+
+I also maintain a strong academic background, ranking <b>1st in both 11th and 12th grades</b>, and was recently honored with the <b>Hall of Fame Award</b> from my Computer Science & Engineering department.
+
+Along with technical growth, I actively focus on leadership and collaboration. I'm a <b>Synergy Squad 3.0 Top Performer</b> and an <b>Executive Member of the Scientel Association</b>, where I've organized and managed technical events and workshops. I've spoken on multiple stages in my department, helping me develop confident communication and leadership skills.
+
+I'm deeply passionate about teaching and mentoring, and I enjoy simplifying complex concepts. I aim to grow as a software engineer who builds efficient systems, leads with impact, and continuously learns.
 
 <p align="center">
   <i>“Knowledge is power.” 💡</i>
@@ -103,9 +98,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                   CONNECT WITH ME                     -->
-<!-- ===================================================== -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -132,9 +124,7 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                    ACTION BUTTONS                     -->
-<!-- ===================================================== -->
+
 
 <p align="center">
   <a href="dk_resume.pdf">
@@ -147,164 +137,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--              PROBLEM SOLVER METRICS                   -->
-<!-- ===================================================== -->
-
-<h2 align="center">⚡ Problem Solver Metrics ⚡</h2>
-
-<p align="center">
-  Consistency • Competitive Programming • Clean Engineering
-</p>
-
-<br>
-
-## 📊 Core Performance Highlights
-
-<p align="center">
-
-| 🏆 DSA Problems | 🔥 LeetCode Streak | 📈 GitHub Contributions |
-|:----------------:|:-----------------:|:----------------------:|
-| **1000+**<br>LeetCode • GFG • CodeChef | **365 Days**<br>Daily Consistency | **550+**<br>1.5+ Year Active Streak |
-
-</p>
-
-<br>
-
-## 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/dhineshdeveloper_07">
-    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=0d1117&text_color=ffffff&border=2&border_color=90EE90&radius=12" width="48%" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=0d1117&text_color=ffffff&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=12&show_rank=true" width="48%" />
-  </a>
-</p>
-
-<br>
-
-### 💡 Competitive Strength
-
-- Strong problem-solving foundation in **Data Structures & Algorithms**
-- Comfortable with **Greedy, DP, Graphs, Trees, Sliding Window, Recursion**
-- Regular participation in contests and structured learning
-- Focused on writing **clean, optimized, scalable solutions**
-
----
-
-<!-- ===================================================== -->
-<!--                TECHNICAL ARSENAL                      -->
-<!-- ===================================================== -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
-  🛠 Technical Arsenal
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
-</h2>
-
-<br>
-
-### 🚀 Backend Engineering
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
-</p>
-
-### ⚙️ DevOps & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
-</p>
-
-<br>
-
----
-
-<!-- ===================================================== -->
-/*              EDUCATION JOURNEY - CARDS                  */
-<!-- ===================================================== -->
-
-<h2 align="center">🎓 Education Journey</h2>
-
-<p align="center">
-  <span style="background: linear-gradient(145deg, #0d1117, #1A1A1A); border: 2px solid #FFD700; border-radius: 50px; padding: 20px 50px; display: inline-block;">
-    <strong style="color: #FFD700; font-size: 28px;">🏆 MERIT SCHOLARSHIP STUDENT</strong>
-    <br>
-    <span style="color: #ddd;">First Rank in 11th & 12th Grade • Hall of Fame Award - CSE Dept</span>
-  </span>
-</p>
-
-<br>
-
-<p align="center">
-  <span style="background: #0d1117; border: 2px solid #FFD700; border-radius: 30px; padding: 25px; margin: 15px; width: 300px; display: inline-block;">
-    <img src="https://img.icons8.com/fluency/48/null/crown.png" width="50" />
-    <br>
-    <strong style="color: #FFD700; font-size: 26px;">🥇 11th Grade</strong>
-    <br>
-    <span style="color: #fff;">School Topper</span>
-    <br>
-    <span style="color: #ddd;">📍 GHSS, Kakapalayam</span>
-    <br>
-    <span style="color: #ddd;">📅 2021-2022</span>
-  </span>
-  
-  <span style="background: #0d1117; border: 2px solid #FFD700; border-radius: 30px; padding: 25px; margin: 15px; width: 300px; display: inline-block;">
-    <img src="https://img.icons8.com/fluency/48/null/crown.png" width="50" />
-    <br>
-    <strong style="color: #FFD700; font-size: 26px;">🥇 12th Grade</strong>
-    <br>
-    <span style="color: #fff;">School Topper • 87.33%</span>
-    <br>
-    <span style="color: #ddd;">📍 GHSS, Kakapalayam</span>
-    <br>
-    <span style="color: #ddd;">📅 2022-2023</span>
-  </span>
-</p>
-
-<p align="center">
-  <span style="background: #0d1117; border-left: 8px solid #90EE90; border-radius: 20px; padding: 20px 40px; margin: 15px; width: 400px; display: inline-block; text-align: left;">
-    <strong style="color: #90EE90;">📚 10th Grade</strong>
-    <br>
-    <span style="color: #ddd;">Model School Veerapandi, Elampillai • 2020-2021</span>
-  </span>
-  
-  <span style="background: #0d1117; border-left: 8px solid #90EE90; border-radius: 20px; padding: 20px 40px; margin: 15px; width: 400px; display: inline-block; text-align: left;">
-    <strong style="color: #90EE90;">🎓 B.E. CSE</strong>
-    <br>
-    <span style="color: #ddd;">Knowledge Institute of Technology • 2023-2027 • CGPA: 8.5</span>
-  </span>
-</p>
-
-<br>
-
----
-
-<!-- ===================================================== -->
-/*                  GITHUB ANALYTICS                       */
-<!-- ===================================================== -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
@@ -333,9 +165,6 @@
 
 ---
 
-<!-- ===================================================== -->
-/*                 PORTFOLIO & CONTACT                     */
-<!-- ===================================================== -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
@@ -359,24 +188,6 @@
 
 ---
 
-<!-- ===================================================== -->
-/*              MOTIVATIONAL QUOTE & SNAKE                 */
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Consistency%20Beats%20Talent%20When%20Talent%20Doesn't%20Work%20Hard&author=Dhinesh%20Kumar%20M" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhinesh-Developer/Dhinesh-Developer/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<br>
-
-<!-- ===================================================== -->
-/*                 PROFILE VIEWS & FOOTER                  */
-<!-- ===================================================== -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
 </p>
@@ -394,6 +205,3 @@
   <span style="color: #90EE90; font-size: 18px;"><i>“First, solve the problem. Then, write the code.” – John Johnson</i></span>
 </p>
 
-<!-- ===================================================== -->
-/*                    END OF PROFILE                       */
-<!-- ===================================================== -->
