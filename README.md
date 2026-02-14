@@ -8,10 +8,15 @@
 </p>
 
 
-<!-- TYPING ANIMATION - LIGHT GREEN -->
+<!-- TYPING ANIMATION - PROFESSIONAL DARK THEME -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2200&pause=700&color=90EE90&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%9A%80+Full+Stack+Java+Developer;%E2%9A%A1+1000%2B+DSA+Problems+Solved+%7C+1+Year+LeetCode+Streak;%F0%9F%8F%97%EF%B8%8F+Spring+Boot+•+React+•+Microservices+•+Docker;%F0%9F%93%8A+1.5%2B+Years+GitHub+Streak+%7C+550%2B+Contributions;%F0%9F%8E%AF+Ranked+1st+Academically+%7C+Former+School+Pupil+Leader" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=90EE90&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;1000%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices+%7C+Docker;550%2B+GitHub+Contributions;Consistent+Learner+%7C+Future+SDE" 
+    alt="Typing Animation" 
+  />
 </p>
+>
 
 <!-- BADGES - DARK WITH LIGHT GREEN -->
 <p align="center">
