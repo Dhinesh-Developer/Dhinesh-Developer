@@ -64,11 +64,9 @@
 <!--                    HERO SECTION                      -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="1.jpg" width="200" style="border-radius: 50%;" />
-</p>
 
-<h3 align="center">Dhinesh Kumar M</h3>
+
+<h3 align="center">DhineshKumar M</h3>
 
 <p align="center">
   <b>Full Stack Java Developer</b> • Problem Solver • System Builder
@@ -94,53 +92,64 @@
 </p>
 
 
-<!-- CONNECT WITH ME - DARK THEME LIGHT GREEN -->
-<h3 align="center" style="color: #90EE90;">🌐 CONNECT WITH ME</h3>
-<p align="center">
-  <a href="https://github.com/Dhinesh-Developer" target="_blank"><img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=90EE90" /></a>
-  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://youtube.com/@dhineshdeveloper07" target="_blank"><img src="https://img.shields.io/badge/YouTube-141414?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank"><img src="https://img.shields.io/badge/LeetCode-141414?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank"><img src="https://img.shields.io/badge/TakeUForward-141414?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-141414?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-</p>
+<!-- ===================================================== -->
+<!--                   CONNECT WITH ME                    -->
+<!-- ===================================================== -->
 
-<!-- ACTION BUTTONS: RESUME & HIRE - LIGHT GREEN -->
-<p align="center">
-  <a href="dk_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_View_Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=141414" /></a>
-  <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/📧_Hire_Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=141414" /></a>
-  <a href="#about"><img src="https://img.shields.io/badge/👤_About_Me-90EE90?style=for-the-badge&logo=github&logoColor=black&labelColor=141414" /></a>
-</p>
-
-<br>
-<br>
-
-<!-- ============================================ -->
-<!--      STATS BANNER - DARK THEME CARD          -->
-
-<!-- ============================================ -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <table align="center" style="background: #141414; border: 2px solid #90EE90; border-radius: 15px; padding: 20px; max-width: 900px;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 3rem; font-weight: bold; color: #90EE90; font-family: 'Bebas Neue', cursive;">50+</div>
-        <div style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Total Projects</div>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 3rem; font-weight: bold; color: #90EE90; font-family: 'Bebas Neue', cursive;">20+</div>
-        <div style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Full Stack Apps</div>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 3rem; font-weight: bold; color: #90EE90; font-family: 'Bebas Neue', cursive;">25+</div>
-        <div style="color: #ddd; text-transform: uppercase; letter-spacing: 1px;">Console Systems</div>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Dhinesh-Developer">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=90EE90" />
+  </a>
+  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://youtube.com/@dhineshdeveloper07">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+  <a href="https://leetcode.com/dhineshdeveloper_07">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer">
+    <img src="https://img.shields.io/badge/TakeUForward-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  </a>
 </p>
 
-<br>
-<br>
+---
+
+<!-- ===================================================== -->
+<!--                    ACTION BUTTONS                    -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <a href="dk_resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=0d1117" />
+  </a>
+  <a href="mailto:dhineshdeveloper07@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
+  </a>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                   PROJECT METRICS                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 Project Highlights</h2>
+
+<p align="center">
+
+| 🚀 Total Projects | 💻 Full Stack Apps | 🖥 Console Systems |
+|:------------------:|:-----------------:|:------------------:|
+| **50+** | **20+** | **25+** |
+
+</p>
+
 
 <!-- ============================================ -->
 <!--      PROBLEM SOLVER METRICS DASHBOARD        -->
