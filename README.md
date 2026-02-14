@@ -1,12 +1,6 @@
-<!-- ===================================================== -->
-<!--                    HEADER SECTION                     -->
-<!-- ===================================================== -->
-
 <p align="center">
   <img 
-    src="h<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=shark&height=280&color=0:0d1117,100:1f2937&text=DhineshKumar%20M&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=90EE90&strokeWidth=1.5&desc=Full%20Stack%20Java%20Developer%20%7C%20Problem%20Solver%20%7C%20System%20Architect&descSize=19&descAlignY=65" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f2937&text=DhineshKumar%20M&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65" 
     width="100%" 
   />
 </p>
@@ -137,6 +131,80 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
   </a>
 </p>
 
+---
+<h2 align="center" style="color: #90EE90;">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
+  🛠 Technical Proficiency
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
+</h2>
+
+<br>
+
+<h3 align="center" style="color: #90EE90;">📌 Core Competencies</h3>
+
+<p align="center">
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Data Structures & Algorithms</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Low Level Design (LLD)</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">High Level Design (HLD)</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">System Architecture</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">REST API Development</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Microservices</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Database Design</span>
+  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Object Oriented Programming</span>
+</p>
+
+<br>
+
+<h3 align="center" style="color: #90EE90;">🚀 Backend Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=h2&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+
+<h3 align="center" style="color: #90EE90;">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+
+<h3 align="center" style="color: #90EE90;">⚙️ DevOps & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
 ---
 
 
