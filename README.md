@@ -266,10 +266,10 @@
   <tr>
     <td>
       <h3 style="color: #90EE90;">Full Stack Developer Intern</h3>
-      <p style="color: white;"><strong style="color: #90EE90;">📍 NoviTech R&D, Coimbatore</strong> • 🗓 2024 | 6 Months</p>
+      <p style="color: white;"><strong style="color: #90EE90;">📍 NoviTech R&D, Coimbatore</strong> • 🗓 2024 | 1 Months</p>
       <ul style="color: #ddd;">
-        <li>Developed scalable backend modules using <strong style="color: #90EE90;">Java & Spring Boot</strong>.</li>
-        <li>Worked on database optimization & <strong style="color: #90EE90;">REST API integration</strong>.</li>
+        <li>Developed scalable backend modules using <strong style="color: #90EE90;">Core Java</strong>.</li>
+        <li>Worked on database optimization & <strong style="color: #90EE90;">Fundamentals of Web development</strong>.</li>
         <li>Improved application performance and <strong style="color: #90EE90;">modular design</strong>.</li>
       </ul>
     </td>
