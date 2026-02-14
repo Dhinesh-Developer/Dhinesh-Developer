@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,50:90EE90,100:0d1117&text=Dhinesh%20Kumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65&fontAlignY=38" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0d1117,50:90EE90,100:0d1117&text=DhineshKumar%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=65&fontAlignY=38" 
     width="100%" 
   />
 </p>
@@ -94,7 +94,6 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 ---
 
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -120,8 +119,6 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 ---
 
-
-
 <p align="center">
   <a href="dk_resume.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=0d1117" />
@@ -132,7 +129,8 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 </p>
 
 ---
-<h2 align="center" style="color: #90EE90;">
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
   🛠 Technical Proficiency
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
@@ -140,22 +138,22 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 <br>
 
-<h3 align="center" style="color: #90EE90;">📌 Core Competencies</h3>
+<h3 align="center">📌 Core Competencies</h3>
 
 <p align="center">
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Data Structures & Algorithms</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Low Level Design (LLD)</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">High Level Design (HLD)</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">System Architecture</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">REST API Development</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Microservices</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Database Design</span>
-  <span style="background: #0d1117; border: 1.5px solid #90EE90; border-radius: 30px; padding: 8px 20px; margin: 5px; display: inline-block; color: #ddd;">Object Oriented Programming</span>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Low%20Level%20Design%20(LLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/High%20Level%20Design%20(HLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/System%20Architecture-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/REST%20API%20Development-0d1117?style=for-the-badge&logo=swagger&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logo=docker&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=for-the-badge&logo=postgresql&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-0d1117?style=for-the-badge&logo=java&logoColor=90EE90&labelColor=0d1117" />
 </p>
 
 <br>
 
-<h3 align="center" style="color: #90EE90;">🚀 Backend Engineering</h3>
+<h3 align="center">🚀 Backend Engineering</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
@@ -174,7 +172,7 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 <br>
 
-<h3 align="center" style="color: #90EE90;">🎨 Frontend Development</h3>
+<h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
@@ -187,7 +185,7 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 <br>
 
-<h3 align="center" style="color: #90EE90;">⚙️ DevOps & Tools</h3>
+<h3 align="center">⚙️ DevOps & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
@@ -206,35 +204,24 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 <br>
 
-
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
   📊 GitHub Analytics
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
 </h2>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-Developer&theme=onedark&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=7" width="100%" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=90EE90&icon_color=90EE90&text_color=ddd&rank_icon=github" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&theme=dark&hide_border=true&background=0d1117&ring=90EE90&fire=FFB86B&currStreakLabel=90EE90&sideLabels=ddd" height="180" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Developer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=90EE90&text_color=ddd&langs_count=8" height="160" />
-</p> -->
-
- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=react-dark&hide_border=true&bg_color=0d1117&color=90EE90&line=90EE90&point=FFD700&area=true&area_color=90EE90&custom_title=Dhinesh's%20Contribution%20Graph&days=30" width="100%" />
-</p> 
+</p>
 
 <br>
 
 ---
-
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
@@ -274,4 +261,3 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 <p align="center">
   <span style="color: #90EE90; font-size: 18px;"><i>“First, solve the problem. Then, write the code.” – John Johnson</i></span>
 </p>
-
