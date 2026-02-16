@@ -139,6 +139,10 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
 </h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
+</p>
+
 <br>
 
 <h3 align="center">📌 Core Competencies</h3>
@@ -321,9 +325,7 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:90EE90,100:0d1117&height=200&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20🚀&fontSize=22&fontColor=90EE90&animation=twinkling&fontAlignY=70" width="100%" />
