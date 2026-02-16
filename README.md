@@ -131,6 +131,11 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
+</p>
+
+
 ---
 
 <h2 align="center">
@@ -139,9 +144,6 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
 </h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
-</p>
 
 <br>
 
