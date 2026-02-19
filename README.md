@@ -27,7 +27,7 @@
 <!--                PORTFOLIO & HIGHLIGHTS                 -->
 <!-- ===================================================== -->
 
-## 🌐 Portfolio & Highlights
+## 🌐 Portfolio & Highlights.
 
 <p align="center">
   <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk">
