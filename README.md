@@ -6,3 +6,338 @@
     width="100%"
   />
 </p>
+
+
+---
+
+<!-- ===================================================== -->
+<!--                 TYPING ANIMATION                      -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=90EE90&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;1000%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices+%7C+Docker;550%2B+GitHub+Contributions;Consistent+Learner+%7C+Future+Software+Engineer" 
+    alt="Typing Animation" 
+  />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                PORTFOLIO & HIGHLIGHTS                 -->
+<!-- ===================================================== -->
+
+## 🌐 Portfolio & Highlights.
+
+<p align="center">
+  <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=90EE90&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-90EE90?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-20%2B-3B9DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Streak%201%20Year-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-Streak%201.5%2B%20Years-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                    WELCOME SECTION                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">⚡ Welcome to My Coding Realm ⚡</h2>
+
+<p align="center">
+  <i>Where Algorithms Meet Elegant Solutions • Consistency Beats Talent</i>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
+
+<h3 align="center">DhineshKumar M</h3>
+
+<p align="center">
+  <b>Full Stack Java Developer</b> • Problem Solver • System Architect
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--         PROFESSIONAL SUMMARY (FROM YOUR SITE)         -->
+<!-- ===================================================== -->
+
+## 👨‍💻 ABOUT ME
+
+<p align="center">
+  <i>Hai Visitors 👋</i>
+</p>
+
+I'm an experienced <b>Full Stack Java Developer</b> with 2+ years of hands-on experience, having built <b>20+ full-stack applications</b> and <b>25+ console-based systems</b>. These projects gave me strong backend development exposure and a solid understanding of <b>DSA, LLD, and HLD</b>. I've solved <b>1000+ problems</b> across LeetCode, GFG, and TakeUForward, which strengthened my problem-solving and analytical skills.
+
+I also maintain a strong academic background, ranking <b>1st in both 11th and 12th grades</b>, and was recently honored with the <b>Hall of Fame Award</b> from my Computer Science & Engineering department.
+
+Along with technical growth, I actively focus on leadership and collaboration. I'm a <b>Synergy Squad 3.0 Top Performer</b> and an <b>Executive Member of the Scientel Association</b>, where I've organized and managed technical events and workshops. I've spoken on multiple stages in my department, helping me develop confident communication and leadership skills.
+
+I'm deeply passionate about teaching and mentoring, and I enjoy simplifying complex concepts. I aim to grow as a software engineer who builds efficient systems, leads with impact, and continuously learns.
+
+<p align="center">
+  <i>“Knowledge is power.” 💡</i>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/Dhinesh-Developer">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=90EE90" />
+  </a>
+  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://youtube.com/@dhineshdeveloper07">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+  <a href="https://leetcode.com/dhineshdeveloper_07">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer">
+    <img src="https://img.shields.io/badge/TakeUForward-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="dk_resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-90EE90?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=0d1117" />
+  </a>
+  <a href="mailto:dhineshdeveloper07@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=🌟%20Profile%20Views%20🌟&color=90EE90&style=for-the-badge&labelColor=0d1117" width="400" />
+</p>
+
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
+  🛠 Technical Proficiency
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" height="35" />
+</h2>
+
+
+<br>
+
+<h3 align="center">📌 Core Competencies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Low%20Level%20Design%20(LLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/High%20Level%20Design%20(HLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/System%20Architecture-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/REST%20API%20Development-0d1117?style=for-the-badge&logo=swagger&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logo=docker&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=for-the-badge&logo=postgresql&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-0d1117?style=for-the-badge&logo=java&logoColor=90EE90&labelColor=0d1117" />
+</p>
+
+<br>
+
+<h3 align="center">🚀 Backend Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=h2&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+
+<h3 align="center">⚙️ DevOps & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                 CODING PROFILES                        -->
+<!--              WITH ANALYTICS CARDS                     -->
+<!-- ===================================================== -->
+
+## 🧠 Coding Profiles & Analytics
+
+<br>
+
+<!-- Profile Badges -->
+<p align="center">
+  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank">
+    <img src="https://img.shields.io/badge/Take%20U%20Forward-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  </a>
+</p>
+
+<br>
+
+<!-- LeetCode Analytics Card -->
+<p align="center">
+  <a href="https://leetcode.com/dhineshdeveloper_07" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=0d1117&text_color=ffffff&border=2&border_color=90EE90&radius=12" width="48%" />
+  </a>
+  
+  <!-- GeeksforGeeks Analytics Card -->
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/" target="_blank">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=0d1117&text_color=ffffff&border_color=90EE90&title_color=90EE90&theme=dark&border_radius=12&show_rank=true" width="48%" />
+  </a>
+</p>
+
+<br>
+
+<!-- Take U Forward Stats (Custom Card) -->
+<p align="center">
+  <a href="https://takeuforward.org/profile/Dhinesh%20Developer" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstriverr%2Ftake-u-forward&query=%24.stargazers_count&suffix=%20problems&label=Take%20U%20Forward&labelColor=0d1117&color=90EE90&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<!-- Alternative: Simple TUF Stats Display -->
+<p align="center">
+  <span style="background: #0d1117; border: 2px solid #90EE90; border-radius: 30px; padding: 12px 40px; display: inline-block;">
+    <!-- <img src="https://img.icons8.com/fluency/48/null/google-code.png" width="30" align="left" style="margin-right: 15px;" /> -->
+    <span style="color: #fff; font-size: 18px;"><b style="color: #90EE90;">Take U Forward</b> • 350+ Problems Solved</span>
+  </span>
+</p>
+
+<br>
+
+<!-- Optional: Detailed Stats Table -->
+<h3 align="center" style="color: #90EE90;">📈 Detailed Breakdown</h3>
+
+<p align="center">
+
+| Platform | Problems Solved | Streak | Ranking |
+|:--------:|:---------------:|:------:|:-------:|
+| **LeetCode** | 500+ | 365 Days | 1400+ Contest Rating |
+| **GeeksforGeeks** | 250+ | Consistent | Institute Rank #20 |
+| **Take U Forward** | 350+ | Active | SDE Sheet 80% |
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--              GITHUB ANALYTICS (YOUR ORIGINAL)         -->
+<!-- ===================================================== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
+  📊 GitHub Analytics
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35" />
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Developer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=90EE90&icon_color=90EE90&text_color=ddd&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Developer&theme=dark&hide_border=true&background=0d1117&ring=90EE90&fire=FFB86B&currStreakLabel=90EE90&sideLabels=ddd" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Developer&theme=react-dark&hide_border=true&bg_color=0d1117&color=90EE90&line=90EE90&point=FFD700&area=true&area_color=90EE90&custom_title=Dhinesh's%20Contribution%20Graph&days=30" width="100%" />
+</p>
+<br>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
+  🌐 Portfolio & Contact
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" height="35" />
+</h2>
+
+<p align="center">
+  <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk"><img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
+  <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-90EE90?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/%E1%B4%85%CA%9C%C9%AA%C9%B4%E1%B4%87s%CA%9C%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D-b75b1a283/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://leetcode.com/dhineshdeveloper_07"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/"><img src="https://img.shields.io/badge/GFG-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+  <a href="https://youtube.com/@dhineshdeveloper07"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+</p>
+
+<br>
+
+---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:90EE90,100:0d1117&height=200&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20🚀&fontSize=22&fontColor=90EE90&animation=twinkling&fontAlignY=70" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/©_2025_DhineshKumar_M-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/☕_Powered_by_Java_&_Spring-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+</p>
+
+<p align="center">
+  <span style="color: #90EE90; font-size: 18px;"><i>“First, solve the problem. Then, write the code.” – John Johnson</i></span>
+</p>
