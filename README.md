@@ -50,15 +50,6 @@
 
 <br>
 
-<!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
-<!-- ===================================================== -->
-
-<h3 align="center">DhineshKumar M</h3>
-
-<p align="center">
-  <b>Full Stack Java Developer</b> • Problem Solver • System Architect • ML Enginner
-</p>
 
 ---
 
