@@ -65,11 +65,11 @@ I'm an **Aspiring Full Stack Java Developer**, **Machine Learning Engineer**, an
 
 I have hands-on experience building **50+ projects** and solving **1000+ DSA problems**, strengthening my problem-solving and analytical thinking. I maintain a **CGPA of 8.5**, secured **1st rank in both 11th and 12th grade**, and am currently pursuing my degree under a **7.5% Government Scholarship quota**.
 
+I am also a **CSE Hall of Fame recognized student @ KIOT**, reflecting my academic excellence and consistent performance.
+
 I'm passionate about building scalable systems, exploring AI/ML, and continuously learning new technologies to grow as a well-rounded software engineer.
 
 *“Knowledge is power.” 💡*
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
