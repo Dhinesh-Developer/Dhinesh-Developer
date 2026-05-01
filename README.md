@@ -193,6 +193,19 @@ I'm deeply passionate about teaching and mentoring, and I enjoy simplifying comp
 
 <br>
 
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
+</p>
+
 <h3 align="center">⚙️ DevOps & Tools</h3>
 
 <p align="center">
