@@ -78,22 +78,15 @@
 
 ## 👨‍💻 ABOUT ME
 
-<p align="center">
-  <i>Hai Visitors 👋</i>
-</p>
+*Hai Visitors 👋*
 
-I'm an experienced <b>Full Stack Java Developer</b> with 2+ years of hands-on experience, having built <b>20+ full-stack applications</b> and <b>25+ console-based systems</b>. These projects gave me strong backend development exposure and a solid understanding of <b>DSA, LLD, and HLD</b>. I've solved <b>1000+ problems</b> across LeetCode, GFG, and TakeUForward, which strengthened my problem-solving and analytical skills.
+I'm an **Aspiring Full Stack Java Developer**, **Machine Learning Engineer**, and **AI Engineer** with a strong foundation in **Data Structures & Algorithms** and **System Design (LLD & HLD)**.
 
-I also maintain a strong academic background, ranking <b>1st in both 11th and 12th grades</b>, and was recently honored with the <b>Hall of Fame Award</b> from my Computer Science & Engineering department.
+I have hands-on experience building **50+ projects** and solving **1000+ DSA problems**, strengthening my problem-solving and analytical thinking. I maintain a **CGPA of 8.5**, secured **1st rank in both 11th and 12th grade**, and am currently pursuing my degree under a **7.5% Government Scholarship quota**.
 
-Along with technical growth, I actively focus on leadership and collaboration. I'm a <b>Synergy Squad 3.0 Top Performer</b> and an <b>Executive Member of the Scientel Association</b>, where I've organized and managed technical events and workshops. I've spoken on multiple stages in my department, helping me develop confident communication and leadership skills.
+I'm passionate about building scalable systems, exploring AI/ML, and continuously learning new technologies to grow as a well-rounded software engineer.
 
-I'm deeply passionate about teaching and mentoring, and I enjoy simplifying complex concepts. I aim to grow as a software engineer who builds efficient systems, leads with impact, and continuously learns.
-
-<p align="center">
-  <i>“Knowledge is power.” 💡</i>
-</p>
-
+*“Knowledge is power.” 💡*
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
