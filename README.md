@@ -206,6 +206,22 @@ I'm passionate about building scalable systems, exploring AI/ML, and continuousl
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=0d1117" />
 </p>
 
+<h3 align="center">🌍 Open Source Contributions</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nexus%20Spring%20of%20Code-0d1117?style=for-the-badge&logo=github&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-0d1117?style=for-the-badge&logo=github&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Social%20Summer%20of%20Code-0d1117?style=for-the-badge&logo=github&logoColor=90EE90&labelColor=0d1117" />
+</p>
+
+<h3 align="center">💼 Internships & Experience</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NULLClass-Full%20Stack%20Java%20Intern-0d1117?style=for-the-badge&logo=java&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LogicVeda-Data%20Scientist%20%26%20ML%20Intern-0d1117?style=for-the-badge&logo=python&logoColor=90EE90&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NoviTech-R%26D%20Web%20Development-0d1117?style=for-the-badge&logo=react&logoColor=90EE90&labelColor=0d1117" />
+</p>
+
 <br>
 
 <!-- ===================================================== -->
