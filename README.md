@@ -48,16 +48,6 @@
 
 <br>
 
-<!-- ===================================================== -->
-<!--                    WELCOME SECTION                    -->
-<!-- ===================================================== -->
-
-<h2 align="center">⚡ Welcome to My Coding Realm ⚡</h2>
-
-<p align="center">
-  <i>Where Algorithms Meet Elegant Solutions • Consistency Beats Talent</i>
-</p>
-
 <br>
 
 <!-- ===================================================== -->
@@ -67,7 +57,7 @@
 <h3 align="center">DhineshKumar M</h3>
 
 <p align="center">
-  <b>Full Stack Java Developer</b> • Problem Solver • System Architect
+  <b>Full Stack Java Developer</b> • Problem Solver • System Architect • ML Enginner
 </p>
 
 ---
