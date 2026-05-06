@@ -178,6 +178,12 @@ I'm passionate about building scalable systems, exploring AI/ML, and continuousl
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
+
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
 </p>
 
 <h3 align="center">⚙️ DevOps & Tools</h3>
