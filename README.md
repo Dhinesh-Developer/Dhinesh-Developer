@@ -1,26 +1,4 @@
-<!-- ================= HEADER BANNER.... ================= -->
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0d1117,50:90EE90,100:0d1117&text=DhineshKumar%20M&fontSize=45&fontColor=90EE90&animation=twinkling&desc=Full%20Stack%20Java%20Developer%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20DSA%20Problem%20Solver%20%7C%20System%20Architect&descSize=18&descAlignY=65&fontAlignY=35"
-    width="100%"
-  />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--                 TYPING ANIMATION                      -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=90EE90&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Machine+Learning+Engineer+%7C+Data+Scientist;1500%2B+DSA+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices+%7C+Docker;2000%2B+GitHub+Contributions;1st+Rank+in+11th+%26+12th+Grade;CSE+Hall+of+Fame+Recognized+Student;Consistent+Learner+%7C+Future+Software+Engineer" 
-    alt="Typing Animation" 
-  />
-</p>
-
----
 
 <!-- ===================================================== -->
 <!--                PORTFOLIO & HIGHLIGHTS                 -->
