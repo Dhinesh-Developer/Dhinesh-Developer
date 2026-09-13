@@ -3,8 +3,12 @@
 <!-- ================================================= -->
 
 <p align="center">
+  <img src="assets/logo.svg" width="110" />
+</p>
+
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0d1117,40:7C3AED,100:06B6D4&text=DhineshKumar%20M&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20System%20Architect&descSize=17&descAlignY=68&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0d1117,40:7C3AED,100:06B6D4&text=DhineshKumar%20M&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Java%20Developer%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20System%20Architect&descSize=17&descAlignY=68&fontAlignY=35"
     width="100%"
   />
 </p>
@@ -18,11 +22,11 @@
 
 <p align="center">
   <a href="#-about-me">About</a> ·
-  <a href="#-role-based-tech-matrix">Tech&nbsp;Matrix</a> ·
-  <a href="#-top-10-github-projects">Top&nbsp;10&nbsp;Projects</a> ·
-  <a href="#-coding-profiles--badges">Badges</a> ·
+  <a href="#-technical-proficiency">Tech&nbsp;Stack</a> ·
+  <a href="#-achievements--badges">Badges</a> ·
+  <a href="#-top-7-github-projects">Top&nbsp;7&nbsp;Projects</a> ·
   <a href="#-github-analytics">GitHub&nbsp;Stats</a> ·
-  <a href="#-portfolio--contact">Contact</a>
+  <a href="#-portfolio--resume">Portfolio&nbsp;&amp;&nbsp;Resume</a>
 </p>
 
 <p align="center">
@@ -46,7 +50,6 @@ scholarship: "Pursuing degree under 7.5% Government Scholarship quota"
 focus: ["Spring Boot Backends", "System Design (LLD/HLD)", "AI/ML & GenAI", "DSA"]
 currently_building: "Flipkart-style e-commerce platform (Spring Boot + MySQL + React)"
 repositories: "117 public repos on GitHub"
-fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 ```
 
 > *"Knowledge is power."*
@@ -62,131 +65,210 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
   <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/"><img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
 </p>
 
+---
+
+## 🛠 Technical Proficiency
+
+### 📌 Core Competencies
+
 <p align="center">
-  <a href="dk_resume.pdf"><img src="https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk"><img src="https://img.shields.io/badge/🌐_Portfolio-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Low%20Level%20Design%20(LLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/High%20Level%20Design%20(HLD)-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/System%20Architecture-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/REST%20API%20Development-0d1117?style=for-the-badge&logo=swagger&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logo=docker&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-0d1117?style=for-the-badge&logo=java&logoColor=A78BFA&labelColor=0d1117" />
+</p>
+
+### 🚀 Backend Engineering — Languages & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=h2&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🤖 AI / Machine Learning / GenAI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logo=llamaindex&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=chromadb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge&logo=weaviate&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AI_Agents-7B61FF?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tool_Calling-FF4B4B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MCP-5E5CE6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🧪 Testing & Quality (SDET)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TestNG-EA2D2E?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/RestAssured-0d1117?style=for-the-badge&logo=java&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🗄 Databases & Data Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0d1117" />
+</p>
+
+### ⚙️ DevOps, MLOps, Cloud & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-## 🧭 Role-Based Tech Matrix
+## 💼 Internships & Experience
 
-<p align="center"><i>How the same toolbox maps to each role I'm building toward.</i></p>
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">
+**🏢 NULLClass**
+`Full Stack Java Intern`
 
-| Role | Core Languages | Frameworks / Libraries | Key Tools |
-|---|---|---|---|
-| **☕ Java Developer** | Java 17, SQL | Spring Core, Spring Boot, Spring MVC, Hibernate/JPA, JUnit | Maven, Git, IntelliJ IDEA, Postman |
-| **🧩 Full Stack Java Developer** | Java, JavaScript, SQL | Spring Boot, Spring Security, React, Tailwind CSS, Bootstrap | MySQL, MongoDB, Docker, GitHub Actions, REST/Swagger |
-| **🤖 AI Engineer** | Python | PyTorch, TensorFlow, Scikit-Learn, LangChain, LangGraph, LlamaIndex, Hugging Face Transformers | FAISS, ChromaDB, Pinecone, FastAPI, MLflow, MCP |
-| **🧪 SDET** *(Test Engineering)* | Java, Python | JUnit, TestNG, Selenium, RestAssured, Postman/Newman | Maven/Gradle, Jenkins/GitHub Actions, Docker, Git |
-| **🛠 SDE (Software Development Engineer)** | Java, Python, SQL | Spring Boot, Microservices, REST APIs, Design Patterns | Docker, Kubernetes, Git, AWS/Azure/GCP, Redis, Kafka |
-| **🧮 DSA** | Java, C++ (concepts), Python | Arrays, Trees, Graphs, DP, Greedy, Backtracking, Tries | LeetCode, GeeksforGeeks, TakeUForward SDE Sheet |
-| **🏗 System Design** | Language-agnostic | LLD (SOLID, Design Patterns, UML) · HLD (Load Balancing, Caching, Sharding, Message Queues) | Draw.io, Apache Kafka, Redis, PostgreSQL, Docker, Kubernetes |
+- Built and shipped full-stack Java features end-to-end
+- Worked across Spring Boot backend + frontend integration
+- Applied REST API design and DB-backed workflows
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-<details>
-<summary><b>📌 Click to expand — full stack breakdown by category</b></summary>
+**🏢 LogicVeda**
+`Data Scientist & ML Intern`
 
-<br>
+- Worked on data analysis and ML model development
+- Applied Python data-science tooling to real datasets
+- Supported model evaluation and reporting workflows
 
-<p align="center"><b>Backend & Core</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,mongodb&theme=dark" />
-</p>
+</td>
+<td width="33%" valign="top">
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" />
-</p>
+**🏢 NoviTech R&D** — Coimbatore
+`R&D Web Development` · Oct–Sep 2024
 
-<p align="center"><b>AI / ML / GenAI</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat-square&logo=llamaindex&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=chromadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-5E5CE6?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</p>
+- Full-stack development within an R&D web team
+- Contributed to frontend builds (React) and integration work
+- Collaborated in a structured, deadline-driven dev environment
 
-<p align="center"><b>DevOps, Cloud & Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,aws,azure,gcp,postman,linux,idea,vscode&theme=dark" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center"><b>Testing & Quality (SDET)</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-EA2D2E?style=flat-square&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/RestAssured-0d1117?style=flat-square&logo=java&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-</p>
+## 🌍 Open Source Contributions
 
-</details>
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-### 💼 Internships
+**🌱 GirlScript Summer of Code**
+
+Contributed to community open-source projects as part of GSSoC, working with existing codebases and collaborative PR workflows.
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ Nexus Spring of Code**
+
+Participated as a contributor, submitting improvements and fixes to open-source repositories under program guidelines.
+
+</td>
+<td width="33%" valign="top">
+
+**🤝 Social Summer of Code**
+
+Contributed to socially-driven open-source initiatives, practicing Git collaboration at scale across a distributed contributor base.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NULLClass-Full%20Stack%20Java%20Intern-0d1117?style=for-the-badge&logo=java&logoColor=06B6D4&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LogicVeda-Data%20Scientist%20%26%20ML%20Intern-0d1117?style=for-the-badge&logo=python&logoColor=06B6D4&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/NoviTech-R%26D%20Web%20Development-0d1117?style=for-the-badge&logo=react&logoColor=06B6D4&labelColor=0d1117" />
-</p>
-
-### 🌍 Open Source
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nexus%20Spring%20of%20Code-0d1117?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-0d1117?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Social%20Summer%20of%20Code-0d1117?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Campus%20Ambassador-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Executive%20Member-Scientel%20Association-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Top%20Performer-Synergy%20Squad%203.0-06B6D4?style=for-the-badge&logo=starship&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-## 🗂 Top 10 GitHub Projects
-
-<div align="center">
-
-| # | Project | Stack | What it does |
-|:-:|---|---|---|
-| 1 | 🧾 [**Smart-Expense-tracker**](https://github.com/Dhinesh-Developer/Smart-Expense-tracker) | Spring Boot · JPA/Hibernate · MySQL · JWT | Full-stack expense & budget tracker — category-based analytics, JWT auth, budget tracking |
-| 2 | 🚕 [**RideBookingApplication**](https://github.com/Dhinesh-Developer/RideBookingApplication) | Java · OOP · SOLID · Design Patterns | Uber-inspired ride booking system — ride management, driver assignment, fare calculation, payments |
-| 3 | 🏭 [**Predictive-Maintenance-RUL-Forecasting-Platform**](https://github.com/Dhinesh-Developer/Predictive-Maintenance-Remaining-Useful-Life-Forecasting-Platform) | Python · ML · FastAPI · Streamlit | AI-powered industrial predictive maintenance — anomaly detection & Remaining Useful Life (RUL) forecasting |
-| 4 | 📦 [**FastAPI-Inventory-Project**](https://github.com/Dhinesh-Developer/FastAPI-Inventory-Project) | Python · FastAPI | REST API for inventory management |
-| 5 | 🛒 **Flipkart Clone** *(in progress)* | Spring Boot · MySQL · React | Full-scope e-commerce: catalog, cart, checkout, orders, auth, admin panel, payments, reviews, wishlist, search/filter |
-| 6 | ☕ [**FULL_STACK_JAVA_CHALLENGE_DK**](https://github.com/Dhinesh-Developer/FULL_STACK_JAVA_CHALLENGE_DK) | Java | Full-stack Java challenge/practice build |
-| 7 | 🎯 [**Software-Development-Engineer-SDE-**](https://github.com/Dhinesh-Developer/Software-Development-Engineer-SDE-) | Java | SDE interview-prep implementations |
-| 8 | 📚 [**Scanerio_Based_Projects**](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) | Java | Scenario-based problem-solving practice repo |
-| 9 | 👟 **Nike Clone** | React · Tailwind CSS | E-commerce frontend clone |
-| 10 | 📱 **Mobile Prepaid Recharge Application** | Java | Console/app-based mobile recharge simulator |
-
-</div>
-
-<p align="center"><i>📌 Full list of 117 repositories → <a href="https://github.com/Dhinesh-Developer?tab=repositories">github.com/Dhinesh-Developer</a></i></p>
-
----
-
-## 🧠 Coding Profiles & Badges
+## 🏆 Achievements & Badges
 
 <p align="center">
-  <a href="https://leetcode.com/dhineshdeveloper_07"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://takeuforward.org/profile/Dhinesh%20Developer"><img src="https://img.shields.io/badge/Take%20U%20Forward-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/dhineshdeveloper07/"><img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=0d1117&text_color=ffffff&border=2&border_color=7C3AED&radius=12" width="48%" />
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=0d1117&text_color=ffffff&border_color=7C3AED&title_color=A78BFA&theme=dark&border_radius=12&show_rank=true" width="48%" />
+  <img src="assets/badges.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -199,9 +281,32 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 
 </div>
 
-<blockquote>
-📌 <b>On listing exact earned badges</b> (LeetCode's "Guardian"/"Knight"/monthly contest badges, TakeUForward's sheet-completion badges, etc.): these live behind each platform's logged-in profile UI and aren't exposed through a public API or scrapeable page, so they can't be pulled in automatically here. The cards above already render your live stats/rank via community widgets. If you tell me exactly which badge icons you've earned (e.g. "LeetCode 50 Days Badge 2025", "TUF+ Beginner Sheet Badge"), I can hardcode them into a dedicated badge row below.
-</blockquote>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhineshdeveloper_07?theme=dark&font=Inter&ext=contest&bg=0d1117&text_color=ffffff&border=2&border_color=7C3AED&radius=12" width="48%" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=dhineshdeveloper07&bg_color=0d1117&text_color=ffffff&border_color=7C3AED&title_color=A78BFA&theme=dark&border_radius=12&show_rank=true" width="48%" />
+</p>
+
+> 📌 The graphic above is a custom-built achievements card (`assets/badges.svg`) — actual per-platform badge icons (LeetCode's "Guardian"/"Knight," TUF's sheet-completion badges) live behind each site's authenticated UI and can't be scraped or pulled via public API, so this recreates your key milestones as a designed badge row instead of leaving them out.
+
+---
+
+## 🗂 Top 7 GitHub Projects
+
+<div align="center">
+
+| # | Project | Repository | Stack | What it does |
+|:-:|---|---|---|---|
+| 1 | 🧾 Smart-Expense-tracker | [github.com/.../Smart-Expense-tracker](https://github.com/Dhinesh-Developer/Smart-Expense-tracker) | Spring Boot · JPA/Hibernate · MySQL · JWT | Full-stack expense & budget tracker — category-based analytics, JWT auth |
+| 2 | 🚕 RideBookingApplication | [github.com/.../RideBookingApplication](https://github.com/Dhinesh-Developer/RideBookingApplication) | Java · OOP · SOLID · Design Patterns | Uber-inspired ride booking — driver assignment, fare calculation, payments |
+| 3 | 🏭 Predictive-Maintenance-RUL-Forecasting-Platform | [github.com/.../Predictive-Maintenance...](https://github.com/Dhinesh-Developer/Predictive-Maintenance-Remaining-Useful-Life-Forecasting-Platform) | Python · ML · FastAPI · Streamlit | Industrial predictive maintenance — anomaly detection & RUL forecasting |
+| 4 | 📦 FastAPI-Inventory-Project | [github.com/.../FastAPI-Inventory-Project](https://github.com/Dhinesh-Developer/FastAPI-Inventory-Project) | Python · FastAPI | REST API for inventory management |
+| 5 | ☕ FULL_STACK_JAVA_CHALLENGE_DK | [github.com/.../FULL_STACK_JAVA_CHALLENGE_DK](https://github.com/Dhinesh-Developer/FULL_STACK_JAVA_CHALLENGE_DK) | Java | Full-stack Java challenge / practice build |
+| 6 | 🎯 Software-Development-Engineer-SDE- | [github.com/.../Software-Development-Engineer-SDE-](https://github.com/Dhinesh-Developer/Software-Development-Engineer-SDE-) | Java | SDE interview-prep implementations |
+| 7 | 📚 Scanerio_Based_Projects | [github.com/.../Scanerio_Based_Projects](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) | Java | Scenario-based problem-solving practice repo |
+
+</div>
+
+<p align="center"><i>📌 Full list of 117 repositories → <a href="https://github.com/Dhinesh-Developer?tab=repositories">github.com/Dhinesh-Developer</a></i></p>
 
 ---
 
@@ -220,19 +325,18 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
   <img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
 </p>
 
-<!-- 🐍 Contribution snake — requires a one-time GitHub Actions setup on your repo.
-     Add .github/workflows/snake.yml using Platane/snk, then this image will animate. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhinesh-Developer/Dhinesh-Developer/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Portfolio & Resume
+
+<p align="center">
+  <img src="assets/logo.svg" width="70" />
+</p>
 
 <p align="center">
   <a href="https://dhinesh3369.neocities.org/dhineshkumar/portfolio/dk"><img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="dk_resume.pdf"><img src="https://img.shields.io/badge/📄_VIEW_RESUME-06B6D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:dhineshdeveloper07@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL_ME-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
