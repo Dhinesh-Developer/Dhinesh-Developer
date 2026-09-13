@@ -268,7 +268,7 @@ Contributed to socially-driven open-source initiatives, practicing Git collabora
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="assets/badges.svg" width="100%" />
+  <img src="badges.svg" width="100%" />
 </p>
 
 <div align="center">
