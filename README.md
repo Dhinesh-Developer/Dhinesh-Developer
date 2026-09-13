@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="logo.png" width="110" />
+  <img src="logo.svg" width="110" />
 </p>
 
 <p align="center">
