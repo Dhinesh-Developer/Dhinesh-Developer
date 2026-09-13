@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="#-about-me">About</a> ·
-  <a href="#-tech-stack">Tech&nbsp;Stack</a> ·
-  <a href="#-featured-projects">Projects</a> ·
-  <a href="#-coding-profiles--analytics">Coding&nbsp;Profiles</a> ·
+  <a href="#-role-based-tech-matrix">Tech&nbsp;Matrix</a> ·
+  <a href="#-top-10-github-projects">Top&nbsp;10&nbsp;Projects</a> ·
+  <a href="#-coding-profiles--badges">Badges</a> ·
   <a href="#-github-analytics">GitHub&nbsp;Stats</a> ·
   <a href="#-portfolio--contact">Contact</a>
 </p>
@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=7C3AED&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-20%2B-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Repositories-117-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20SDE%20Roles-06B6D4?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" />
 </p>
 
@@ -45,6 +45,7 @@ recognition: "CSE Hall of Fame @ KIOT · 1st Rank in 11th & 12th Grade"
 scholarship: "Pursuing degree under 7.5% Government Scholarship quota"
 focus: ["Spring Boot Backends", "System Design (LLD/HLD)", "AI/ML & GenAI", "DSA"]
 currently_building: "Flipkart-style e-commerce platform (Spring Boot + MySQL + React)"
+repositories: "117 public repos on GitHub"
 fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 ```
 
@@ -69,7 +70,28 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 
 ---
 
-## 🧰 Tech Stack
+## 🧭 Role-Based Tech Matrix
+
+<p align="center"><i>How the same toolbox maps to each role I'm building toward.</i></p>
+
+<div align="center">
+
+| Role | Core Languages | Frameworks / Libraries | Key Tools |
+|---|---|---|---|
+| **☕ Java Developer** | Java 17, SQL | Spring Core, Spring Boot, Spring MVC, Hibernate/JPA, JUnit | Maven, Git, IntelliJ IDEA, Postman |
+| **🧩 Full Stack Java Developer** | Java, JavaScript, SQL | Spring Boot, Spring Security, React, Tailwind CSS, Bootstrap | MySQL, MongoDB, Docker, GitHub Actions, REST/Swagger |
+| **🤖 AI Engineer** | Python | PyTorch, TensorFlow, Scikit-Learn, LangChain, LangGraph, LlamaIndex, Hugging Face Transformers | FAISS, ChromaDB, Pinecone, FastAPI, MLflow, MCP |
+| **🧪 SDET** *(Test Engineering)* | Java, Python | JUnit, TestNG, Selenium, RestAssured, Postman/Newman | Maven/Gradle, Jenkins/GitHub Actions, Docker, Git |
+| **🛠 SDE (Software Development Engineer)** | Java, Python, SQL | Spring Boot, Microservices, REST APIs, Design Patterns | Docker, Kubernetes, Git, AWS/Azure/GCP, Redis, Kafka |
+| **🧮 DSA** | Java, C++ (concepts), Python | Arrays, Trees, Graphs, DP, Greedy, Backtracking, Tries | LeetCode, GeeksforGeeks, TakeUForward SDE Sheet |
+| **🏗 System Design** | Language-agnostic | LLD (SOLID, Design Patterns, UML) · HLD (Load Balancing, Caching, Sharding, Message Queues) | Draw.io, Apache Kafka, Redis, PostgreSQL, Docker, Kubernetes |
+
+</div>
+
+<details>
+<summary><b>📌 Click to expand — full stack breakdown by category</b></summary>
+
+<br>
 
 <p align="center"><b>Backend & Core</b></p>
 <p align="center">
@@ -85,7 +107,6 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask&theme=dark" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
@@ -103,23 +124,13 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,aws,azure,gcp,postman,linux,idea,vscode&theme=dark" />
 </p>
 
-<details>
-<summary><b>📌 Click to expand — full competency list</b></summary>
-<br>
-
+<p align="center"><b>Testing & Quality (SDET)</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LLD-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/HLD-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/System%20Architecture-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logo=docker&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=swagger&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Spring%20Security-0d1117?style=for-the-badge&logo=spring-security&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=A78BFA&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=A78BFA&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-EA2D2E?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/RestAssured-0d1117?style=flat-square&logo=java&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
 </details>
@@ -142,25 +153,30 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 
 ---
 
-## 🗂 Featured Projects
+## 🗂 Top 10 GitHub Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| 🛒 **Flipkart Clone** *(in progress)* | Spring Boot · MySQL · React | Full-scope e-commerce: catalog, cart, checkout, orders, auth, admin panel, payments, reviews, wishlist, search/filter |
-| 🚕 **Uber Clone** | Spring Boot · Microservices | 8-service microservices architecture with full docs — architecture diagrams, sequence diagrams, LLD patterns |
-| 💰 **Smart Expense & Budget Management** | Spring Boot · REST API | Monolithic flagship API with full documentation — architecture & sequence diagrams, LLD implementations |
-| 🧾 **Expense Management System** | Spring Boot · Spring Security · JPA/Hibernate · MySQL | JWT auth, DTO patterns, Bean Validation, global exception handling |
-| 👥 **Employee Management System** | Spring Boot · Spring Security · JPA/Hibernate · MySQL | JWT auth, DTO patterns, Bean Validation, global exception handling |
+| # | Project | Stack | What it does |
+|:-:|---|---|---|
+| 1 | 🧾 [**Smart-Expense-tracker**](https://github.com/Dhinesh-Developer/Smart-Expense-tracker) | Spring Boot · JPA/Hibernate · MySQL · JWT | Full-stack expense & budget tracker — category-based analytics, JWT auth, budget tracking |
+| 2 | 🚕 [**RideBookingApplication**](https://github.com/Dhinesh-Developer/RideBookingApplication) | Java · OOP · SOLID · Design Patterns | Uber-inspired ride booking system — ride management, driver assignment, fare calculation, payments |
+| 3 | 🏭 [**Predictive-Maintenance-RUL-Forecasting-Platform**](https://github.com/Dhinesh-Developer/Predictive-Maintenance-Remaining-Useful-Life-Forecasting-Platform) | Python · ML · FastAPI · Streamlit | AI-powered industrial predictive maintenance — anomaly detection & Remaining Useful Life (RUL) forecasting |
+| 4 | 📦 [**FastAPI-Inventory-Project**](https://github.com/Dhinesh-Developer/FastAPI-Inventory-Project) | Python · FastAPI | REST API for inventory management |
+| 5 | 🛒 **Flipkart Clone** *(in progress)* | Spring Boot · MySQL · React | Full-scope e-commerce: catalog, cart, checkout, orders, auth, admin panel, payments, reviews, wishlist, search/filter |
+| 6 | ☕ [**FULL_STACK_JAVA_CHALLENGE_DK**](https://github.com/Dhinesh-Developer/FULL_STACK_JAVA_CHALLENGE_DK) | Java | Full-stack Java challenge/practice build |
+| 7 | 🎯 [**Software-Development-Engineer-SDE-**](https://github.com/Dhinesh-Developer/Software-Development-Engineer-SDE-) | Java | SDE interview-prep implementations |
+| 8 | 📚 [**Scanerio_Based_Projects**](https://github.com/Dhinesh-Developer/Scanerio_Based_Projects) | Java | Scenario-based problem-solving practice repo |
+| 9 | 👟 **Nike Clone** | React · Tailwind CSS | E-commerce frontend clone |
+| 10 | 📱 **Mobile Prepaid Recharge Application** | Java | Console/app-based mobile recharge simulator |
 
 </div>
 
-<p align="center"><i>📌 Explore all repositories → <a href="https://github.com/Dhinesh-Developer?tab=repositories">github.com/Dhinesh-Developer</a></i></p>
+<p align="center"><i>📌 Full list of 117 repositories → <a href="https://github.com/Dhinesh-Developer?tab=repositories">github.com/Dhinesh-Developer</a></i></p>
 
 ---
 
-## 🧠 Coding Profiles & Analytics
+## 🧠 Coding Profiles & Badges
 
 <p align="center">
   <a href="https://leetcode.com/dhineshdeveloper_07"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
@@ -175,13 +191,17 @@ fun_fact: "1000+ DSA problems solved, 1.5+ year GitHub streak"
 
 <div align="center">
 
-| Platform | Problems Solved | Streak | Ranking |
+| Platform | Problems Solved | Streak | Ranking / Rating |
 |:--:|:--:|:--:|:--:|
 | **LeetCode** | 500+ | 365 Days | 1400+ Contest Rating |
 | **GeeksforGeeks** | 250+ | Consistent | Institute Rank #20 |
-| **Take U Forward** | 350+ | Active | SDE Sheet 80% |
+| **Take U Forward** | 350+ | Active | SDE Sheet 80% Complete |
 
 </div>
+
+<blockquote>
+📌 <b>On listing exact earned badges</b> (LeetCode's "Guardian"/"Knight"/monthly contest badges, TakeUForward's sheet-completion badges, etc.): these live behind each platform's logged-in profile UI and aren't exposed through a public API or scrapeable page, so they can't be pulled in automatically here. The cards above already render your live stats/rank via community widgets. If you tell me exactly which badge icons you've earned (e.g. "LeetCode 50 Days Badge 2025", "TUF+ Beginner Sheet Badge"), I can hardcode them into a dedicated badge row below.
+</blockquote>
 
 ---
 
