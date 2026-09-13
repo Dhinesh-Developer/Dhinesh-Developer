@@ -127,20 +127,14 @@ repositories: "117 public repos on GitHub"
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logo=llamaindex&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=chromadb&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge&logo=weaviate&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/AI_Agents-7B61FF?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Tool_Calling-FF4B4B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/MCP-5E5CE6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117" />
@@ -185,8 +179,50 @@ repositories: "117 public repos on GitHub"
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=0d1117" />
 
-  <!-- Containers -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🤖 AI Tools & Platforms
+
+<p align="center">
+
+  <!-- LLM Providers -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistral&logoColor=white&labelColor=0d1117" />
+
+  <!-- AI Coding & Agents -->
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+
+  <!-- Local AI -->
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Msty-111111?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white&labelColor=0d1117" />
+
+  <!-- AI Platforms -->
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+
+</p>
+
+### ⚡ Vibe Coding & AI Coding Tools
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=0d1117" />
+
 
 </p>
 
