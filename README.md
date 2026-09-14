@@ -42,7 +42,7 @@
 
 ```yaml
 name: "DhineshKumar M"
-role: "Aspiring Full Stack Java Developer · ML Engineer · AI Engineer"
+role: "Full Stack Java Developer · SDE  · AI Engineer · SDET · GenAI"
 education: "B.E. CSE, Knowledge Institute of Technology (KIOT) — Class of 2027"
 cgpa: "8.5"
 recognition: "CSE Hall of Fame @ KIOT · 1st Rank in 11th & 12th Grade"
