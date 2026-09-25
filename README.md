@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/Xz9R2YV/profile-final.png" alt="DhineshKumar M Profile" width="100%">
+  <img src="linkedin_banner_pro.png" width="110" />
 </p>
+
 
 <p align="center">
   <a href="#-about-me">About</a> ·
