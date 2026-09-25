@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="linkedin_banner_pro.png" width="110" />
+  <img src="linkedin_banner_pro.png" />
 </p>
 
 
