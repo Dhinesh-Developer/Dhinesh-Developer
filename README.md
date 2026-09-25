@@ -7,17 +7,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0d1117,40:7C3AED,100:06B6D4&text=DhineshKumar%20M&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=SDE%20%7C%20SDET%20%7C%20Full%20Stack%20Java%20Developer%20%7C%20AI%20/GENAI%20%7C%20DSA%20%7C%20System%20Design&descSize=16&descAlign=50&descAlignY=68&fontAlign=50&fontAlignY=35"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Full+Stack+Java+Developer+%40+Spring+Boot;Machine+Learning+Engineer+%7C+Data+Scientist;1000%2B+DSA+Problems+Solved+%7C+1400%2B+Contest+Rating;Building+Microservices+%2C+RAG+Pipelines+%26+AI+Agents;2000%2B+GitHub+Contributions;CSE+Hall+of+Fame+%40+KIOT"
-    alt="Typing Animation"
-  />
+  <img src="https://i.ibb.co/Xz9R2YV/profile-final.png" alt="DhineshKumar M Profile" width="100%">
 </p>
 
 <p align="center">
