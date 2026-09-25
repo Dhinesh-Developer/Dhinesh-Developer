@@ -29,7 +29,7 @@
 
 ---
 # Aboue Me
-```
+```yaml
 name: "DhineshKumar M"
 role: "Software Development Engineer (SDE) · SDET · Full Stack Java Developer"
 education: "B.E. Computer Science & Engineering, Knowledge Institute of Technology (KIOT) — Class of 2027"
