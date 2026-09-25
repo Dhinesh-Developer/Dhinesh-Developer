@@ -28,21 +28,29 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
-```yaml
-name: "DhineshKumar M"
-role: "Full Stack Java Developer · SDE  · AI/GENAI · SDET · GenAI"
-education: "B.E. CSE, Knowledge Institute of Technology (KIOT) — Class of 2027"
-cgpa: "8.5"
-recognition: "CSE Hall of Fame @ KIOT · 1st Rank in 11th & 12th Grade"
-scholarship: "Pursuing degree under 7.5% Government Scholarship quota"
-focus: ["Spring Boot Backends", "System Design (LLD/HLD)", "AI/ML & GenAI", "DSA"]
-currently_building: "Flipkart-style e-commerce platform (Spring Boot + MySQL + React)"
-repositories: "117 public repos on GitHub"
+# Aboue Me
 ```
-
+name: "DhineshKumar M"
+role: "Software Development Engineer (SDE) · SDET · Full Stack Java Developer"
+education: "B.E. Computer Science & Engineering, Knowledge Institute of Technology (KIOT) — Class of 2027"
+cgpa: "8.5"
+recognition: "CSE Hall of Fame @ KIOT · 1st Rank in 11th & 12th Grade (School Level)"[cite: 1]
+scholarship: "Merit Scholarship · Pursuing degree under 7.5% Government Scholarship quota"[cite: 1]
+focus:
+  - "Full Stack Java & Spring Boot Architectures"[cite: 1]
+  - "System Design (HLD & LLD), OOPs, AOP"[cite: 1]
+  - "Agentic AI, GenAI & Deep Agents"[cite: 1]
+  - "Data Structures & Algorithms (1500+ Solved)"[cite: 1]
+currently_building: "Hyper-Local P2P Rental Marketplace & Full-Stack Spring Boot Applications"
+portfolio_metrics:
+  problems_solved: "1500+ DSA"[cite: 1]
+  projects_developed: "60+"[cite: 1]
+  repositories: "175+ Public Repos"[cite: 1]
+profiles:
+  linkedin: "linkedin.com/in/dhinesh-developer"[cite: 1]
+  github: "github.com/Dhinesh-Developer"[cite: 1]
+  leetcode: "leetcode.com/u/dhineshdeveloper_07"[cite: 1]
+```
 > *"Knowledge is power."*
 
 <h3 align="center">🌐 Connect With Me</h3>
