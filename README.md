@@ -47,9 +47,9 @@ portfolio_metrics:
   projects_developed: "60+"[cite: 1]
   repositories: "175+ Public Repos"[cite: 1]
 profiles:
-  linkedin: "linkedin.com/in/dhinesh-developer"[cite: 1]
-  github: "github.com/Dhinesh-Developer"[cite: 1]
-  leetcode: "leetcode.com/u/dhineshdeveloper_07"[cite: 1]
+  linkedin: "linkedin.com/in/dhinesh-developer"
+  github: "github.com/Dhinesh-Developer"
+  leetcode: "leetcode.com/u/dhineshdeveloper_07"
 ```
 > *"Knowledge is power."*
 
