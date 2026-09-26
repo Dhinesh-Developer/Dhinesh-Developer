@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Developer&label=Profile%20Views&color=7C3AED&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Repositories-117-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Repositories-180+-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20SDE%20Roles-06B6D4?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" />
 </p>
 
